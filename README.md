@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=700&size=21&duration=2200&pause=600&color=00BFFF&center=true&vCenter=true&width=760&lines=%5B+SYSTEM+ONLINE+%5D+%E2%9A%A1;%5B+JARVIS+CORE+INITIALIZED+%5D+%F0%9F%A4%96;%5B+JAVA+DEVELOPER+%5D+%E2%98%95;%5B+AI+%7C+LINUX+%7C+SOFTWARE+ENGINEERING+%5D;%5B+BUILDING+THE+FUTURE+%5D+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=700&size=21&duration=2400&pause=700&color=00FFFF&center=true&vCenter=true&width=800&lines=%5B+SYSTEM+ONLINE+%5D+%E2%9A%A1;%5B+J.A.R.V.I.S+CORE+INITIALIZED+%5D+%F0%9F%A4%96;%5B+JAVA+DEVELOPER+%5D+%E2%98%95;%5B+SOFTWARE+ENGINEERING+MODE+%5D;%5B+BUILDING+THE+FUTURE...+%5D+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
@@ -253,11 +253,13 @@ I'm **Nikhil Arya Prajapati**, a Computer Science student focused on becoming a 
 <p align="center">
   <sub>◉ COMMUNICATION LINK ACTIVE • OPEN FOR COLLABORATION ◉</sub>
 </p>
-
 ---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFFF,50:0088FF,100:8A2BE2&height=3&section=header" width="85%"/>
+</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,35:0088FF,70:4B0082,100:050510&height=140&section=footer&text=SYSTEM%20ONLINE&fontSize=26&fontColor=00FFFF&animation=twinkling&fontAlignY=65"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,30:0088FF,65:4B0082,100:050510&height=150&section=footer&text=SYSTEM%20ONLINE&fontSize=27&fontColor=00FFFF&animation=twinkling&fontAlignY=65" width="100%"/>
 </p>
 
 <p align="center">
