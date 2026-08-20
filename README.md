@@ -74,6 +74,10 @@ I'm **Nikhil Arya Prajapati**, a Computer Science student focused on becoming a 
   <img src="./assets/system-core.svg" width="100%" alt="JARVIS Core Monitor"/>
 </p>
 
+<p align="center">
+  <img src="./assets/radar.svg" width="100%" alt="JARVIS Radar"/>
+</p>
+
 ## 🧠 TECH ARSENAL
 
 <p align="center">
@@ -86,7 +90,12 @@ I'm **Nikhil Arya Prajapati**, a Computer Science student focused on becoming a 
   <img src="https://img.shields.io/badge/AI-DEVELOPING-8A2BE2?style=for-the-badge&labelColor=050510"/>
   <img src="https://img.shields.io/badge/LINUX-LEARNING-00FFFF?style=for-the-badge&labelColor=050510"/>
 </p>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/CORE-JAVA-00FFFF?style=flat-square&labelColor=050510"/>
+  <img src="https://img.shields.io/badge/AI-NEURAL-8A2BE2?style=flat-square&labelColor=050510"/>
+  <img src="https://img.shields.io/badge/LINUX-SYSTEM-0088FF?style=flat-square&labelColor=050510"/>
+  <img src="https://img.shields.io/badge/GIT-VERSIONED-00FFFF?style=flat-square&labelColor=050510"/>
+</p>
 ---
 
 ## 🚀 PROJECT COMMAND CENTER
