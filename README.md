@@ -78,6 +78,54 @@ Hi! I'm **Nikhil Arya Prajapati**, a computer science student passionate about p
 
 ---
 
+## 📡 SYSTEM DIAGNOSTICS
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/JAVA_CORE-ONLINE-00ffff?style=for-the-badge&logo=openjdk&logoColor=00ffff&labelColor=050505"/>
+
+<img src="https://img.shields.io/badge/PYTHON_CORE-ACTIVE-00ffff?style=for-the-badge&logo=python&logoColor=00ffff&labelColor=050505"/>
+
+<img src="https://img.shields.io/badge/LINUX_CORE-LEARNING-00ffff?style=for-the-badge&logo=linux&logoColor=00ffff&labelColor=050505"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/GIT_CORE-ACTIVE-00ffff?style=for-the-badge&logo=git&logoColor=00ffff&labelColor=050505"/>
+
+<img src="https://img.shields.io/badge/AI_CORE-DEVELOPING-00ffff?style=for-the-badge&logo=robotframework&logoColor=00ffff&labelColor=050505"/>
+
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00ffff?style=for-the-badge&logo=github&logoColor=00ffff&labelColor=050505"/>
+
+</p>
+
+```text
+╔════════════════════════════════════════════════════════════╗
+║                    SYSTEM DIAGNOSTICS                     ║
+╠════════════════════════════════════════════════════════════╣
+║                                                            ║
+║  CORE STATUS                                               ║
+║  ────────────────────────────────────────────────────────  ║
+║  JAVA        ████████████████████░░  ONLINE               ║
+║  PYTHON      ████████████████░░░░░  ACTIVE               ║
+║  LINUX       ████████████░░░░░░░░░  LEARNING             ║
+║  AI          ██████████░░░░░░░░░░░  DEVELOPING           ║
+║                                                            ║
+║  ────────────────────────────────────────────────────────  ║
+║  SYSTEM MODE : LEARN / BUILD / DEPLOY                     ║
+║  SECURITY    : DEVELOPMENT MODE                           ║
+║  MISSION     : SOFTWARE ENGINEERING                       ║
+║  STATUS      : ● ONLINE                                   ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
+```
+
+<p align="center">
+  <sub>◉ CORE INITIALIZED • SYSTEM READY • BUILDING THE FUTURE ⚡</sub>
+</p>
+
+
 ## 🧠 CURRENT MISSION
 
 ```text
