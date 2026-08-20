@@ -20,11 +20,7 @@
   <img src="./assets/hud.svg" width="100%" alt="J.A.R.V.I.S HUD"/>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFFF,50:0088FF,100:8A2BE2&height=3&section=header" width="85%"/>
-</p>
-
-## 🛰️ J.A.R.V.I.S // SYSTEM CORE
+---
 
 ## 🛰️ J.A.R.V.I.S // SYSTEM CORE
 
@@ -42,89 +38,100 @@
   <img src="https://img.shields.io/badge/BUILD--MODE-ACTIVE-8A2BE2?style=for-the-badge&labelColor=050510"/>
 </p>
 
+---
 
 ## 👨‍💻 ABOUT // NIKHIL
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/IDENTITY-NIKHIL%20ARYA%20PRAJAPATI-00FFFF?style=for-the-badge&labelColor=050510"/>
-
-<img src="https://img.shields.io/badge/ROLE-JAVA%20DEVELOPER-0088FF?style=for-the-badge&labelColor=050510"/>
-
-<img src="https://img.shields.io/badge/MODE-BUILDING-8A2BE2?style=for-the-badge&labelColor=050510"/>
-
+  <img src="https://img.shields.io/badge/IDENTITY-NIKHIL%20ARYA%20PRAJAPATI-00FFFF?style=for-the-badge&labelColor=050510"/>
+  <img src="https://img.shields.io/badge/ROLE-JAVA%20DEVELOPER-0088FF?style=for-the-badge&labelColor=050510"/>
+  <img src="https://img.shields.io/badge/MODE-BUILDING-8A2BE2?style=for-the-badge&labelColor=050510"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:001f3f,100:4b0082&height=80&section=header&text=LEARN%20%E2%86%92%20BUILD%20%E2%86%92%20DEBUG%20%E2%86%92%20EVOLVE&fontSize=18&fontColor=00FFFF&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:001f3f,100:4b0082&height=75&section=header&text=LEARN%20%E2%86%92%20BUILD%20%E2%86%92%20DEBUG%20%E2%86%92%20EVOLVE&fontSize=17&fontColor=00FFFF&animation=fadeIn"/>
 </p>
 
-> 💻 Computer Science student building a strong foundation in **Java, Software Engineering, AI and Linux**.
-
-> ☕ **Java** → Core → OOP → Advanced  
-> 🤖 **AI** → JARVIS-style systems & automation  
-> 🐧 **Linux** → System & development environment  
-> 🧠 **Software Engineering** → SDLC & professional development  
-> 🚀 **Mission** → Become a professional software developer
-> 
-
-## 🧠 TECH ARSENAL // MODULES
+<p align="center">
+  <b>Computer Science Student • Software Developer in Progress • Builder</b>
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%E2%98%95_JAVA-CORE-00FFFF?style=for-the-badge&labelColor=050510"/>
-  <img src="https://img.shields.io/badge/%F0%9F%90%8D_PYTHON-ACTIVE-0088FF?style=for-the-badge&labelColor=050510"/>
-  <img src="https://img.shields.io/badge/%F0%9F%A4%96_AI-DEVELOPING-8A2BE2?style=for-the-badge&labelColor=050510"/>
+  Exploring <b>Java</b>, <b>Software Engineering</b>, <b>AI</b> and <b>Linux</b> while building practical projects and strengthening professional development skills.
+</p>
+
+<p align="center">
+
+☕ <b>JAVA</b> &nbsp; • &nbsp;
+🤖 <b>AI</b> &nbsp; • &nbsp;
+🐧 <b>LINUX</b> &nbsp; • &nbsp;
+🧠 <b>SOFTWARE ENGINEERING</b>
+
+</p>
+
+---
+
+## 🧠 TECH ARSENAL // CORE MODULES
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JAVA-CORE-00FFFF?style=for-the-badge&labelColor=050510"/>
+  <img src="https://img.shields.io/badge/PYTHON-ACTIVE-0088FF?style=for-the-badge&labelColor=050510"/>
+  <img src="https://img.shields.io/badge/AI-DEVELOPING-8A2BE2?style=for-the-badge&labelColor=050510"/>
+  <img src="https://img.shields.io/badge/LINUX-LEARNING-00FFFF?style=for-the-badge&labelColor=050510"/>
 </p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,html,css,git,github,linux,vscode,mysql&theme=dark" />
 </p>
 
-```text
-╔══════════════════════════════════════════════════════════╗
-║                 TECHNOLOGY MATRIX                       ║
-╠══════════════════════════════════════════════════════════╣
-║                                                          ║
-║  JAVA        ████████████████░░   CORE                   ║
-║  PYTHON      █████████████░░░░░   ACTIVE                 ║
-║  LINUX       ███████████░░░░░░░   LEARNING               ║
-║  GIT         ████████████░░░░░░   ACTIVE                 ║
-║  AI          ████████░░░░░░░░░░   DEVELOPING             ║
-║  SQL         ███████░░░░░░░░░░░   LEARNING               ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
+<p align="center">
+  <img src="https://img.shields.io/badge/PROGRAMMING-JAVA%20%7C%20PYTHON-00FFFF?style=flat-square&labelColor=050510"/>
+  <img src="https://img.shields.io/badge/WEB-HTML%20%7C%20CSS-0088FF?style=flat-square&labelColor=050510"/>
+  <img src="https://img.shields.io/badge/TOOLS-GIT%20%7C%20VSCODE-8A2BE2?style=flat-square&labelColor=050510"/>
+  <img src="https://img.shields.io/badge/DATABASE-MYSQL-00FFFF?style=flat-square&labelColor=050510"/>
+</p>
 
+<p align="center">
+  <sub>◉ TECHNOLOGY MATRIX INITIALIZED • MODULES EVOLVING ◉</sub>
+</p>
 
+---
 
 ## 🚀 PROJECT COMMAND CENTER
 
 <p align="center">
 
 <a href="https://github.com/nikhilaryaprajapati122/Java-Basic">
-<img src="https://img.shields.io/badge/%5B01%5D_JAVA--BASIC-00FFFF?style=for-the-badge&labelColor=050510"/>
+  <img src="https://img.shields.io/badge/%5B01%5D_JAVA--BASIC-00FFFF?style=for-the-badge&labelColor=050510"/>
 </a>
 
 <a href="https://github.com/nikhilaryaprajapati122/python-practice">
-<img src="https://img.shields.io/badge/%5B02%5D_PYTHON--PRACTICE-0088FF?style=for-the-badge&labelColor=050510"/>
+  <img src="https://img.shields.io/badge/%5B02%5D_PYTHON--PRACTICE-0088FF?style=for-the-badge&labelColor=050510"/>
 </a>
 
 </p>
 
-```text
-┌──────────────────────────────────────────────────────────┐
-│              PROJECT COMMAND CENTER                      │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│  [01] JAVA-BASIC                                         │
-│      CORE : Java / OOP                                   │
-│      STATUS : ● ACTIVE                                   │
-│                                                          │
-│  [02] PYTHON-PRACTICE                                    │
-│      CORE : Python                                       │
-│      STATUS : ● ACTIVE                                   │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
+<p align="center">
+  <img src="https://img.shields.io/badge/JAVA--BASIC-CORE%20%7C%20OOP%20%7C%20PRACTICE-00FFFF?style=for-the-badge&labelColor=050510"/>
+</p>
 
+<p align="center">
+  <sub>☕ JAVA CORE MODULE • FUNDAMENTALS → OOP → ADVANCED</sub>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PYTHON--PRACTICE-CODING%20%7C%20MINI%20PROJECTS-0088FF?style=for-the-badge&labelColor=050510"/>
+</p>
+
+<p align="center">
+  <sub>🐍 PYTHON MODULE • PRACTICE → BUILD → AUTOMATE</sub>
+</p>
+
+<p align="center">
+  <b>⚡ PROJECTS ARE ACTIVE DEVELOPMENT MODULES ⚡</b>
+</p>
+
+---
 
 ## 💻 TERMINAL // NIKHIL-CORE
 
@@ -133,9 +140,10 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFFF,50:0088FF,100:8A2BE2&height=3&section=header" width="85%"/>
+  <sub>◉ TERMINAL LINK ACTIVE • CORE PROCESS RUNNING ◉</sub>
 </p>
 
+---
 
 ## 📊 GITHUB // LIVE DATA
 
@@ -145,9 +153,10 @@
 </p>
 
 <p align="center">
-  <sub>◉ LIVE GITHUB DATA STREAM ◉</sub>
+  <sub>◉ GITHUB DATA STREAM • REAL-TIME PROFILE ANALYTICS ◉</sub>
 </p>
 
+---
 
 ## 🏆 ACHIEVEMENT MATRIX // DATABASE
 
@@ -159,6 +168,7 @@
   <img src="https://img.shields.io/badge/ACHIEVEMENT--DATABASE-ACTIVE-00FFFF?style=for-the-badge&labelColor=050510"/>
 </p>
 
+---
 
 ## 🔥 CONTRIBUTION // STREAK
 
@@ -168,72 +178,100 @@
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFFF,50:0088FF,100:8A2BE2&height=3&section=header" width="85%"/>
-</p>
-## 📈 CONTRIBUTION ACTIVITY
+## 📈 CONTRIBUTION // ACTIVITY
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilaryaprajapati122&bg_color=050510&color=00FFFF&line=0088FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 </p>
 
+<p align="center">
+  <sub>◉ CONTRIBUTION NETWORK • DEVELOPMENT ACTIVITY ◉</sub>
+</p>
+
 ---
 
-## 🐍 CONTRIBUTION SNAKE
+## 🐍 CONTRIBUTION // SNAKE
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CONTRIBUTION-SNAKE-00FFFF?style=for-the-badge&labelColor=050510"/>
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 </p>
+
 ---
 
 ## 🎯 2026 // MISSION CONTROL
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JAVA-CORE%20→%20ADVANCED-00FFFF?style=for-the-badge&labelColor=050510"/>
+  <img src="https://img.shields.io/badge/JAVA-CORE%20%E2%86%92%20ADVANCED-00FFFF?style=for-the-badge&labelColor=050510"/>
   <img src="https://img.shields.io/badge/DSA-TRAINING-0088FF?style=for-the-badge&labelColor=050510"/>
   <img src="https://img.shields.io/badge/AI-DEVELOPMENT-8A2BE2?style=for-the-badge&labelColor=050510"/>
 </p>
 
-```text
-╔════════════════════════════════════════════════════════════╗
-║                 2026 MISSION CONTROL                      ║
-╠════════════════════════════════════════════════════════════╣
-║                                                            ║
-║  [✓] JAVA FUNDAMENTALS                                    ║
-║  [✓] OOP + OPERATORS + CONTROL FLOW                       ║
-║  [ ] ADVANCED JAVA                                        ║
-║  [ ] DATA STRUCTURES & ALGORITHMS                         ║
-║  [ ] PROFESSIONAL JAVA PROJECTS                           ║
-║  [ ] ADVANCED AI ASSISTANT                                ║
-║  [ ] OPEN SOURCE CONTRIBUTION                             ║
-║                                                            ║
-║  PRIMARY OBJECTIVE : PROFESSIONAL SOFTWARE ENGINEER       ║
-║  SYSTEM MODE        : LEARN → BUILD → MASTER             ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
+<p align="center">
+  <b>MISSION OBJECTIVES</b>
+</p>
+
+<p align="center">
+
+✅ Java Fundamentals  
+&nbsp;&nbsp;•&nbsp;&nbsp;
+✅ OOP & Control Flow  
+&nbsp;&nbsp;•&nbsp;&nbsp;
+⬜ Advanced Java  
+
+</p>
+
+<p align="center">
+
+⬜ Data Structures & Algorithms  
+&nbsp;&nbsp;•&nbsp;&nbsp;
+⬜ Professional Java Projects  
+&nbsp;&nbsp;•&nbsp;&nbsp;
+⬜ Advanced AI Assistant  
+
+</p>
+
+<p align="center">
+
+⬜ Open Source Contribution  
+&nbsp;&nbsp;•&nbsp;&nbsp;
+⬜ Professional Software Engineering
+
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PRIMARY%20OBJECTIVE-PROFESSIONAL%20SOFTWARE%20ENGINEER-00FFFF?style=for-the-badge&labelColor=050510"/>
+</p>
+
+<p align="center">
+  <sub>LEARN → BUILD → DEBUG → IMPROVE → MASTER</sub>
+</p>
+
+---
 
 ## 📡 CONTACT // COMMAND CENTER
 
 <p align="center">
 
 <a href="https://github.com/nikhilaryaprajapati122">
-<img src="https://img.shields.io/badge/GITHUB-ONLINE-00FFFF?style=for-the-badge&logo=github&logoColor=00FFFF&labelColor=050510"/>
+  <img src="https://img.shields.io/badge/GITHUB-ONLINE-00FFFF?style=for-the-badge&logo=github&logoColor=00FFFF&labelColor=050510"/>
 </a>
-</p>
-<p align="center">
-
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20COLLABORATION-00FFFF?style=for-the-badge&labelColor=050510"/>
-<img src="https://img.shields.io/badge/MODE-DEVELOPMENT-8A2BE2?style=for-the-badge&labelColor=050510"/>
 
 </p>
 
 <p align="center">
-  <sub>◉ COMMUNICATION LINK ACTIVE • OPEN FOR COLLABORATION ◉</sub>
+  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20COLLABORATION-00FFFF?style=for-the-badge&labelColor=050510"/>
+  <img src="https://img.shields.io/badge/MODE-DEVELOPMENT-8A2BE2?style=for-the-badge&labelColor=050510"/>
 </p>
+
+<p align="center">
+  <sub>◉ COMMUNICATION LINK ACTIVE • BUILDING WITH PURPOSE ◉</sub>
+</p>
+
 ---
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFFF,50:0088FF,100:8A2BE2&height=3&section=header" width="85%"/>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,30:0088FF,65:4B0082,100:050510&height=150&section=footer&text=SYSTEM%20ONLINE&fontSize=27&fontColor=00FFFF&animation=twinkling&fontAlignY=65" width="100%"/>
