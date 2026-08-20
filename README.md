@@ -40,6 +40,31 @@ Hi! I'm **Nikhil Arya Prajapati**, a computer science student passionate about p
 
 ---
 
+
+## 🧬 J.A.R.V.I.S CORE
+
+```text
+╔══════════════════════════════════════╗
+║        J.A.R.V.I.S CORE ONLINE       ║
+╠══════════════════════════════════════╣
+║ JAVA CORE      ██████████  ONLINE    ║
+║ PYTHON CORE    ████████░░  ACTIVE    ║
+║ LINUX CORE     ██████░░░░  LEARNING  ║
+║ AI CORE        █████░░░░░  DEVELOP   ║
+║ GIT CORE       ███████░░░  ACTIVE    ║
+╚══════════════════════════════════════╝
+```
+
+## 🚀 ACTIVE REPOSITORIES
+
+| Project | Mission |
+|---|---|
+| ☕ **Java-Basic** | Java fundamentals & OOP |
+| 🐍 **python-practice** | Python practice & mini programs |
+| 🤖 **Profile HUD** | This futuristic GitHub profile |
+
+> **Mission:** Learn → Build → Share → Repeat ⚡
+
 ## ⚡ TECH ARSENAL
 
 <p align="center">
