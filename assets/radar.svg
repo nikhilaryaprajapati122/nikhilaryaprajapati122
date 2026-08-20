@@ -1,0 +1,130 @@
+<svg width="900" height="190" viewBox="0 0 900 190"
+xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+  <radialGradient id="core">
+    <stop offset="0%" stop-color="#00ffff" stop-opacity=".9"/>
+    <stop offset="40%" stop-color="#0088ff" stop-opacity=".35"/>
+    <stop offset="100%" stop-color="#050510" stop-opacity="0"/>
+  </radialGradient>
+
+  <linearGradient id="scan">
+    <stop offset="0%" stop-color="#00ffff" stop-opacity="0"/>
+    <stop offset="50%" stop-color="#00ffff"/>
+    <stop offset="100%" stop-color="#8a2be2" stop-opacity="0"/>
+  </linearGradient>
+
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="3" result="b"/>
+    <feMerge>
+      <feMergeNode in="b"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+</defs>
+
+<rect width="900" height="190" rx="14"
+fill="#050510"
+stroke="#0088ff"
+stroke-width="2"/>
+
+<!-- Radar -->
+<circle cx="450" cy="95" r="72"
+fill="url(#core)"
+stroke="#00ffff"
+stroke-opacity=".5"/>
+
+<circle cx="450" cy="95" r="55"
+fill="none"
+stroke="#00ffff"
+stroke-opacity=".35"/>
+
+<circle cx="450" cy="95" r="35"
+fill="none"
+stroke="#0088ff"
+stroke-opacity=".5"/>
+
+<!-- Crosshair -->
+<g stroke="#00ffff" stroke-opacity=".4">
+  <line x1="365" y1="95" x2="535" y2="95"/>
+  <line x1="450" y1="10" x2="450" y2="180"/>
+</g>
+
+<!-- Rotating scanner -->
+<line x1="450" y1="95" x2="450" y2="25"
+stroke="url(#scan)"
+stroke-width="3"
+transform-origin="450 95">
+<animateTransform
+attributeName="transform"
+type="rotate"
+from="0 450 95"
+to="360 450 95"
+dur="4s"
+repeatCount="indefinite"/>
+</line>
+
+<!-- Target -->
+<circle cx="480" cy="65" r="5"
+fill="#8a2be2"
+filter="url(#glow)">
+<animate attributeName="opacity"
+values="1;.2;1"
+dur="1.5s"
+repeatCount="indefinite"/>
+</circle>
+
+<!-- Labels -->
+<g font-family="monospace">
+
+<text x="30" y="45"
+font-size="14"
+fill="#00ffff">
+J.A.R.V.I.S // RADAR
+</text>
+
+<text x="30" y="72"
+font-size="11"
+fill="#0088ff">
+SCANNING ENVIRONMENT
+</text>
+
+<text x="30" y="100"
+font-size="11"
+fill="#ffffff">
+TARGETS : 01
+</text>
+
+<text x="30" y="125"
+font-size="11"
+fill="#8a2be2">
+SIGNAL : STABLE
+</text>
+
+<text x="30" y="150"
+font-size="10"
+fill="#00ffff">
+SCAN MODE : ACTIVE
+</text>
+
+<text x="700" y="45"
+font-size="12"
+fill="#00ffff">
+CORE RADAR
+</text>
+
+<text x="700" y="70"
+font-size="10"
+fill="#ffffff">
+LINK : ONLINE
+</text>
+
+<text x="700" y="95"
+font-size="10"
+fill="#0088ff">
+SCAN : ACTIVE
+</text>
+
+</g>
+
+</svg>
