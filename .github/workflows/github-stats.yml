@@ -1,0 +1,20 @@
+name: Update GitHub Stats
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub stats
+        run: |
+          echo "GitHub Stats workflow initialized"
+          mkdir -p assets
