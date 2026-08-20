@@ -26,6 +26,8 @@
 
 ## 🛰️ J.A.R.V.I.S // SYSTEM CORE
 
+## 🛰️ J.A.R.V.I.S // SYSTEM CORE
+
 <p align="center">
   <img src="./assets/system-core.svg" width="100%" alt="JARVIS System Core"/>
 </p>
@@ -40,10 +42,6 @@
   <img src="https://img.shields.io/badge/BUILD--MODE-ACTIVE-8A2BE2?style=for-the-badge&labelColor=050510"/>
 </p>
 
----
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFFF,50:0088FF,100:8A2BE2&height=3&section=header" width="85%"/>
-</p>
 
 ## 👨‍💻 ABOUT // NIKHIL
 
