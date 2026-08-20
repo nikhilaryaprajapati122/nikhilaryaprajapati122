@@ -29,47 +29,53 @@
 </p>
 
 <p align="center">
-  <img src="./assets/radar.svg" width="100%" alt="JARVIS Radar"/>
+  <img src="./assets/radar.svg" width="92%" alt="JARVIS Radar"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CORE-ONLINE-00FFFF?style=for-the-badge&labelColor=050510"/>
-  <img src="https://img.shields.io/badge/NEURAL--LINK-ACTIVE-0088FF?style=for-the-badge&labelColor=050510"/>
-  <img src="https://img.shields.io/badge/BUILD--MODE-ACTIVE-8A2BE2?style=for-the-badge&labelColor=050510"/>
+  <img src="https://img.shields.io/badge/◉_CORE-ONLINE-00FFFF?style=for-the-badge&labelColor=050510"/>
+  <img src="https://img.shields.io/badge/◉_NEURAL--LINK-ACTIVE-0088FF?style=for-the-badge&labelColor=050510"/>
+  <img src="https://img.shields.io/badge/◉_AI--ENGINE-DEVELOPING-8A2BE2?style=for-the-badge&labelColor=050510"/>
 </p>
 
----
+<p align="center">
+  <sub>J.A.R.V.I.S CORE INITIALIZED • SYSTEM READY • DEVELOPMENT MODE</sub>
+</p>
+
 
 ## 👨‍💻 ABOUT // NIKHIL
 
 <p align="center">
   <img src="https://img.shields.io/badge/IDENTITY-NIKHIL%20ARYA%20PRAJAPATI-00FFFF?style=for-the-badge&labelColor=050510"/>
   <img src="https://img.shields.io/badge/ROLE-JAVA%20DEVELOPER-0088FF?style=for-the-badge&labelColor=050510"/>
-  <img src="https://img.shields.io/badge/MODE-BUILDING-8A2BE2?style=for-the-badge&labelColor=050510"/>
+  <img src="https://img.shields.io/badge/STATUS-BUILDING-8A2BE2?style=for-the-badge&labelColor=050510"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:001f3f,100:4b0082&height=75&section=header&text=LEARN%20%E2%86%92%20BUILD%20%E2%86%92%20DEBUG%20%E2%86%92%20EVOLVE&fontSize=17&fontColor=00FFFF&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,25:001f3f,55:0088ff,100:4b0082&height=80&section=header&text=LEARN%20%E2%86%92%20BUILD%20%E2%86%92%20DEBUG%20%E2%86%92%20EVOLVE&fontSize=18&fontColor=00FFFF&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <b>Computer Science Student • Software Developer in Progress • Builder</b>
+  <b>Computer Science Student • Java Developer in Progress • Future Software Engineer</b>
 </p>
 
 <p align="center">
-  Exploring <b>Java</b>, <b>Software Engineering</b>, <b>AI</b> and <b>Linux</b> while building practical projects and strengthening professional development skills.
+  I am building my foundation in <b>Java</b>, <b>Software Engineering</b>,
+  <b>AI</b> and <b>Linux</b> through continuous learning and practical projects.
 </p>
 
 <p align="center">
 
-☕ <b>JAVA</b> &nbsp; • &nbsp;
-🤖 <b>AI</b> &nbsp; • &nbsp;
-🐧 <b>LINUX</b> &nbsp; • &nbsp;
-🧠 <b>SOFTWARE ENGINEERING</b>
+☕ JAVA &nbsp; • &nbsp;
+🤖 AI &nbsp; • &nbsp;
+🐧 LINUX &nbsp; • &nbsp;
+🧠 SOFTWARE ENGINEERING
 
 </p>
 
----
+<p align="center">
+  <sub>◉ PROFILE CORE • HUMAN INTERFACE • DEVELOPER MODE ◉</sub>
+</p>
 
 ## 🧠 TECH ARSENAL // CORE MODULES
 
@@ -95,7 +101,12 @@
   <sub>◉ TECHNOLOGY MATRIX INITIALIZED • MODULES EVOLVING ◉</sub>
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/☕_JAVA-CORE-00FFFF?style=for-the-badge&labelColor=050510"/>
+  <img src="https://img.shields.io/badge/🐍_PYTHON-ACTIVE-0088FF?style=for-the-badge&labelColor=050510"/>
+  <img src="https://img.shields.io/badge/🐧_LINUX-LEARNING-8A2BE2?style=for-the-badge&labelColor=050510"/>
+  <img src="https://img.shields.io/badge/🤖_AI-DEVELOPING-00FFFF?style=for-the-badge&labelColor=050510"/>
+</p>
 
 ## 🚀 PROJECT COMMAND CENTER
 
