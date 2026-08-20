@@ -16,6 +16,10 @@
 
 ---
 
+<p align="center">
+  <img src="./assets/hud.svg" width="100%" alt="J.A.R.V.I.S HUD"/>
+</p>
+
 ## 🛰️ J.A.R.V.I.S // SYSTEM CORE
 
 <p align="center">
