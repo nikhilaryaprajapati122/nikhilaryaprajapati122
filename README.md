@@ -99,10 +99,11 @@ Hi! I'm **Nikhil Arya Prajapati**, a computer science student passionate about p
 
 ## 🔥 CONTRIBUTION STREAK
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nikhilaryaprajapati122&theme=tokyonight&hide_border=true&background=00000000&ring=00ffff&fire=00ffff&currStreakLabel=00ffff" />
-</p>
+## 🔥 CONTRIBUTION // STREAK
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nikhilaryaprajapati122&theme=tokyonight&hide_border=true&background=050510&ring=00FFFF&fire=0088FF&currStreakLabel=00FFFF&sideLabels=8A2BE2" width="80%"/>
+</p>
 ---
 
 ## 🚀 PROJECT COMMAND CENTER
@@ -171,13 +172,20 @@ MISSION: SOFTWARE ENGINEERING
 
 ## 📡 CONTACT // COMMAND CENTER
 
+## 📡 CONTACT // COMMAND CENTER
+
 <p align="center">
 
 <a href="https://github.com/nikhilaryaprajapati122">
-<img src="https://img.shields.io/badge/GITHUB-00FFFF?style=for-the-badge&logo=github&logoColor=00FFFF&labelColor=050510"/>
+<img src="https://img.shields.io/badge/GITHUB-ONLINE-00FFFF?style=for-the-badge&logo=github&logoColor=00FFFF&labelColor=050510"/>
 </a>
 
 </p>
+
+<p align="center">
+  <sub>◉ COMMUNICATION LINK ACTIVE • OPEN FOR COLLABORATION ◉</sub>
+</p>
+
 
 ```text
 ╔════════════════════════════════════════════════════════════╗
@@ -221,12 +229,9 @@ MISSION: SOFTWARE ENGINEERING
 </p>
 
 <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001f3f,100:00ffff&height=140&section=footer&text=SYSTEM%20ONLINE&fontSize=25&fontColor=00ffff&animation=twinkling"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,35:0088FF,70:4B0082,100:050510&height=140&section=footer&text=SYSTEM%20ONLINE&fontSize=26&fontColor=00FFFF&animation=twinkling&fontAlignY=65"/>
 </p>
 
 <p align="center">
-  <b>⚡ KEEP BUILDING. KEEP LEARNING. KEEP EVOLVING. ⚡</b>
+  <b>⚡ KEEP BUILDING • KEEP LEARNING • KEEP EVOLVING ⚡</b>
 </p>
-
