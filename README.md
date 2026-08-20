@@ -16,80 +16,19 @@
 
 ---
 
-## 🛰️ J.A.R.V.I.S // SYSTEM CORE
-
-<p align="center">
-  <img src="https://img.shields.io/badge/◉_JARVIS_CORE-ONLINE-00FFFF?style=for-the-badge&labelColor=050510"/>
-  <img src="https://img.shields.io/badge/◉_NEURAL_LINK-ACTIVE-0088FF?style=for-the-badge&labelColor=050510"/>
-  <img src="https://img.shields.io/badge/◉_SYSTEM-READY-8A2BE2?style=for-the-badge&labelColor=050510"/>
-</p>
-
-```text
-╔════════════════════════════════════════════════════════════╗
-║                 ◉ J.A.R.V.I.S SYSTEM CORE                ║
-╠════════════════════════════════════════════════════════════╣
-║                                                            ║
-║  SYSTEM STATUS     : ● ONLINE                             ║
-║  CORE VERSION      : JARVIS // 2026                       ║
-║  PRIMARY ROLE      : JAVA DEVELOPER                       ║
-║  MAIN OBJECTIVE    : SOFTWARE ENGINEERING                 ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║                                                            ║
-║  JAVA CORE         : ████████████████░░░░  ONLINE         ║
-║  PYTHON CORE       : █████████████░░░░░░░  ACTIVE         ║
-║  LINUX CORE        : ███████████░░░░░░░░░  LEARNING       ║
-║  AI CORE           : ████████░░░░░░░░░░░  DEVELOPING     ║
-║  GIT CORE          : ████████████░░░░░░░  ACTIVE         ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║                                                            ║
-║  SECURITY MODE     : DEVELOPMENT                          ║
-║  NETWORK MODE      : CONNECTED                            ║
-║  BUILD MODE        : ACTIVE                               ║
-║  LEARNING MODE     : ENABLED                              ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/⚡_JAVA_CORE-ONLINE-00FFFF?style=flat-square&labelColor=050510"/>
-<img src="https://img.shields.io/badge/🔵_AI_CORE-ACTIVE-0088FF?style=flat-square&labelColor=050510"/>
-<img src="https://img.shields.io/badge/🟣_LINUX_CORE-LEARNING-8A2BE2?style=flat-square&labelColor=050510"/>
-<img src="https://img.shields.io/badge/◉_GIT_CORE-ACTIVE-00FFFF?style=flat-square&labelColor=050510"/>
-
-</p>
 
 ## 👨‍💻 ABOUT ME
 
 Hi! I'm **Nikhil Arya Prajapati**, a computer science student passionate about programming, software engineering, Linux and AI.
 
-* ☕ Learning **Java** from fundamentals to advanced concepts
-* 🧠 Exploring **Software Engineering & SDLC**
-* 🤖 Building my own **AI / JARVIS-style projects**
-* 🐧 Learning **Linux**
-* 💻 Working with **VS Code**
-* 🚀 Goal: Become a professional software developer
+- ☕ **Java** — Core → Advanced
+- 🧠 **Software Engineering & SDLC**
+- 🤖 **AI / JARVIS Projects**
+- 🐧 **Linux & Development Environment**
+- 🐍 **Python Programming**
+- 🚀 **Building → Learning → Improving**
 
----
 
-<p align="center">
-  <img src="./assets/hud.svg" width="100%" alt="JARVIS HUD"/>
-</p>
-
-## 🧬 J.A.R.V.I.S CORE
-
-```text
-╔══════════════════════════════════════╗
-║        J.A.R.V.I.S CORE ONLINE       ║
-╠══════════════════════════════════════╣
-║ JAVA CORE      ██████████  ONLINE    ║
-║ PYTHON CORE    ████████░░  ACTIVE    ║
-║ LINUX CORE     ██████░░░░  LEARNING  ║
-║ AI CORE        █████░░░░░  DEVELOP   ║
-║ GIT CORE       ███████░░░  ACTIVE    ║
-╚══════════════════════════════════════╝
-```
 
 ## 🚀 ACTIVE REPOSITORIES
 
@@ -111,79 +50,18 @@ Hi! I'm **Nikhil Arya Prajapati**, a computer science student passionate about p
 
 ---
 
-## 🧠 SKILL MATRIX // TECH ARSENAL
+
+## 🧠 TECH ARSENAL
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,html,css,git,github,linux,vscode,mysql&theme=dark" />
 </p>
 
-```text id="g8m2ks"
-╔════════════════════════════════════════════════════════════╗
-║                    SKILL MATRIX                           ║
-╠════════════════════════════════════════════════════════════╣
-║                                                            ║
-║  ☕ JAVA              ████████████████░░░░   80%           ║
-║  🐍 PYTHON            █████████████░░░░░░   65%           ║
-║  🐧 LINUX             ███████████░░░░░░░░   55%           ║
-║  🌐 HTML/CSS          ██████████░░░░░░░░░   50%           ║
-║  🔧 GIT/GITHUB        ███████████░░░░░░░░   55%           ║
-║  🗄️ SQL               ███████░░░░░░░░░░░░   35%           ║
-║  🤖 AI                ██████░░░░░░░░░░░░░   30%           ║
-║                                                            ║
-║  SYSTEM LEVEL : LEARNING → BUILDING → MASTERING           ║
-╚════════════════════════════════════════════════════════════╝
-```
-
 <p align="center">
-  <sub>⚡ SKILLS ARE CONSTANTLY EVOLVING ⚡</sub>
-</p>
-
-
-## 📡 SYSTEM DIAGNOSTICS
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/JAVA_CORE-ONLINE-00ffff?style=for-the-badge&logo=openjdk&logoColor=00ffff&labelColor=050505"/>
-
-<img src="https://img.shields.io/badge/PYTHON_CORE-ACTIVE-00ffff?style=for-the-badge&logo=python&logoColor=00ffff&labelColor=050505"/>
-
-<img src="https://img.shields.io/badge/LINUX_CORE-LEARNING-00ffff?style=for-the-badge&logo=linux&logoColor=00ffff&labelColor=050505"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/GIT_CORE-ACTIVE-00ffff?style=for-the-badge&logo=git&logoColor=00ffff&labelColor=050505"/>
-
-<img src="https://img.shields.io/badge/AI_CORE-DEVELOPING-00ffff?style=for-the-badge&logo=robotframework&logoColor=00ffff&labelColor=050505"/>
-
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00ffff?style=for-the-badge&logo=github&logoColor=00ffff&labelColor=050505"/>
-
-</p>
-
-```text
-╔════════════════════════════════════════════════════════════╗
-║                    SYSTEM DIAGNOSTICS                     ║
-╠════════════════════════════════════════════════════════════╣
-║                                                            ║
-║  CORE STATUS                                               ║
-║  ────────────────────────────────────────────────────────  ║
-║  JAVA        ████████████████████░░  ONLINE               ║
-║  PYTHON      ████████████████░░░░░  ACTIVE               ║
-║  LINUX       ████████████░░░░░░░░░  LEARNING             ║
-║  AI          ██████████░░░░░░░░░░░  DEVELOPING           ║
-║                                                            ║
-║  ────────────────────────────────────────────────────────  ║
-║  SYSTEM MODE : LEARN / BUILD / DEPLOY                     ║
-║  SECURITY    : DEVELOPMENT MODE                           ║
-║  MISSION     : SOFTWARE ENGINEERING                       ║
-║  STATUS      : ● ONLINE                                   ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
-```
-
-<p align="center">
-  <sub>◉ CORE INITIALIZED • SYSTEM READY • BUILDING THE FUTURE ⚡</sub>
+  <img src="https://img.shields.io/badge/JAVA-CORE-00FFFF?style=for-the-badge&labelColor=050510"/>
+  <img src="https://img.shields.io/badge/PYTHON-ACTIVE-0088FF?style=for-the-badge&labelColor=050510"/>
+  <img src="https://img.shields.io/badge/AI-DEVELOPING-8A2BE2?style=for-the-badge&labelColor=050510"/>
+  <img src="https://img.shields.io/badge/LINUX-LEARNING-00FFFF?style=for-the-badge&labelColor=050510"/>
 </p>
 
 
@@ -235,104 +113,44 @@ Hi! I'm **Nikhil Arya Prajapati**, a computer science student passionate about p
 <p align="center">
 
 <a href="https://github.com/nikhilaryaprajapati122/Java-Basic">
-<img src="https://img.shields.io/badge/☕_JAVA--BASIC-00ffff?style=for-the-badge&labelColor=050505" />
+<img src="https://img.shields.io/badge/☕_JAVA--BASIC-00FFFF?style=for-the-badge&labelColor=050510"/>
 </a>
 
 <a href="https://github.com/nikhilaryaprajapati122/python-practice">
-<img src="https://img.shields.io/badge/🐍_PYTHON--PRACTICE-00ffff?style=for-the-badge&labelColor=050505" />
+<img src="https://img.shields.io/badge/🐍_PYTHON--PRACTICE-0088FF?style=for-the-badge&labelColor=050510"/>
 </a>
 
 </p>
 
-```text id="r7e5kp"
-╔════════════════════════════════════════════════════════════╗
-║                 PROJECT COMMAND CENTER                    ║
-╠════════════════════════════════════════════════════════════╣
-║                                                            ║
-║  [01] JAVA-BASIC                                          ║
-║      ├─ Language   : Java ☕                               ║
-║      ├─ Mission    : Java Fundamentals                    ║
-║      └─ Status     : ████████████████░░  ACTIVE           ║
-║                                                            ║
-║  [02] PYTHON-PRACTICE                                     ║
-║      ├─ Language   : Python 🐍                            ║
-║      ├─ Mission    : Programming Practice                 ║
-║      └─ Status     : ██████████████░░░░  ACTIVE           ║
-║                                                            ║
-╠════════════════════════════════════════════════════════════╣
-║  SELECT PROJECT → CLICK THE NEON COMMAND BUTTON           ║
-╚════════════════════════════════════════════════════════════╝
-```
+| Project | Focus |
+|---|---|
+| ☕ **Java-Basic** | Java fundamentals & OOP |
+| 🐍 **python-practice** | Python programming practice |
 
 <p align="center">
-  <a href="https://github.com/nikhilaryaprajapati122/Java-Basic">
-    <img src="https://img.shields.io/badge/OPEN_JAVA_CORE-→-00ffff?style=for-the-badge&labelColor=050505"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/nikhilaryaprajapati122/python-practice">
-    <img src="https://img.shields.io/badge/OPEN_PYTHON_CORE-→-00ffff?style=for-the-badge&labelColor=050505"/>
-  </a>
-</p>
-
-<p align="center">
-  <sub>⚡ PROJECTS ARE ACTIVE SYSTEM MODULES ⚡</sub>
+  <sub>⚡ ACTIVE DEVELOPMENT MODULES ⚡</sub>
 </p>
 
 ---
 
-## 💻 TERMINAL // COMMAND CENTER
 
-```text id="z6f7qp"
-┌──(nikhil㉿github)-[~/core]
-└─$ systemctl status nikhil-core
-
-● nikhil-core.service
-   Loaded: ACTIVE
-   Status: ONLINE
-
-┌──(nikhil㉿github)-[~/core]
-└─$ scan --modules
-
-[✓] JAVA CORE
-[✓] PYTHON CORE
-[✓] LINUX CORE
-[✓] GIT CORE
-[✓] AI CORE
-
-┌──(nikhil㉿github)-[~/core]
-└─$ mission --current
-
-> MASTER SOFTWARE ENGINEERING
-> BUILD PROFESSIONAL PROJECTS
-> DEVELOP AI SYSTEMS
-
-STATUS: ███████████████████░░ ACTIVE
-```
-
-
-## 💻 TERMINAL
+## 💻 TERMINAL // NIKHIL-CORE
 
 ```bash
 ┌──(nikhil㉿github)-[~/future]
-└─$ whoami
-
-Nikhil Arya Prajapati
-
-┌──(nikhil㉿github)-[~/future]
 └─$ ./mission.sh
 
-> Learn
-> Build
-> Break
-> Debug
-> Improve
-> Repeat
+[✓] Learn
+[✓] Build
+[✓] Debug
+[✓] Improve
+[✓] Repeat
 
-SYSTEM MESSAGE:
-"Code the future. Don't just imagine it." ⚡
-```
+SYSTEM STATUS: ONLINE ⚡
+MISSION: SOFTWARE ENGINEERING
 
----
+<p align="center"> <sub>◉ TERMINAL LINK ESTABLISHED ◉</sub> </p> ```
+
 
 ## 🎯 2026 MISSION OBJECTIVES
 
@@ -376,7 +194,7 @@ SYSTEM MESSAGE:
 ║                                                            ║
 ╚════════════════════════════════════════════════════════════╝
 
-## 📈 CONTRIBUTION MATRIX
+## 📈 CONTRIBUTION ACTIVITY
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilaryaprajapati122&bg_color=00000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true" width="100%"/>
