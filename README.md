@@ -143,33 +143,28 @@
   <sub>◉ TERMINAL LINK ACTIVE • CORE PROCESS RUNNING ◉</sub>
 </p>
 
----
-
-## 📊 GITHUB // LIVE DATA
+## 🧬 SYSTEM // DEVELOPMENT MATRIX
 
 <p align="center">
-  <img src="./assets/github-stats.svg" width="49%" alt="GitHub Statistics"/>
-  <img src="./assets/top-languages.svg" width="49%" alt="Top Languages"/>
+  <img src="https://img.shields.io/badge/JAVA-CORE%20SYSTEM-00FFFF?style=for-the-badge&labelColor=050510"/>
+  <img src="https://img.shields.io/badge/PYTHON-ACTIVE%20MODULE-0088FF?style=for-the-badge&labelColor=050510"/>
+  <img src="https://img.shields.io/badge/LINUX-SYSTEM%20ACCESS-8A2BE2?style=for-the-badge&labelColor=050510"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GITHUB-DATA%20STREAM-00FFFF?style=for-the-badge&labelColor=050510"/>
+  <img src="https://img.shields.io/badge/AI-NEURAL%20DEVELOPMENT-00FFFF?style=for-the-badge&labelColor=050510"/>
+  <img src="https://img.shields.io/badge/GIT-VERSION%20CONTROL-0088FF?style=for-the-badge&labelColor=050510"/>
+  <img src="https://img.shields.io/badge/SDLC-SOFTWARE%20ENGINEERING-8A2BE2?style=for-the-badge&labelColor=050510"/>
 </p>
 
 <p align="center">
-  <sub>◉ GITHUB DATA STREAM • REAL-TIME PROFILE ANALYTICS ◉</sub>
-</p>
-
----
-
-## 🏆 ACHIEVEMENT MATRIX // DATABASE
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nikhilaryaprajapati122&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,30:001f3f,65:0088ff,100:4b0082&height=90&section=header&text=SYSTEM%20DEVELOPMENT%20MATRIX&fontSize=19&fontColor=00FFFF&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ACHIEVEMENT--DATABASE-ACTIVE-00FFFF?style=for-the-badge&labelColor=050510"/>
+  <sub>
+    JAVA CORE • AI DEVELOPMENT • LINUX SYSTEMS • SOFTWARE ENGINEERING
+  </sub>
 </p>
 
 ---
@@ -180,7 +175,7 @@
   <img src="https://streak-stats.demolab.com?user=nikhilaryaprajapati122&theme=tokyonight&hide_border=true&background=050510&ring=00FFFF&fire=0088FF&currStreakLabel=00FFFF&sideLabels=8A2BE2" width="80%"/>
 </p>
 
----
+
 
 ## 📈 CONTRIBUTION // ACTIVITY
 
