@@ -189,15 +189,10 @@ I'm **Nikhil Arya Prajapati**, a Computer Science student focused on becoming a 
 ---
 
 ## 🐍 CONTRIBUTION SNAKE
-<p align="center">
-  <img src="https://img.shields.io/badge/CONTRIBUTION-SNAKE-00FFFF?style=for-the-badge&labelColor=050510"/>
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 </p>
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-
 ---
 
 ## 🎯 2026 // MISSION CONTROL
@@ -232,6 +227,13 @@ I'm **Nikhil Arya Prajapati**, a Computer Science student focused on becoming a 
   <sub>◉ SYSTEM STATUS : ONLINE • ALL CORE MODULES OPERATIONAL ◉</sub>
 </p>
 ---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFFF,50:0088FF,100:8A2BE2&height=3&section=header" width="85%"/>
+</p> 
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFFF,50:0088FF,100:8A2BE2&height=3&section=header" width="85%"/>
+</p>
 
 ## 📡 CONTACT // COMMAND CENTER
 
