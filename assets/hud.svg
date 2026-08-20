@@ -1,11 +1,17 @@
-<svg width="900" height="260" viewBox="0 0 900 260"
+<svg width="1200" height="260" viewBox="0 0 1200 260"
      xmlns="http://www.w3.org/2000/svg">
 
   <defs>
-    <linearGradient id="neon" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050510"/>
+      <stop offset="50%" stop-color="#001f3f"/>
+      <stop offset="100%" stop-color="#12002b"/>
+    </linearGradient>
+
+    <linearGradient id="cyanBlue">
       <stop offset="0%" stop-color="#00ffff"/>
       <stop offset="50%" stop-color="#0088ff"/>
-      <stop offset="100%" stop-color="#00ffff"/>
+      <stop offset="100%" stop-color="#8a2be2"/>
     </linearGradient>
 
     <filter id="glow">
@@ -16,86 +22,145 @@
       </feMerge>
     </filter>
 
-    <style>
-      .neon {
-        fill: none;
-        stroke: url(#neon);
-        stroke-width: 2;
-        filter: url(#glow);
-      }
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="9"/>
+    </filter>
 
-      .text {
-        fill: #00ffff;
-        font-family: monospace;
-        letter-spacing: 3px;
-      }
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" fill="none"
+            stroke="#00ffff" stroke-opacity=".08"/>
+    </pattern>
 
-      .small {
-        fill: #8fffff;
-        font-family: monospace;
-        font-size: 15px;
-      }
-
-      .pulse {
-        animation: pulse 2s infinite;
-      }
-
-      .scan {
-        animation: scan 3s linear infinite;
-      }
-
-      @keyframes pulse {
-        0%,100% { opacity: 1; }
-        50% { opacity: .35; }
-      }
-
-      @keyframes scan {
-        0% { transform: translateY(0); opacity: 0; }
-        20% { opacity: 1; }
-        80% { opacity: 1; }
-        100% { transform: translateY(190px); opacity: 0; }
-      }
-    </style>
+    <linearGradient id="scan" x1="0%" x2="100%">
+      <stop offset="0%" stop-color="#00ffff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#00ffff" stop-opacity=".8"/>
+      <stop offset="100%" stop-color="#00ffff" stop-opacity="0"/>
+    </linearGradient>
   </defs>
 
-  <rect width="900" height="260" fill="#030712"/>
+  <!-- Background -->
+  <rect width="1200" height="260" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="260" rx="18" fill="url(#grid)"/>
 
-  <rect x="15" y="15" width="870" height="230"
-        rx="12" class="neon"/>
+  <!-- Outer HUD frame -->
+  <rect x="10" y="10" width="1180" height="240" rx="16"
+        fill="none" stroke="url(#cyanBlue)" stroke-width="2"
+        filter="url(#glow)"/>
 
-  <path d="M15 65 H885" class="neon"/>
+  <!-- Corner brackets -->
+  <g fill="none" stroke="#00ffff" stroke-width="4">
+    <path d="M35 75V35H75"/>
+    <path d="M1125 35H1165V75"/>
+    <path d="M35 185V225H75"/>
+    <path d="M1125 225H1165V185"/>
+  </g>
 
-  <text x="40" y="48" class="text" font-size="22">
-    J.A.R.V.I.S // NIKHIL CORE
+  <!-- Central core glow -->
+  <circle cx="600" cy="130" r="72"
+          fill="#00ffff" opacity=".08" filter="url(#softGlow)"/>
+
+  <!-- Radar rings -->
+  <g fill="none" stroke="#00ffff" stroke-opacity=".45">
+    <circle cx="600" cy="130" r="65" stroke-width="2"/>
+    <circle cx="600" cy="130" r="48" stroke-width="1"/>
+    <circle cx="600" cy="130" r="30" stroke-width="2"/>
+  </g>
+
+  <!-- Radar crosshair -->
+  <g stroke="#0088ff" stroke-width="1" opacity=".8">
+    <line x1="520" y1="130" x2="680" y2="130"/>
+    <line x1="600" y1="50" x2="600" y2="210"/>
+  </g>
+
+  <!-- Core -->
+  <circle cx="600" cy="130" r="16"
+          fill="#00ffff" opacity=".25" filter="url(#glow)"/>
+  <circle cx="600" cy="130" r="9"
+          fill="#00ffff" filter="url(#glow)"/>
+
+  <!-- Side information panels -->
+  <g font-family="monospace" fill="#00ffff">
+
+    <text x="65" y="72" font-size="13">
+      J.A.R.V.I.S // CORE
+    </text>
+
+    <text x="65" y="105" font-size="12" fill="#0088ff">
+      NEURAL LINK
+    </text>
+
+    <text x="65" y="125" font-size="12" fill="#ffffff">
+      ACTIVE
+    </text>
+
+    <text x="65" y="158" font-size="12" fill="#8a2be2">
+      BUILD MODE
+    </text>
+
+    <text x="65" y="178" font-size="12" fill="#ffffff">
+      ONLINE
+    </text>
+
+    <text x="1000" y="72" font-size="13">
+      SYSTEM // 2026
+    </text>
+
+    <text x="1000" y="105" font-size="12" fill="#0088ff">
+      JAVA CORE
+    </text>
+
+    <text x="1000" y="125" font-size="12" fill="#ffffff">
+      ONLINE
+    </text>
+
+    <text x="1000" y="158" font-size="12" fill="#8a2be2">
+      AI CORE
+    </text>
+
+    <text x="1000" y="178" font-size="12" fill="#ffffff">
+      DEVELOPING
+    </text>
+
+  </g>
+
+  <!-- Main title -->
+  <text x="600" y="105"
+        text-anchor="middle"
+        font-family="monospace"
+        font-size="25"
+        font-weight="bold"
+        letter-spacing="5"
+        fill="#00ffff"
+        filter="url(#glow)">
+    J.A.R.V.I.S
   </text>
 
-  <circle cx="825" cy="40" r="8"
-          fill="#00ffff" filter="url(#glow)"
-          class="pulse"/>
+  <text x="600" y="165"
+        text-anchor="middle"
+        font-family="monospace"
+        font-size="12"
+        letter-spacing="3"
+        fill="#ffffff">
+    SYSTEM ONLINE // BUILDING THE FUTURE
+  </text>
 
-  <text x="845" y="46" class="small">ONLINE</text>
+  <!-- Scanning line -->
+  <rect x="120" y="214" width="960" height="2"
+        fill="url(#scan)" opacity=".8">
+    <animate attributeName="x"
+             values="120;1080;120"
+             dur="4s"
+             repeatCount="indefinite"/>
+  </rect>
 
-  <line x1="35" y1="85" x2="865" y2="85"
-        stroke="#00ffff" opacity=".15"/>
-
-  <text x="45" y="115" class="small">JAVA CORE</text>
-  <text x="300" y="115" class="small">██████████</text>
-  <text x="520" y="115" class="small">ONLINE</text>
-
-  <text x="45" y="145" class="small">PYTHON CORE</text>
-  <text x="300" y="145" class="small">████████░░</text>
-  <text x="520" y="145" class="small">ACTIVE</text>
-
-  <text x="45" y="175" class="small">LINUX CORE</text>
-  <text x="300" y="175" class="small">██████░░░░</text>
-  <text x="520" y="175" class="small">LEARNING</text>
-
-  <text x="45" y="205" class="small">AI CORE</text>
-  <text x="300" y="205" class="small">█████░░░░░</text>
-  <text x="520" y="205" class="small">DEVELOP</text>
-
-  <rect x="35" y="82" width="830" height="2"
-        fill="#00ffff" opacity=".6"
-        class="scan"/>
+  <!-- Bottom status -->
+  <text x="600" y="232"
+        text-anchor="middle"
+        font-family="monospace"
+        font-size="10"
+        letter-spacing="2"
+        fill="#0088ff">
+    ◉ CORE INITIALIZED • NEURAL LINK ACTIVE • SYSTEM READY
+  </text>
 
 </svg>
