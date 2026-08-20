@@ -15,22 +15,50 @@
 </p>
 
 ---
-## 🛰️ SYSTEM STATUS
+
+## 🛰️ J.A.R.V.I.S // SYSTEM CORE
+
+<p align="center">
+  <img src="https://img.shields.io/badge/◉_JARVIS_CORE-ONLINE-00FFFF?style=for-the-badge&labelColor=050510"/>
+  <img src="https://img.shields.io/badge/◉_NEURAL_LINK-ACTIVE-0088FF?style=for-the-badge&labelColor=050510"/>
+  <img src="https://img.shields.io/badge/◉_SYSTEM-READY-8A2BE2?style=for-the-badge&labelColor=050510"/>
+</p>
 
 ```text
-╔══════════════════════════════════════════════════════════╗
-║                  NIKHIL // SYSTEM CORE                  ║
-╠══════════════════════════════════════════════════════════╣
-║                                                          ║
-║  STATUS       : ONLINE ⚡                                ║
-║  ROLE         : JAVA DEVELOPER                           ║
-║  FOCUS        : SOFTWARE ENGINEERING                     ║
-║  AI CORE      : ACTIVE 🤖                                ║
-║  OS           : LINUX / WINDOWS                          ║
-║  MODE         : LEARNING → BUILDING → DEPLOYING         ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
+╔════════════════════════════════════════════════════════════╗
+║                 ◉ J.A.R.V.I.S SYSTEM CORE                ║
+╠════════════════════════════════════════════════════════════╣
+║                                                            ║
+║  SYSTEM STATUS     : ● ONLINE                             ║
+║  CORE VERSION      : JARVIS // 2026                       ║
+║  PRIMARY ROLE      : JAVA DEVELOPER                       ║
+║  MAIN OBJECTIVE    : SOFTWARE ENGINEERING                 ║
+║                                                            ║
+║  ────────────────────────────────────────────────────────  ║
+║                                                            ║
+║  JAVA CORE         : ████████████████░░░░  ONLINE         ║
+║  PYTHON CORE       : █████████████░░░░░░░  ACTIVE         ║
+║  LINUX CORE        : ███████████░░░░░░░░░  LEARNING       ║
+║  AI CORE           : ████████░░░░░░░░░░░  DEVELOPING     ║
+║  GIT CORE          : ████████████░░░░░░░  ACTIVE         ║
+║                                                            ║
+║  ────────────────────────────────────────────────────────  ║
+║                                                            ║
+║  SECURITY MODE     : DEVELOPMENT                          ║
+║  NETWORK MODE      : CONNECTED                            ║
+║  BUILD MODE        : ACTIVE                               ║
+║  LEARNING MODE     : ENABLED                              ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/⚡_JAVA_CORE-ONLINE-00FFFF?style=flat-square&labelColor=050510"/>
+<img src="https://img.shields.io/badge/🔵_AI_CORE-ACTIVE-0088FF?style=flat-square&labelColor=050510"/>
+<img src="https://img.shields.io/badge/🟣_LINUX_CORE-LEARNING-8A2BE2?style=flat-square&labelColor=050510"/>
+<img src="https://img.shields.io/badge/◉_GIT_CORE-ACTIVE-00FFFF?style=flat-square&labelColor=050510"/>
+
+</p>
 
 ## 👨‍💻 ABOUT ME
 
@@ -323,17 +351,30 @@ SYSTEM MESSAGE:
 
 ---
 
-## 🌐 CONNECT WITH ME
+## 📡 CONTACT // COMMAND CENTER
 
 <p align="center">
 
 <a href="https://github.com/nikhilaryaprajapati122">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ffff"/>
+<img src="https://img.shields.io/badge/GITHUB-00FFFF?style=for-the-badge&logo=github&logoColor=00FFFF&labelColor=050510"/>
 </a>
 
 </p>
 
----
+```text
+╔════════════════════════════════════════════════════════════╗
+║                 COMMUNICATION TERMINAL                    ║
+╠════════════════════════════════════════════════════════════╣
+║                                                            ║
+║  GITHUB       →  ONLINE                                   ║
+║  DEVELOPER    →  AVAILABLE                                ║
+║  PROJECTS     →  ACTIVE                                   ║
+║  COLLABORATION→  OPEN                                     ║
+║                                                            ║
+║  > CONNECT TO THE NETWORK                                  ║
+║  > BUILD SOMETHING GREAT                                   ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
 
 ## 📈 CONTRIBUTION MATRIX
 
