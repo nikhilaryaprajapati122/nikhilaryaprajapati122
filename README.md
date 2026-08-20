@@ -1,15 +1,20 @@
 # ⚡ NIKHIL ARYA PRAJAPATI
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001f3f,100:00ffff&height=220&section=header&text=NIKHIL%20ARYA%20PRAJAPATI&fontSize=42&fontColor=00ffff&animation=fadeIn&fontAlignY=38&desc=JAVA%20DEVELOPER%20%7C%20AI%20%7C%20LINUX&descAlignY=58&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,25:001f3f,50:0088ff,75:4b0082,100:00ffff&height=240&section=header&text=NIKHIL%20ARYA%20PRAJAPATI&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=JAVA%20DEVELOPER%20%7C%20AI%20%7C%20LINUX%20%7C%20SOFTWARE%20ENGINEERING&descAlignY=58&descSize=17" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=2500&pause=700&color=00FFFF&center=true&vCenter=true&width=700&lines=SYSTEM+ONLINE+%E2%9A%A1;WELCOME+TO+MY+GITHUB+%F0%9F%A4%96;JAVA+DEVELOPER+%F0%9F%92%BB;AI+%7C+LINUX+%7C+SOFTWARE+ENGINEERING;BUILDING+THE+FUTURE...+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=700&size=22&duration=2200&pause=600&color=00FFFF&center=true&vCenter=true&width=750&lines=%5B+SYSTEM+ONLINE+%5D+%E2%9A%A1;%5B+JARVIS+CORE+INITIALIZED+%5D+%F0%9F%A4%96;%5B+JAVA+DEVELOPER+%5D+%E2%98%95;%5B+AI+%7C+LINUX+%7C+SOFTWARE+ENGINEERING+%5D;%5B+BUILDING+THE+FUTURE+%5D+%F0%9F%9A%80" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00FFFF?style=for-the-badge&labelColor=050510&logo=github&logoColor=00FFFF"/>
+  <img src="https://img.shields.io/badge/JARVIS-CORE-8A2BE2?style=for-the-badge&labelColor=050510&logo=robotframework&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/DEV--MODE-ACTIVE-0088FF?style=for-the-badge&labelColor=050510&logo=visualstudiocode&logoColor=ffffff"/>
 </p>
 
 ---
-
 ## 🛰️ SYSTEM STATUS
 
 ```text
