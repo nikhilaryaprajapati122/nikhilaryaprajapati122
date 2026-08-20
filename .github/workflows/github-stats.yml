@@ -2,6 +2,8 @@ name: Update GitHub Stats
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
 
 permissions:
   contents: write
@@ -16,5 +18,23 @@ jobs:
 
       - name: Generate GitHub stats
         run: |
-          echo "GitHub Stats workflow initialized"
           mkdir -p assets
+
+          curl -L \
+            "https://github-readme-stats.vercel.app/api?username=nikhilaryaprajapati122&show_icons=true&hide_border=true&theme=tokyonight&bg_color=050510&title_color=00FFFF&icon_color=0088FF&text_color=FFFFFF" \
+            -o assets/github-stats.svg
+
+          curl -L \
+            "https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilaryaprajapati122&layout=compact&hide_border=true&theme=tokyonight&bg_color=050510&title_color=00FFFF&text_color=FFFFFF" \
+            -o assets/top-languages.svg
+
+      - name: Commit updated stats
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add assets/github-stats.svg assets/top-languages.svg
+
+          git diff --cached --quiet || git commit -m "Update GitHub statistics"
+
+          git push
