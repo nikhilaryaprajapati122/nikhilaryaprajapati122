@@ -148,8 +148,12 @@
 ## 📊 GITHUB // LIVE DATA
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhilaryaprajapati122&show_icons=true&hide_border=true&theme=tokyonight&bg_color=050510&title_color=00FFFF&icon_color=0088FF&text_color=FFFFFF" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilaryaprajapati122&layout=compact&hide_border=true&theme=tokyonight&bg_color=050510&title_color=00FFFF&text_color=FFFFFF" width="49%"/>
+  <img src="./assets/github-stats.svg" width="49%" alt="GitHub Statistics"/>
+  <img src="./assets/top-languages.svg" width="49%" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GITHUB-DATA%20STREAM-00FFFF?style=for-the-badge&labelColor=050510"/>
 </p>
 
 <p align="center">
