@@ -27,36 +27,17 @@
 ## 🛰️ J.A.R.V.I.S // SYSTEM CORE
 
 <p align="center">
-  <img src="https://img.shields.io/badge/◉_CORE-ONLINE-00FFFF?style=flat-square&labelColor=050510"/>
-  <img src="https://img.shields.io/badge/◉_NEURAL_LINK-ACTIVE-0088FF?style=flat-square&labelColor=050510"/>
-  <img src="https://img.shields.io/badge/◉_BUILD_MODE-ACTIVE-8A2BE2?style=flat-square&labelColor=050510"/>
+  <img src="./assets/system-core.svg" width="100%" alt="JARVIS System Core"/>
 </p>
 
-```text
-╔════════════════════════════════════════════════════════════╗
-║                 ◉ J.A.R.V.I.S SYSTEM CORE                ║
-╠════════════════════════════════════════════════════════════╣
-║                                                            ║
-║  STATUS          : ● ONLINE                               ║
-║  PRIMARY ROLE    : JAVA DEVELOPER                         ║
-║  MAIN FOCUS      : SOFTWARE ENGINEERING                   ║
-║  AI CORE         : ACTIVE                                 ║
-║                                                            ║
-║  JAVA CORE       : ████████████████░░░░  ONLINE           ║
-║  PYTHON CORE     : █████████████░░░░░░░  ACTIVE           ║
-║  LINUX CORE      : ███████████░░░░░░░░░  LEARNING         ║
-║  AI CORE         : ████████░░░░░░░░░░░  DEVELOPING       ║
-║  GIT CORE        : ████████████░░░░░░░  ACTIVE           ║
-║                                                            ║
-║  SECURITY MODE   : DEVELOPMENT                            ║
-║  BUILD MODE      : ACTIVE                                 ║
-║  LEARNING MODE   : ENABLED                                ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
-```
+<p align="center">
+  <img src="./assets/radar.svg" width="100%" alt="JARVIS Radar"/>
+</p>
 
 <p align="center">
-  <sub>◉ CORE INITIALIZED • NEURAL LINK ACTIVE • SYSTEM READY ⚡</sub>
+  <img src="https://img.shields.io/badge/CORE-ONLINE-00FFFF?style=for-the-badge&labelColor=050510"/>
+  <img src="https://img.shields.io/badge/NEURAL--LINK-ACTIVE-0088FF?style=for-the-badge&labelColor=050510"/>
+  <img src="https://img.shields.io/badge/BUILD--MODE-ACTIVE-8A2BE2?style=for-the-badge&labelColor=050510"/>
 </p>
 
 ---
