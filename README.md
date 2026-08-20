@@ -42,7 +42,6 @@
   <sub>J.A.R.V.I.S CORE INITIALIZED • SYSTEM READY • DEVELOPMENT MODE</sub>
 </p>
 
-
 ## 👨‍💻 ABOUT // NIKHIL
 
 <p align="center">
