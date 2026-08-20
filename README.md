@@ -78,6 +78,34 @@ Hi! I'm **Nikhil Arya Prajapati**, a computer science student passionate about p
 
 ---
 
+## 🧠 SKILL MATRIX // TECH ARSENAL
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,git,github,linux,vscode,mysql&theme=dark" />
+</p>
+
+```text id="g8m2ks"
+╔════════════════════════════════════════════════════════════╗
+║                    SKILL MATRIX                           ║
+╠════════════════════════════════════════════════════════════╣
+║                                                            ║
+║  ☕ JAVA              ████████████████░░░░   80%           ║
+║  🐍 PYTHON            █████████████░░░░░░   65%           ║
+║  🐧 LINUX             ███████████░░░░░░░░   55%           ║
+║  🌐 HTML/CSS          ██████████░░░░░░░░░   50%           ║
+║  🔧 GIT/GITHUB        ███████████░░░░░░░░   55%           ║
+║  🗄️ SQL               ███████░░░░░░░░░░░░   35%           ║
+║  🤖 AI                ██████░░░░░░░░░░░░░   30%           ║
+║                                                            ║
+║  SYSTEM LEVEL : LEARNING → BUILDING → MASTERING           ║
+╚════════════════════════════════════════════════════════════╝
+```
+
+<p align="center">
+  <sub>⚡ SKILLS ARE CONSTANTLY EVOLVING ⚡</sub>
+</p>
+
+
 ## 📡 SYSTEM DIAGNOSTICS
 
 <p align="center">
@@ -150,6 +178,17 @@ Hi! I'm **Nikhil Arya Prajapati**, a computer science student passionate about p
 
 ---
 
+## 🏆 GITHUB ACHIEVEMENT MATRIX
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nikhilaryaprajapati122&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%"/>
+</p>
+
+<p align="center">
+  <sub>◈ ACHIEVEMENT DATABASE // LIVE ◈</sub>
+</p>
+
+
 ## 🔥 CONTRIBUTION STREAK
 
 <p align="center">
@@ -208,6 +247,36 @@ Hi! I'm **Nikhil Arya Prajapati**, a computer science student passionate about p
 
 ---
 
+## 💻 TERMINAL // COMMAND CENTER
+
+```text id="z6f7qp"
+┌──(nikhil㉿github)-[~/core]
+└─$ systemctl status nikhil-core
+
+● nikhil-core.service
+   Loaded: ACTIVE
+   Status: ONLINE
+
+┌──(nikhil㉿github)-[~/core]
+└─$ scan --modules
+
+[✓] JAVA CORE
+[✓] PYTHON CORE
+[✓] LINUX CORE
+[✓] GIT CORE
+[✓] AI CORE
+
+┌──(nikhil㉿github)-[~/core]
+└─$ mission --current
+
+> MASTER SOFTWARE ENGINEERING
+> BUILD PROFESSIONAL PROJECTS
+> DEVELOP AI SYSTEMS
+
+STATUS: ███████████████████░░ ACTIVE
+```
+
+
 ## 💻 TERMINAL
 
 ```bash
@@ -261,6 +330,13 @@ SYSTEM MESSAGE:
 
 ---
 
+## 📈 CONTRIBUTION MATRIX
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilaryaprajapati122&bg_color=00000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true" width="100%"/>
+</p>
+
+
 ## 🐍 CONTRIBUTION MATRIX
 
 <p align="center">
@@ -280,3 +356,14 @@ SYSTEM MESSAGE:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,50:001f3f,100:000000&height=120&section=footer&animation=twinkling"/>
 
 </p>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001f3f,100:00ffff&height=140&section=footer&text=SYSTEM%20ONLINE&fontSize=25&fontColor=00ffff&animation=twinkling"/>
+
+</p>
+
+<p align="center">
+  <b>⚡ KEEP BUILDING. KEEP LEARNING. KEEP EVOLVING. ⚡</b>
+</p>
+
