@@ -1,0 +1,101 @@
+<svg width="900" height="260" viewBox="0 0 900 260"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="neon" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00ffff"/>
+      <stop offset="50%" stop-color="#0088ff"/>
+      <stop offset="100%" stop-color="#00ffff"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <style>
+      .neon {
+        fill: none;
+        stroke: url(#neon);
+        stroke-width: 2;
+        filter: url(#glow);
+      }
+
+      .text {
+        fill: #00ffff;
+        font-family: monospace;
+        letter-spacing: 3px;
+      }
+
+      .small {
+        fill: #8fffff;
+        font-family: monospace;
+        font-size: 15px;
+      }
+
+      .pulse {
+        animation: pulse 2s infinite;
+      }
+
+      .scan {
+        animation: scan 3s linear infinite;
+      }
+
+      @keyframes pulse {
+        0%,100% { opacity: 1; }
+        50% { opacity: .35; }
+      }
+
+      @keyframes scan {
+        0% { transform: translateY(0); opacity: 0; }
+        20% { opacity: 1; }
+        80% { opacity: 1; }
+        100% { transform: translateY(190px); opacity: 0; }
+      }
+    </style>
+  </defs>
+
+  <rect width="900" height="260" fill="#030712"/>
+
+  <rect x="15" y="15" width="870" height="230"
+        rx="12" class="neon"/>
+
+  <path d="M15 65 H885" class="neon"/>
+
+  <text x="40" y="48" class="text" font-size="22">
+    J.A.R.V.I.S // NIKHIL CORE
+  </text>
+
+  <circle cx="825" cy="40" r="8"
+          fill="#00ffff" filter="url(#glow)"
+          class="pulse"/>
+
+  <text x="845" y="46" class="small">ONLINE</text>
+
+  <line x1="35" y1="85" x2="865" y2="85"
+        stroke="#00ffff" opacity=".15"/>
+
+  <text x="45" y="115" class="small">JAVA CORE</text>
+  <text x="300" y="115" class="small">██████████</text>
+  <text x="520" y="115" class="small">ONLINE</text>
+
+  <text x="45" y="145" class="small">PYTHON CORE</text>
+  <text x="300" y="145" class="small">████████░░</text>
+  <text x="520" y="145" class="small">ACTIVE</text>
+
+  <text x="45" y="175" class="small">LINUX CORE</text>
+  <text x="300" y="175" class="small">██████░░░░</text>
+  <text x="520" y="175" class="small">LEARNING</text>
+
+  <text x="45" y="205" class="small">AI CORE</text>
+  <text x="300" y="205" class="small">█████░░░░░</text>
+  <text x="520" y="205" class="small">DEVELOP</text>
+
+  <rect x="35" y="82" width="830" height="2"
+        fill="#00ffff" opacity=".6"
+        class="scan"/>
+
+</svg>
