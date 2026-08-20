@@ -20,6 +20,10 @@
   <img src="./assets/hud.svg" width="100%" alt="J.A.R.V.I.S HUD"/>
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFFF,50:0088FF,100:8A2BE2&height=3&section=header" width="85%"/>
+</p>
+
 ## 🛰️ J.A.R.V.I.S // SYSTEM CORE
 
 <p align="center">
@@ -56,6 +60,9 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFFF,50:0088FF,100:8A2BE2&height=3&section=header" width="85%"/>
+</p>
 
 ## 👨‍💻 ABOUT ME
 
@@ -69,6 +76,9 @@ I'm **Nikhil Arya Prajapati**, a Computer Science student focused on becoming a 
 * 🚀 **Learning → Building → Improving**
 
 ---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFFF,50:0088FF,100:8A2BE2&height=3&section=header" width="85%"/>
+</p>
 
 <p align="center">
   <img src="./assets/system-core.svg" width="100%" alt="JARVIS Core Monitor"/>
@@ -98,6 +108,9 @@ I'm **Nikhil Arya Prajapati**, a Computer Science student focused on becoming a 
 </p>
 ---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFFF,50:0088FF,100:8A2BE2&height=3&section=header" width="85%"/>
+</p>
 ## 🚀 PROJECT COMMAND CENTER
 
 <p align="center">
@@ -129,14 +142,20 @@ I'm **Nikhil Arya Prajapati**, a Computer Science student focused on becoming a 
   <img src="./assets/terminal.svg" width="100%" alt="JARVIS Terminal"/>
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFFF,50:0088FF,100:8A2BE2&height=3&section=header" width="85%"/>
+</p>
 ## 📊 GITHUB // ANALYTICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhilaryaprajapati122&show_icons=true&hide_border=true&bg_color=050510&title_color=00FFFF&icon_color=0088FF&text_color=FFFFFF" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilaryaprajapati122&layout=compact&hide_border=true&bg_color=050510&title_color=00FFFF&text_color=FFFFFF" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhilaryaprajapati122&show_icons=true&hide_border=true&bg_color=050510&title_color=00FFFF&icon_color=0088FF&text_color=FFFFFF" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilaryaprajapati122&layout=compact&hide_border=true&bg_color=050510&title_color=00FFFF&text_color=FFFFFF" width="49%"/>
 </p>
 
 ---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFFF,50:0088FF,100:8A2BE2&height=3&section=header" width="85%"/>
+</p>
 
 ## 🏆 ACHIEVEMENT MATRIX
 
@@ -158,6 +177,9 @@ I'm **Nikhil Arya Prajapati**, a Computer Science student focused on becoming a 
 
 ---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFFF,50:0088FF,100:8A2BE2&height=3&section=header" width="85%"/>
+</p>
 ## 📈 CONTRIBUTION ACTIVITY
 
 <p align="center">
@@ -167,10 +189,14 @@ I'm **Nikhil Arya Prajapati**, a Computer Science student focused on becoming a 
 ---
 
 ## 🐍 CONTRIBUTION SNAKE
+<p align="center">
+  <img src="https://img.shields.io/badge/CONTRIBUTION-SNAKE-00FFFF?style=for-the-badge&labelColor=050510"/>
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 </p>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
 
 ---
 
@@ -197,6 +223,14 @@ I'm **Nikhil Arya Prajapati**, a Computer Science student focused on becoming a 
   <sub>⚡ LEARN → BUILD → DEBUG → IMPROVE → REPEAT ⚡</sub>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/◉_LEARNING-ACTIVE-00FFFF?style=for-the-badge&labelColor=050510"/>
+  <img src="https://img.shields.io/badge/◉_BUILDING-ACTIVE-0088FF?style=for-the-badge&labelColor=050510"/>
+  <img src="https://img.shields.io/badge/◉_EVOLVING-ACTIVE-8A2BE2?style=for-the-badge&labelColor=050510"/>
+</p>
+<p align="center">
+  <sub>◉ SYSTEM STATUS : ONLINE • ALL CORE MODULES OPERATIONAL ◉</sub>
+</p>
 ---
 
 ## 📡 CONTACT // COMMAND CENTER
