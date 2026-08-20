@@ -64,77 +64,88 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFFF,50:0088FF,100:8A2BE2&height=3&section=header" width="85%"/>
 </p>
 
-## 👨‍💻 ABOUT ME
+## 👨‍💻 ABOUT // NIKHIL
 
-I'm **Nikhil Arya Prajapati**, a Computer Science student focused on becoming a professional software developer.
-
-* ☕ **Java** — Core → Advanced
-* 🧠 **Software Engineering & SDLC**
-* 🤖 **AI / JARVIS Projects**
-* 🐧 **Linux & Development**
-* 🐍 **Python Programming**
-* 🚀 **Learning → Building → Improving**
-
----
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFFF,50:0088FF,100:8A2BE2&height=3&section=header" width="85%"/>
+
+<img src="https://img.shields.io/badge/IDENTITY-NIKHIL%20ARYA%20PRAJAPATI-00FFFF?style=for-the-badge&labelColor=050510"/>
+
+<img src="https://img.shields.io/badge/ROLE-JAVA%20DEVELOPER-0088FF?style=for-the-badge&labelColor=050510"/>
+
+<img src="https://img.shields.io/badge/MODE-BUILDING-8A2BE2?style=for-the-badge&labelColor=050510"/>
+
 </p>
 
 <p align="center">
-  <img src="./assets/system-core.svg" width="100%" alt="JARVIS Core Monitor"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:001f3f,100:4b0082&height=80&section=header&text=LEARN%20%E2%86%92%20BUILD%20%E2%86%92%20DEBUG%20%E2%86%92%20EVOLVE&fontSize=18&fontColor=00FFFF&animation=fadeIn"/>
 </p>
+
+> 💻 Computer Science student building a strong foundation in **Java, Software Engineering, AI and Linux**.
+
+> ☕ **Java** → Core → OOP → Advanced  
+> 🤖 **AI** → JARVIS-style systems & automation  
+> 🐧 **Linux** → System & development environment  
+> 🧠 **Software Engineering** → SDLC & professional development  
+> 🚀 **Mission** → Become a professional software developer
+> 
+
+## 🧠 TECH ARSENAL // MODULES
 
 <p align="center">
-  <img src="./assets/radar.svg" width="100%" alt="JARVIS Radar"/>
+  <img src="https://img.shields.io/badge/%E2%98%95_JAVA-CORE-00FFFF?style=for-the-badge&labelColor=050510"/>
+  <img src="https://img.shields.io/badge/%F0%9F%90%8D_PYTHON-ACTIVE-0088FF?style=for-the-badge&labelColor=050510"/>
+  <img src="https://img.shields.io/badge/%F0%9F%A4%96_AI-DEVELOPING-8A2BE2?style=for-the-badge&labelColor=050510"/>
 </p>
-
-## 🧠 TECH ARSENAL
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,html,css,git,github,linux,vscode,mysql&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JAVA-CORE-00FFFF?style=for-the-badge&labelColor=050510"/>
-  <img src="https://img.shields.io/badge/PYTHON-ACTIVE-0088FF?style=for-the-badge&labelColor=050510"/>
-  <img src="https://img.shields.io/badge/AI-DEVELOPING-8A2BE2?style=for-the-badge&labelColor=050510"/>
-  <img src="https://img.shields.io/badge/LINUX-LEARNING-00FFFF?style=for-the-badge&labelColor=050510"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/CORE-JAVA-00FFFF?style=flat-square&labelColor=050510"/>
-  <img src="https://img.shields.io/badge/AI-NEURAL-8A2BE2?style=flat-square&labelColor=050510"/>
-  <img src="https://img.shields.io/badge/LINUX-SYSTEM-0088FF?style=flat-square&labelColor=050510"/>
-  <img src="https://img.shields.io/badge/GIT-VERSIONED-00FFFF?style=flat-square&labelColor=050510"/>
-</p>
----
+```text
+╔══════════════════════════════════════════════════════════╗
+║                 TECHNOLOGY MATRIX                       ║
+╠══════════════════════════════════════════════════════════╣
+║                                                          ║
+║  JAVA        ████████████████░░   CORE                   ║
+║  PYTHON      █████████████░░░░░   ACTIVE                 ║
+║  LINUX       ███████████░░░░░░░   LEARNING               ║
+║  GIT         ████████████░░░░░░   ACTIVE                 ║
+║  AI          ████████░░░░░░░░░░   DEVELOPING             ║
+║  SQL         ███████░░░░░░░░░░░   LEARNING               ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFFF,50:0088FF,100:8A2BE2&height=3&section=header" width="85%"/>
-</p>
+
+
 ## 🚀 PROJECT COMMAND CENTER
 
 <p align="center">
 
 <a href="https://github.com/nikhilaryaprajapati122/Java-Basic">
-<img src="https://img.shields.io/badge/☕_JAVA--BASIC-00FFFF?style=for-the-badge&labelColor=050510"/>
+<img src="https://img.shields.io/badge/%5B01%5D_JAVA--BASIC-00FFFF?style=for-the-badge&labelColor=050510"/>
 </a>
 
 <a href="https://github.com/nikhilaryaprajapati122/python-practice">
-<img src="https://img.shields.io/badge/🐍_PYTHON--PRACTICE-0088FF?style=for-the-badge&labelColor=050510"/>
+<img src="https://img.shields.io/badge/%5B02%5D_PYTHON--PRACTICE-0088FF?style=for-the-badge&labelColor=050510"/>
 </a>
 
 </p>
 
-| Project                | Focus                       |
-| ---------------------- | --------------------------- |
-| ☕ **Java-Basic**       | Java fundamentals & OOP     |
-| 🐍 **python-practice** | Python programming practice |
+```text
+┌──────────────────────────────────────────────────────────┐
+│              PROJECT COMMAND CENTER                      │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  [01] JAVA-BASIC                                         │
+│      CORE : Java / OOP                                   │
+│      STATUS : ● ACTIVE                                   │
+│                                                          │
+│  [02] PYTHON-PRACTICE                                    │
+│      CORE : Python                                       │
+│      STATUS : ● ACTIVE                                   │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
 
-<p align="center">
-  <sub>⚡ ACTIVE DEVELOPMENT MODULES ⚡</sub>
-</p>
-
----
 
 ## 💻 TERMINAL // NIKHIL-CORE
 
@@ -145,29 +156,30 @@ I'm **Nikhil Arya Prajapati**, a Computer Science student focused on becoming a 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFFF,50:0088FF,100:8A2BE2&height=3&section=header" width="85%"/>
 </p>
-## 📊 GITHUB // ANALYTICS
+
+
+## 📊 GITHUB // LIVE DATA
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhilaryaprajapati122&show_icons=true&hide_border=true&bg_color=050510&title_color=00FFFF&icon_color=0088FF&text_color=FFFFFF" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilaryaprajapati122&layout=compact&hide_border=true&bg_color=050510&title_color=00FFFF&text_color=FFFFFF" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhilaryaprajapati122&show_icons=true&hide_border=true&theme=tokyonight&bg_color=050510&title_color=00FFFF&icon_color=0088FF&text_color=FFFFFF" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilaryaprajapati122&layout=compact&hide_border=true&theme=tokyonight&bg_color=050510&title_color=00FFFF&text_color=FFFFFF" width="49%"/>
 </p>
 
----
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFFF,50:0088FF,100:8A2BE2&height=3&section=header" width="85%"/>
+  <sub>◉ LIVE GITHUB DATA STREAM ◉</sub>
 </p>
 
-## 🏆 ACHIEVEMENT MATRIX
+
+## 🏆 ACHIEVEMENT MATRIX // DATABASE
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nikhilaryaprajapati122&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%"/>
 </p>
 
 <p align="center">
-  <sub>◈ ACHIEVEMENT DATABASE // ACTIVE ◈</sub>
+  <img src="https://img.shields.io/badge/ACHIEVEMENT--DATABASE-ACTIVE-00FFFF?style=for-the-badge&labelColor=050510"/>
 </p>
 
----
 
 ## 🔥 CONTRIBUTION // STREAK
 
@@ -197,43 +209,29 @@ I'm **Nikhil Arya Prajapati**, a Computer Science student focused on becoming a 
 
 ## 🎯 2026 // MISSION CONTROL
 
+<p align="center">
+  <img src="https://img.shields.io/badge/JAVA-CORE%20→%20ADVANCED-00FFFF?style=for-the-badge&labelColor=050510"/>
+  <img src="https://img.shields.io/badge/DSA-TRAINING-0088FF?style=for-the-badge&labelColor=050510"/>
+  <img src="https://img.shields.io/badge/AI-DEVELOPMENT-8A2BE2?style=for-the-badge&labelColor=050510"/>
+</p>
+
 ```text
-┌──────────────────────────────────────────────────────────┐
-│                 MISSION PROGRESS                         │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│  JAVA CORE              ████████████████░░  ACTIVE       │
-│  DSA                    ███████████░░░░░░  TRAINING      │
-│  SOFTWARE ENGINEERING   ████████████░░░░░  ACTIVE       │
-│  LINUX                  ██████████░░░░░░░  LEARNING      │
-│  ARTIFICIAL INTELLIGENCE███████░░░░░░░░░  DEVELOPING    │
-│  PROJECTS               █████████░░░░░░░░  BUILDING      │
-│                                                          │
-├──────────────────────────────────────────────────────────┤
-│  PRIMARY MISSION: PROFESSIONAL SOFTWARE DEVELOPER        │
-└──────────────────────────────────────────────────────────┘
-```
-
-<p align="center">
-  <sub>⚡ LEARN → BUILD → DEBUG → IMPROVE → REPEAT ⚡</sub>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/◉_LEARNING-ACTIVE-00FFFF?style=for-the-badge&labelColor=050510"/>
-  <img src="https://img.shields.io/badge/◉_BUILDING-ACTIVE-0088FF?style=for-the-badge&labelColor=050510"/>
-  <img src="https://img.shields.io/badge/◉_EVOLVING-ACTIVE-8A2BE2?style=for-the-badge&labelColor=050510"/>
-</p>
-<p align="center">
-  <sub>◉ SYSTEM STATUS : ONLINE • ALL CORE MODULES OPERATIONAL ◉</sub>
-</p>
----
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFFF,50:0088FF,100:8A2BE2&height=3&section=header" width="85%"/>
-</p> 
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFFF,50:0088FF,100:8A2BE2&height=3&section=header" width="85%"/>
-</p>
+╔════════════════════════════════════════════════════════════╗
+║                 2026 MISSION CONTROL                      ║
+╠════════════════════════════════════════════════════════════╣
+║                                                            ║
+║  [✓] JAVA FUNDAMENTALS                                    ║
+║  [✓] OOP + OPERATORS + CONTROL FLOW                       ║
+║  [ ] ADVANCED JAVA                                        ║
+║  [ ] DATA STRUCTURES & ALGORITHMS                         ║
+║  [ ] PROFESSIONAL JAVA PROJECTS                           ║
+║  [ ] ADVANCED AI ASSISTANT                                ║
+║  [ ] OPEN SOURCE CONTRIBUTION                             ║
+║                                                            ║
+║  PRIMARY OBJECTIVE : PROFESSIONAL SOFTWARE ENGINEER       ║
+║  SYSTEM MODE        : LEARN → BUILD → MASTER             ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
 
 ## 📡 CONTACT // COMMAND CENTER
 
