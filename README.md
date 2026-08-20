@@ -80,25 +80,22 @@ Hi! I'm **Nikhil Arya Prajapati**, a computer science student passionate about p
 
 ---
 
-## 📊 GITHUB ANALYTICS
+## 📊 GITHUB // ANALYTICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhilaryaprajapati122&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00ffff&icon_color=00ffff&text_color=ffffff" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilaryaprajapati122&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00ffff&text_color=ffffff" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhilaryaprajapati122&show_icons=true&hide_border=true&bg_color=050510&title_color=00FFFF&icon_color=0088FF&text_color=FFFFFF&ring_color=8A2BE2" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilaryaprajapati122&layout=compact&hide_border=true&bg_color=050510&title_color=00FFFF&text_color=FFFFFF" height="180"/>
 </p>
 
----
-
-## 🏆 GITHUB ACHIEVEMENT MATRIX
+## 🏆 ACHIEVEMENT MATRIX
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nikhilaryaprajapati122&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=nikhilaryaprajapati122&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%"/>
 </p>
 
 <p align="center">
-  <sub>◈ ACHIEVEMENT DATABASE // LIVE ◈</sub>
+  <sub>◈ ACHIEVEMENT DATABASE // ACTIVE ◈</sub>
 </p>
-
 
 ## 🔥 CONTRIBUTION STREAK
 
@@ -152,22 +149,25 @@ MISSION: SOFTWARE ENGINEERING
 <p align="center"> <sub>◉ TERMINAL LINK ESTABLISHED ◉</sub> </p> ```
 
 
-## 🎯 2026 MISSION OBJECTIVES
+## 🎯 2026 // MISSION CONTROL
 
 ```text
-[✓] Learn Java Fundamentals
-[✓] Learn OOP Concepts
-[✓] Learn Operators & Control Flow
-[ ] Master Advanced Java
-[ ] Master Data Structures & Algorithms
-[ ] Build Professional Java Projects
-[ ] Build Advanced AI Assistant
-[ ] Improve Software Engineering Skills
-[ ] Contribute to Open Source
-[ ] Become a Professional Software Developer
-```
+┌──────────────────────────────────────────────────────────┐
+│                 MISSION PROGRESS                         │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  JAVA CORE              ████████████████░░  ACTIVE       │
+│  DSA                    ███████████░░░░░░  TRAINING      │
+│  SOFTWARE ENGINEERING   ████████████░░░░░  ACTIVE       │
+│  LINUX                  ██████████░░░░░░░  LEARNING      │
+│  ARTIFICIAL INTELLIGENCE███████░░░░░░░░░  DEVELOPING    │
+│  PROJECTS               █████████░░░░░░░░  BUILDING      │
+│                                                          │
+├──────────────────────────────────────────────────────────┤
+│  PRIMARY MISSION: BECOME A PROFESSIONAL SOFTWARE DEV     │
+└──────────────────────────────────────────────────────────┘
 
----
+<p align="center"> <sub>⚡ LEARN → BUILD → DEBUG → IMPROVE → REPEAT ⚡</sub> </p> ```
 
 ## 📡 CONTACT // COMMAND CENTER
 
@@ -197,7 +197,7 @@ MISSION: SOFTWARE ENGINEERING
 ## 📈 CONTRIBUTION ACTIVITY
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilaryaprajapati122&bg_color=00000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilaryaprajapati122&bg_color=050510&color=00FFFF&line=0088FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 </p>
 
 
@@ -206,7 +206,6 @@ MISSION: SOFTWARE ENGINEERING
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 </p>
-
 ---
 
 <p align="center">
