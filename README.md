@@ -125,21 +125,9 @@ I'm **Nikhil Arya Prajapati**, a Computer Science student focused on becoming a 
 
 ## 💻 TERMINAL // NIKHIL-CORE
 
-```bash
-┌──(nikhil㉿github)-[~/future]
-└─$ ./mission.sh
-
-[✓] Learn
-[✓] Build
-[✓] Debug
-[✓] Improve
-[✓] Repeat
-
-SYSTEM STATUS : ONLINE ⚡
-MISSION       : SOFTWARE ENGINEERING
-```
-
----
+<p align="center">
+  <img src="./assets/terminal.svg" width="100%" alt="JARVIS Terminal"/>
+</p>
 
 ## 📊 GITHUB // ANALYTICS
 
@@ -218,6 +206,11 @@ MISSION       : SOFTWARE ENGINEERING
 <a href="https://github.com/nikhilaryaprajapati122">
 <img src="https://img.shields.io/badge/GITHUB-ONLINE-00FFFF?style=for-the-badge&logo=github&logoColor=00FFFF&labelColor=050510"/>
 </a>
+</p>
+<p align="center">
+
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20COLLABORATION-00FFFF?style=for-the-badge&labelColor=050510"/>
+<img src="https://img.shields.io/badge/MODE-DEVELOPMENT-8A2BE2?style=for-the-badge&labelColor=050510"/>
 
 </p>
 
