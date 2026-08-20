@@ -70,6 +70,10 @@ I'm **Nikhil Arya Prajapati**, a Computer Science student focused on becoming a 
 
 ---
 
+<p align="center">
+  <img src="./assets/system-core.svg" width="100%" alt="JARVIS Core Monitor"/>
+</p>
+
 ## 🧠 TECH ARSENAL
 
 <p align="center">
