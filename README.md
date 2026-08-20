@@ -158,14 +158,53 @@ Hi! I'm **Nikhil Arya Prajapati**, a computer science student passionate about p
 
 ---
 
-## 🚀 FEATURED PROJECTS
+## 🚀 PROJECT COMMAND CENTER
 
-| Project                     | Description                           |
-| --------------------------- | ------------------------------------- |
-| 🤖 **JARVIS AI**            | Personal AI assistant project         |
-| ☕ **Java Projects**         | Java programming & OOP practice       |
-| 🐧 **Linux Practice**       | Linux commands and system learning    |
-| 🧠 **Software Engineering** | SDLC and software engineering studies |
+<p align="center">
+
+<a href="https://github.com/nikhilaryaprajapati122/Java-Basic">
+<img src="https://img.shields.io/badge/☕_JAVA--BASIC-00ffff?style=for-the-badge&labelColor=050505" />
+</a>
+
+<a href="https://github.com/nikhilaryaprajapati122/python-practice">
+<img src="https://img.shields.io/badge/🐍_PYTHON--PRACTICE-00ffff?style=for-the-badge&labelColor=050505" />
+</a>
+
+</p>
+
+```text id="r7e5kp"
+╔════════════════════════════════════════════════════════════╗
+║                 PROJECT COMMAND CENTER                    ║
+╠════════════════════════════════════════════════════════════╣
+║                                                            ║
+║  [01] JAVA-BASIC                                          ║
+║      ├─ Language   : Java ☕                               ║
+║      ├─ Mission    : Java Fundamentals                    ║
+║      └─ Status     : ████████████████░░  ACTIVE           ║
+║                                                            ║
+║  [02] PYTHON-PRACTICE                                     ║
+║      ├─ Language   : Python 🐍                            ║
+║      ├─ Mission    : Programming Practice                 ║
+║      └─ Status     : ██████████████░░░░  ACTIVE           ║
+║                                                            ║
+╠════════════════════════════════════════════════════════════╣
+║  SELECT PROJECT → CLICK THE NEON COMMAND BUTTON           ║
+╚════════════════════════════════════════════════════════════╝
+```
+
+<p align="center">
+  <a href="https://github.com/nikhilaryaprajapati122/Java-Basic">
+    <img src="https://img.shields.io/badge/OPEN_JAVA_CORE-→-00ffff?style=for-the-badge&labelColor=050505"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/nikhilaryaprajapati122/python-practice">
+    <img src="https://img.shields.io/badge/OPEN_PYTHON_CORE-→-00ffff?style=for-the-badge&labelColor=050505"/>
+  </a>
+</p>
+
+<p align="center">
+  <sub>⚡ PROJECTS ARE ACTIVE SYSTEM MODULES ⚡</sub>
+</p>
 
 ---
 
