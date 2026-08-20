@@ -40,6 +40,9 @@ Hi! I'm **Nikhil Arya Prajapati**, a computer science student passionate about p
 
 ---
 
+<p align="center">
+  <img src="./assets/hud.svg" width="100%" alt="JARVIS HUD"/>
+</p>
 
 ## 🧬 J.A.R.V.I.S CORE
 
