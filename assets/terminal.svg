@@ -1,0 +1,91 @@
+<svg width="1000" height="230" viewBox="0 0 1000 230"
+xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+  <linearGradient id="border" x1="0%" x2="100%">
+    <stop offset="0%" stop-color="#00ffff"/>
+    <stop offset="50%" stop-color="#0088ff"/>
+    <stop offset="100%" stop-color="#8a2be2"/>
+  </linearGradient>
+
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="2.5" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+</defs>
+
+<!-- Terminal body -->
+<rect x="5" y="5" width="990" height="220"
+rx="14"
+fill="#03030a"
+stroke="url(#border)"
+stroke-width="2"
+filter="url(#glow)"/>
+
+<!-- Top bar -->
+<rect x="5" y="5" width="990" height="38"
+rx="14"
+fill="#08081a"/>
+
+<!-- Window buttons -->
+<circle cx="30" cy="24" r="6" fill="#00ffff"/>
+<circle cx="50" cy="24" r="6" fill="#0088ff"/>
+<circle cx="70" cy="24" r="6" fill="#8a2be2"/>
+
+<text x="100" y="29"
+font-family="monospace"
+font-size="12"
+fill="#00ffff">
+NIKHIL // JARVIS TERMINAL
+</text>
+
+<!-- Terminal text -->
+<g font-family="monospace" font-size="13">
+
+<text x="35" y="72" fill="#0088ff">
+nikhil@jarvis:~$
+</text>
+
+<text x="180" y="72" fill="#ffffff">
+systemctl status nikhil-core
+</text>
+
+<text x="35" y="98" fill="#00ffff">
+● nikhil-core.service
+</text>
+
+<text x="35" y="122" fill="#ffffff">
+Loaded: ACTIVE
+</text>
+
+<text x="35" y="146" fill="#ffffff">
+Status: ONLINE
+</text>
+
+<text x="35" y="178" fill="#8a2be2">
+Mission:
+</text>
+
+<text x="110" y="178" fill="#ffffff">
+MASTER SOFTWARE ENGINEERING
+</text>
+
+<text x="35" y="202" fill="#00ffff">
+&gt; BUILDING THE FUTURE...
+</text>
+
+<!-- Cursor -->
+<rect x="260" y="191" width="8" height="15"
+fill="#00ffff">
+<animate attributeName="opacity"
+values="1;0;1"
+dur="1s"
+repeatCount="indefinite"/>
+</rect>
+
+</g>
+
+</svg>
