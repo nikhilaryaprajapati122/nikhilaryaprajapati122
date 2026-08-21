@@ -244,10 +244,14 @@
 
 </p>
 
+
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,30:0088FF,65:4B0082,100:050510&height=150&section=footer&text=SYSTEM%20ONLINE&fontSize=27&fontColor=00FFFF&animation=twinkling&fontAlignY=65" width="100%"/>
+  <img src="./assets/final-hud.svg"
+       width="100%"
+       alt="JARVIS Final System HUD"/>
 </p>
 
 <p align="center">
-  <b>⚡ KEEP BUILDING • KEEP LEARNING • KEEP EVOLVING ⚡</b>
+  <sub>◉ CONNECTION TERMINATED // SYSTEM REMAINS ONLINE ◉</sub>
 </p>
