@@ -111,30 +111,23 @@
 ## 🚀 PROJECT COMMAND CENTER
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,25:001f3f,55:0088ff,100:4b0082&height=85&section=header&text=PROJECT%20COMMAND%20CENTER&fontSize=20&fontColor=00FFFF&animation=fadeIn"/>
+  <img src="./assets/project-command.svg"
+       width="100%"
+       alt="Project Command Center"/>
 </p>
 
 <p align="center">
 
 <a href="https://github.com/nikhilaryaprajapati122/Java-Basic">
-<img src="https://img.shields.io/badge/%5B01%5D_JAVA--BASIC-00FFFF?style=for-the-badge&labelColor=050510"/>
+<img src="https://img.shields.io/badge/☕_JAVA--BASIC-00FFFF?style=for-the-badge&labelColor=050510"/>
 </a>
 
-&nbsp;&nbsp;
+&nbsp;
 
 <a href="https://github.com/nikhilaryaprajapati122/python-practice">
-<img src="https://img.shields.io/badge/%5B02%5D_PYTHON--PRACTICE-0088FF?style=for-the-badge&labelColor=050510"/>
+<img src="https://img.shields.io/badge/🐍_PYTHON--PRACTICE-0088FF?style=for-the-badge&labelColor=050510"/>
 </a>
 
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JAVA%20CORE-FUNDAMENTALS%20%7C%20OOP%20%7C%20PRACTICE-00FFFF?style=for-the-badge&labelColor=050510"/>
-  <img src="https://img.shields.io/badge/PYTHON%20CORE-PRACTICE%20%7C%20AUTOMATION-8A2BE2?style=for-the-badge&labelColor=050510"/>
-</p>
-
-<p align="center">
-  <sub>◉ SELECT MODULE • ENTER DEVELOPMENT CORE • BUILD ◉</sub>
 </p>
 
 ## 💻 TERMINAL // NIKHIL-CORE
@@ -213,37 +206,10 @@
 ## 🎯 2026 // MISSION CONTROL
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,25:001f3f,55:0088ff,100:4b0082&height=85&section=header&text=2026%20MISSION%20CONTROL&fontSize=20&fontColor=00FFFF&animation=fadeIn"/>
+  <img src="./assets/mission-control.svg"
+       width="100%"
+       alt="2026 Mission Control"/>
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JAVA-CORE%20%E2%86%92%20ADVANCED-00FFFF?style=for-the-badge&labelColor=050510"/>
-  <img src="https://img.shields.io/badge/DSA-TRAINING-0088FF?style=for-the-badge&labelColor=050510"/>
-  <img src="https://img.shields.io/badge/AI-DEVELOPMENT-8A2BE2?style=for-the-badge&labelColor=050510"/>
-</p>
-
-```text
-╔════════════════════════════════════════════════════════════╗
-║                 MISSION CONTROL // 2026                  ║
-╠════════════════════════════════════════════════════════════╣
-║                                                            ║
-║  [✓] JAVA FUNDAMENTALS                                    ║
-║  [✓] OOP + CONTROL FLOW                                   ║
-║  [ ] ADVANCED JAVA                                        ║
-║  [ ] DATA STRUCTURES & ALGORITHMS                         ║
-║  [ ] PROFESSIONAL JAVA PROJECTS                           ║
-║  [ ] ADVANCED AI ASSISTANT                                ║
-║  [ ] OPEN SOURCE CONTRIBUTION                             ║
-║                                                            ║
-║  PRIMARY OBJECTIVE                                        ║
-║  └─ PROFESSIONAL SOFTWARE ENGINEER                        ║
-║                                                            ║
-║  SYSTEM MODE                                              ║
-║  └─ LEARN → BUILD → DEBUG → IMPROVE → MASTER             ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
-
-<p align="center"> <img src="https://img.shields.io/badge/MISSION-ONLINE-00FFFF?style=for-the-badge&labelColor=050510"/> </p> ```
 
 ## 📡 CONTACT // COMMAND CENTER
 
