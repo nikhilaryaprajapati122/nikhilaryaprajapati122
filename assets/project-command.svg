@@ -1,0 +1,137 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360"
+xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#03030a"/>
+    <stop offset="50%" stop-color="#001f3f"/>
+    <stop offset="100%" stop-color="#100020"/>
+  </linearGradient>
+
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#00ffff"/>
+    <stop offset="50%" stop-color="#0088ff"/>
+    <stop offset="100%" stop-color="#8a2be2"/>
+  </linearGradient>
+
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="3" result="b"/>
+    <feMerge>
+      <feMergeNode in="b"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+
+  <style>
+    .title {
+      font:bold 22px Arial;
+      fill:#00ffff;
+      letter-spacing:3px;
+    }
+
+    .label {
+      font:bold 15px Arial;
+      fill:#8fdfff;
+      letter-spacing:2px;
+    }
+
+    .text {
+      font:13px monospace;
+      fill:#ffffff;
+    }
+
+    .online {
+      animation:pulse 1.5s infinite;
+    }
+
+    @keyframes pulse {
+      0%,100% { opacity:.35; }
+      50% { opacity:1; }
+    }
+  </style>
+</defs>
+
+<rect width="1200" height="360" rx="20"
+fill="url(#bg)"
+stroke="#00ffff"
+stroke-width="2"/>
+
+<rect x="14" y="14" width="1172" height="332"
+rx="16" fill="none"
+stroke="url(#line)"
+opacity=".65"/>
+
+<text x="55" y="55" class="title">
+PROJECT COMMAND CENTER
+</text>
+
+<text x="55" y="80" class="label">
+ACTIVE DEVELOPMENT MODULES
+</text>
+
+<!-- JAVA -->
+
+<rect x="55" y="115" width="500" height="85"
+rx="12" fill="#050510"
+stroke="#00ffff" opacity=".95"/>
+
+<text x="80" y="145" class="label">
+[01] JAVA-BASIC
+</text>
+
+<text x="80" y="172" class="text">
+JAVA • OOP • FUNDAMENTALS
+</text>
+
+<circle cx="520" cy="145" r="7"
+fill="#00ffff"
+filter="url(#glow)"
+class="online"/>
+
+<text x="80" y="191" class="label">
+STATUS : ONLINE
+</text>
+
+<!-- PYTHON -->
+
+<rect x="645" y="115" width="500" height="85"
+rx="12" fill="#050510"
+stroke="#0088ff"/>
+
+<text x="670" y="145" class="label">
+[02] PYTHON-PRACTICE
+</text>
+
+<text x="670" y="172" class="text">
+PYTHON • AUTOMATION • AI
+</text>
+
+<circle cx="1110" cy="145" r="7"
+fill="#0088ff"
+filter="url(#glow)"
+class="online"/>
+
+<text x="670" y="191" class="label">
+STATUS : ACTIVE
+</text>
+
+<!-- MISSION -->
+
+<line x1="55" y1="235" x2="1145" y2="235"
+stroke="url(#line)" stroke-width="2"/>
+
+<text x="55" y="270" class="label">
+MISSION
+</text>
+
+<text x="55" y="300" class="text">
+LEARN → BUILD → DEBUG → DEPLOY → EVOLVE
+</text>
+
+<text x="1145" y="300"
+text-anchor="end"
+class="label">
+SYSTEM READY
+</text>
+
+</svg>
