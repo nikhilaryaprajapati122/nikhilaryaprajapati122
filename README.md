@@ -42,40 +42,37 @@
   <sub>J.A.R.V.I.S CORE INITIALIZED • SYSTEM READY • DEVELOPMENT MODE</sub>
 </p>
 
+
 ## 👨‍💻 ABOUT // NIKHIL
 
 <p align="center">
-  <img src="https://img.shields.io/badge/IDENTITY-NIKHIL%20ARYA%20PRAJAPATI-00FFFF?style=for-the-badge&labelColor=050510"/>
-  <img src="https://img.shields.io/badge/ROLE-JAVA%20DEVELOPER-0088FF?style=for-the-badge&labelColor=050510"/>
-  <img src="https://img.shields.io/badge/STATUS-BUILDING-8A2BE2?style=for-the-badge&labelColor=050510"/>
-</p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,25:001f3f,55:0088ff,100:4b0082&height=80&section=header&text=LEARN%20%E2%86%92%20BUILD%20%E2%86%92%20DEBUG%20%E2%86%92%20EVOLVE&fontSize=18&fontColor=00FFFF&animation=fadeIn"/>
-</p>
+<img src="https://img.shields.io/badge/IDENTITY-NIKHIL_ARYA_PRAJAPATI-00FFFF?style=for-the-badge&labelColor=050510"/>
 
-<p align="center">
-  <b>Computer Science Student • Java Developer in Progress • Future Software Engineer</b>
-</p>
+<img src="https://img.shields.io/badge/ROLE-JAVA_DEVELOPER-0088FF?style=for-the-badge&labelColor=050510"/>
 
-<p align="center">
-  I am building my foundation in <b>Java</b>, <b>Software Engineering</b>,
-  <b>AI</b> and <b>Linux</b> through continuous learning and practical projects.
-</p>
-
-<p align="center">
-
-☕ JAVA &nbsp; • &nbsp;
-🤖 AI &nbsp; • &nbsp;
-🐧 LINUX &nbsp; • &nbsp;
-🧠 SOFTWARE ENGINEERING
+<img src="https://img.shields.io/badge/STATUS-BUILDING-8A2BE2?style=for-the-badge&labelColor=050510"/>
 
 </p>
 
 <p align="center">
-  <sub>◉ PROFILE CORE • HUMAN INTERFACE • DEVELOPER MODE ◉</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,45:001f3f,75:0088FF,100:8A2BE2&height=90&section=header&text=LEARN%20%E2%86%92%20BUILD%20%E2%86%92%20DEBUG%20%E2%86%92%20EVOLVE&fontSize=18&fontColor=00FFFF&animation=fadeIn"/>
+
 </p>
 
+<table align="center">
+<tr>
+<td width="50%">
+
+### 🧠 DEVELOPMENT CORE
+
+```text
+JAVA        → CORE → OOP → ADVANCED
+PYTHON      → PRACTICE → AUTOMATION
+LINUX       → SYSTEM → DEVELOPMENT
+AI          → JARVIS → EXPERIMENTS
+</td> <td width="50%">
 
 ## 🧠 TECH ARSENAL // CORE MODULES
 
@@ -131,20 +128,36 @@
 
 </p>
 
-## 💻 TERMINAL // NIKHIL-CORE
+## 🧠 TECH ARSENAL // MODULES
 
 <p align="center">
-  <img src="./assets/terminal.svg" width="100%" alt="JARVIS Terminal"/>
+
+<img src="https://img.shields.io/badge/JAVA_CORE-ONLINE-00FFFF?style=for-the-badge&logo=openjdk&logoColor=00FFFF&labelColor=050510"/>
+
+<img src="https://img.shields.io/badge/PYTHON-ACTIVE-0088FF?style=for-the-badge&logo=python&logoColor=FFFFFF&labelColor=050510"/>
+
+<img src="https://img.shields.io/badge/AI-DEVELOPING-8A2BE2?style=for-the-badge&logo=robotframework&logoColor=FFFFFF&labelColor=050510"/>
+
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TERMINAL-LINK%20ACTIVE-00FFFF?style=for-the-badge&labelColor=050510"/>
-  <img src="https://img.shields.io/badge/CORE-PROCESS%20RUNNING-0088FF?style=for-the-badge&labelColor=050510"/>
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,git,github,linux,vscode,mysql&theme=dark"/>
 </p>
 
 <p align="center">
-  <sub>◉ COMMAND INTERFACE • SYSTEM ACCESS • DEVELOPMENT MODE ◉</sub>
+
+<img src="https://img.shields.io/badge/LEARNING_CORE-████████░░-00FFFF?style=for-the-badge&labelColor=050510"/>
+
+<img src="https://img.shields.io/badge/BUILD_MODE-ACTIVE-0088FF?style=for-the-badge&labelColor=050510"/>
+
+<img src="https://img.shields.io/badge/FUTURE_STACK-LOADING-8A2BE2?style=for-the-badge&labelColor=050510"/>
+
 </p>
+
+<p align="center">
+<sub>◉ TECHNOLOGY MATRIX • SYSTEM MODULES • DEVELOPMENT ARSENAL ◉</sub>
+</p>
+
 
 ## 🧬 SYSTEM // DEVELOPMENT MATRIX
 
@@ -172,13 +185,27 @@
 
 ---
 
-## 🔥 CONTRIBUTION // STREAK
+## 🐍 CONTRIBUTION // NEURAL ACTIVITY
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nikhilaryaprajapati122&theme=tokyonight&hide_border=true&background=050510&ring=00FFFF&fire=0088FF&currStreakLabel=00FFFF&sideLabels=8A2BE2" width="80%"/>
+
+<img src="https://img.shields.io/badge/NEURAL_ACTIVITY-ONLINE-00FFFF?style=for-the-badge&labelColor=050510"/>
+
 </p>
 
+<p align="center">
 
+<img
+src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+alt="GitHub Contribution Snake"
+width="100%"
+/>
+
+</p>
+
+<p align="center">
+<sub>◉ CONTRIBUTION SIGNALS • DEVELOPMENT ACTIVITY • CORE EVOLUTION ◉</sub>
+</p>
 
 ## 📈 CONTRIBUTION // ACTIVITY
 
@@ -223,6 +250,7 @@
        width="100%"
        alt="2026 Mission Control"/>
 </p>
+</td> </tr> </table> <p align="center"> <sub>◉ DEVELOPMENT CORE INITIALIZED • BUILD MODE ACTIVE ◉</sub> </p> ```
 
 ## 📡 CONTACT // COMMAND CENTER
 
@@ -252,6 +280,3 @@
        alt="JARVIS Final System HUD"/>
 </p>
 
-<p align="center">
-  <sub>◉ CONNECTION TERMINATED // SYSTEM REMAINS ONLINE ◉</sub>
-</p>
