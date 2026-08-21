@@ -1,0 +1,147 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300"
+xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#03030a"/>
+    <stop offset="50%" stop-color="#001f3f"/>
+    <stop offset="100%" stop-color="#100020"/>
+  </linearGradient>
+
+  <linearGradient id="neon">
+    <stop offset="0%" stop-color="#00ffff"/>
+    <stop offset="50%" stop-color="#0088ff"/>
+    <stop offset="100%" stop-color="#8a2be2"/>
+  </linearGradient>
+
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="3" result="b"/>
+    <feMerge>
+      <feMergeNode in="b"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+
+  <style>
+    .title {
+      font:bold 23px Arial;
+      fill:#00ffff;
+      letter-spacing:4px;
+    }
+
+    .text {
+      font:14px monospace;
+      fill:#d8f8ff;
+      letter-spacing:1px;
+    }
+
+    .pulse {
+      animation:pulse 1.5s infinite;
+    }
+
+    @keyframes pulse {
+      0%,100% { opacity:.3; }
+      50% { opacity:1; }
+    }
+  </style>
+</defs>
+
+<rect width="1200" height="300" rx="20"
+fill="url(#bg)"
+stroke="#00ffff"
+stroke-width="2"/>
+
+<rect x="14" y="14"
+width="1172" height="272"
+rx="16"
+fill="none"
+stroke="url(#neon)"
+opacity=".65"/>
+
+<text x="600" y="52"
+text-anchor="middle"
+class="title">
+COMMUNICATION // COMMAND CENTER
+</text>
+
+<line x1="70" y1="75" x2="1130" y2="75"
+stroke="url(#neon)"
+stroke-width="2"/>
+
+<!-- GITHUB -->
+
+<rect x="90" y="110" width="300" height="70"
+rx="12"
+fill="#050510"
+stroke="#00ffff"/>
+
+<circle cx="120" cy="145" r="7"
+fill="#00ffff"
+filter="url(#glow)"
+class="pulse"/>
+
+<text x="145" y="140" class="text">
+GITHUB LINK
+</text>
+
+<text x="145" y="163" class="text">
+ONLINE • PUBLIC
+</text>
+
+<!-- COLLAB -->
+
+<rect x="450" y="110" width="300" height="70"
+rx="12"
+fill="#050510"
+stroke="#0088ff"/>
+
+<circle cx="480" cy="145" r="7"
+fill="#0088ff"
+filter="url(#glow)"
+class="pulse"/>
+
+<text x="505" y="140" class="text">
+COLLABORATION
+</text>
+
+<text x="505" y="163" class="text">
+CHANNEL : OPEN
+</text>
+
+<!-- STATUS -->
+
+<rect x="810" y="110" width="300" height="70"
+rx="12"
+fill="#050510"
+stroke="#8a2be2"/>
+
+<circle cx="840" cy="145" r="7"
+fill="#8a2be2"
+filter="url(#glow)"
+class="pulse"/>
+
+<text x="865" y="140" class="text">
+DEVELOPMENT
+</text>
+
+<text x="865" y="163" class="text">
+MODE : ACTIVE
+</text>
+
+<line x1="70" y1="215" x2="1130" y2="215"
+stroke="url(#neon)"
+stroke-width="2"/>
+
+<text x="600" y="248"
+text-anchor="middle"
+class="text">
+◉ COMMUNICATION LINK ESTABLISHED
+</text>
+
+<text x="600" y="272"
+text-anchor="middle"
+class="text">
+LEARN • BUILD • COLLABORATE • EVOLVE
+</text>
+
+</svg>
