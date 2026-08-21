@@ -201,11 +201,17 @@ STATUS: ACTIVE
 ## 📊 GITHUB ACTIVITY
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nikhilaryaprajapati122&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Nikhil's GitHub Stats"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=nikhilaryaprajapati122&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    alt="Nikhil's GitHub Stats"
+  />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilaryaprajapati122&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilaryaprajapati122&theme=tokyonight&hide_border=true"
+    alt="Nikhil's GitHub Streak"
+  />
 </p>
 
 ---
