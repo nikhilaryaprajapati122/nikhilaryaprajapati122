@@ -76,34 +76,6 @@
   <sub>◉ PROFILE CORE • HUMAN INTERFACE • DEVELOPER MODE ◉</sub>
 </p>
 
-## 📊 GITHUB // LIVE DATA
-
-<p align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=nikhilaryaprajapati122&show_icons=true&hide_border=true&bg_color=050510&title_color=00FFFF&icon_color=0088FF&text_color=FFFFFF&border_color=0088FF"
-width="49%"
-/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilaryaprajapati122&layout=compact&hide_border=true&bg_color=050510&title_color=00FFFF&text_color=FFFFFF&border_color=8A2BE2"
-width="49%"
-/>
-
-</p>
-
-<p align="center">
-
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilaryaprajapati122&hide_border=true&background=050510&ring=00FFFF&fire=0088FF&currStreakLabel=00FFFF&sideLabels=8A2BE2&sideNums=FFFFFF&dates=8FDFFF"
-width="80%"
-/>
-
-</p>
-
-<p align="center">
-<sub>◉ GITHUB DATA STREAM // LIVE ◉</sub>
-</p>
 
 ## 🧠 TECH ARSENAL // CORE MODULES
 
@@ -232,19 +204,16 @@ width="80%"
 
 ---
 
-## 🏆 ACHIEVEMENT MATRIX // DATABASE
-
 <p align="center">
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=nikhilaryaprajapati122&theme=matrix&no-frame=true&no-bg=true&margin-w=10&row=1&column=6"
-width="100%"
-/>
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFFF,50:0088FF,100:8A2BE2&height=4&section=header" width="85%"/>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/ACHIEVEMENT_DATABASE-ONLINE-00FFFF?style=for-the-badge&labelColor=050510"/>
+  <sub>◈ CORE DATA MODULE ◈</sub>
+</p>
+
+<p align="center">
+  <img src="./assets/radar.svg" width="100%" alt="Neural Radar"/>
 </p>
 
 ## 🎯 2026 // MISSION CONTROL
