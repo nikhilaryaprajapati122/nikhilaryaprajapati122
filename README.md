@@ -10,6 +10,10 @@
 <p align="center">
 
 ### 🛰️ J.A.R.V.I.S // DEVELOPMENT CORE
+<p align="center">
+  <img src="https://img.shields.io/badge/J.A.R.V.I.S-DEVELOPMENT%20CORE-00E5FF?style=for-the-badge&logo=probot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CORE-ONLINE-00FF88?style=for-the-badge"/>
+</p>
 
 </p>
 
@@ -67,6 +71,17 @@
 </p>
 
 ## ⚙️ TECH ARSENAL
+<p align="center">
+  <img src="https://img.shields.io/badge/JAVA-CORE%20%26%20OOP-orange?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PYTHON-LEARNING-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LINUX-SYSTEMS-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-UI-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-FUTURISTIC%20DESIGN-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JAVASCRIPT-INTERACTION-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
 ### 💻 Programming
 
@@ -126,7 +141,10 @@
 ---
 
 ### `[03]` NEXUS // FUTURISTIC DEVELOPMENT INTERFACE
-
+<p align="center">
+  <img src="https://img.shields.io/badge/NEXUS-FUTURISTIC%20UI-00E5FF?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LIVE-ONLINE-00FF88?style=for-the-badge"/>
+</p>
 | FIELD | VALUE |
 |---|---|
 | **TYPE** | Web UI / Frontend |
@@ -148,6 +166,20 @@
 - ◈ Project command center
 - ◈ Interactive terminal
 - ◈ JavaScript-powered interactions
+
+<p align="center">
+  <img src="https://img.shields.io/badge/◈_INTERACTIVE_TERMINAL-ONLINE-00E5FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/◈_LIVE_SYSTEM_CLOCK-ACTIVE-0088FF?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/◈_SKILL_MATRIX-ACTIVE-7A00FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/◈_PROJECT_COMMAND_CENTER-ACTIVE-00FF88?style=for-the-badge"/>
+</p>
+
+### 🖥️ NEXUS INTERACTION CORE
+
+`TERMINAL` • `SYSTEM CLOCK` • `SKILL MATRIX` • `PROJECT CENTER` • `RESPONSIVE UI` • `JAVASCRIPT INTERACTIONS`
 
 #### ◈ ACCESS NEXUS
 
