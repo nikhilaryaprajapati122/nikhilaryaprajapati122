@@ -72,7 +72,7 @@ JAVA        → CORE → OOP → ADVANCED
 PYTHON      → PRACTICE → AUTOMATION
 LINUX       → SYSTEM → DEVELOPMENT
 AI          → JARVIS → EXPERIMENTS
-</td> <td width="50%">
+
 
 ## 🧠 TECH ARSENAL // CORE MODULES
 
