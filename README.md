@@ -198,30 +198,6 @@ STATUS: ACTIVE
 
 ---
 
-## 📊 GITHUB ACTIVITY
-
-<p align="center">
-  <img
-    src="./assets/github-stats.svg"
-    alt="Nikhil's GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="./assets/top-languages.svg"
-    alt="Nikhil's Top Languages"
-  />
-</p>
----
-
-## 🐍 CONTRIBUTION // NEURAL ACTIVITY
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/nikhilaryaprajapati122/nikhilaryaprajapati122/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
-
----
 
 ## 🎯 2026 // MISSION CONTROL
 
