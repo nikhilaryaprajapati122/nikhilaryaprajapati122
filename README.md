@@ -107,41 +107,35 @@
   <img src="https://img.shields.io/badge/🤖_AI-DEVELOPING-00FFFF?style=for-the-badge&labelColor=050510"/>
 </p>
 
+
 ## 🚀 PROJECT COMMAND CENTER
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,25:001f3f,55:0088ff,100:4b0082&height=85&section=header&text=PROJECT%20COMMAND%20CENTER&fontSize=20&fontColor=00FFFF&animation=fadeIn"/>
+</p>
 
 <p align="center">
 
 <a href="https://github.com/nikhilaryaprajapati122/Java-Basic">
-  <img src="https://img.shields.io/badge/%5B01%5D_JAVA--BASIC-00FFFF?style=for-the-badge&labelColor=050510"/>
+<img src="https://img.shields.io/badge/%5B01%5D_JAVA--BASIC-00FFFF?style=for-the-badge&labelColor=050510"/>
 </a>
+
+&nbsp;&nbsp;
 
 <a href="https://github.com/nikhilaryaprajapati122/python-practice">
-  <img src="https://img.shields.io/badge/%5B02%5D_PYTHON--PRACTICE-0088FF?style=for-the-badge&labelColor=050510"/>
+<img src="https://img.shields.io/badge/%5B02%5D_PYTHON--PRACTICE-0088FF?style=for-the-badge&labelColor=050510"/>
 </a>
 
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JAVA--BASIC-CORE%20%7C%20OOP%20%7C%20PRACTICE-00FFFF?style=for-the-badge&labelColor=050510"/>
+  <img src="https://img.shields.io/badge/JAVA%20CORE-FUNDAMENTALS%20%7C%20OOP%20%7C%20PRACTICE-00FFFF?style=for-the-badge&labelColor=050510"/>
+  <img src="https://img.shields.io/badge/PYTHON%20CORE-PRACTICE%20%7C%20AUTOMATION-8A2BE2?style=for-the-badge&labelColor=050510"/>
 </p>
 
 <p align="center">
-  <sub>☕ JAVA CORE MODULE • FUNDAMENTALS → OOP → ADVANCED</sub>
+  <sub>◉ SELECT MODULE • ENTER DEVELOPMENT CORE • BUILD ◉</sub>
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PYTHON--PRACTICE-CODING%20%7C%20MINI%20PROJECTS-0088FF?style=for-the-badge&labelColor=050510"/>
-</p>
-
-<p align="center">
-  <sub>🐍 PYTHON MODULE • PRACTICE → BUILD → AUTOMATE</sub>
-</p>
-
-<p align="center">
-  <b>⚡ PROJECTS ARE ACTIVE DEVELOPMENT MODULES ⚡</b>
-</p>
-
----
 
 ## 💻 TERMINAL // NIKHIL-CORE
 
@@ -150,7 +144,12 @@
 </p>
 
 <p align="center">
-  <sub>◉ TERMINAL LINK ACTIVE • CORE PROCESS RUNNING ◉</sub>
+  <img src="https://img.shields.io/badge/TERMINAL-LINK%20ACTIVE-00FFFF?style=for-the-badge&labelColor=050510"/>
+  <img src="https://img.shields.io/badge/CORE-PROCESS%20RUNNING-0088FF?style=for-the-badge&labelColor=050510"/>
+</p>
+
+<p align="center">
+  <sub>◉ COMMAND INTERFACE • SYSTEM ACCESS • DEVELOPMENT MODE ◉</sub>
 </p>
 
 ## 🧬 SYSTEM // DEVELOPMENT MATRIX
@@ -214,54 +213,43 @@
 ## 🎯 2026 // MISSION CONTROL
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,25:001f3f,55:0088ff,100:4b0082&height=85&section=header&text=2026%20MISSION%20CONTROL&fontSize=20&fontColor=00FFFF&animation=fadeIn"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/JAVA-CORE%20%E2%86%92%20ADVANCED-00FFFF?style=for-the-badge&labelColor=050510"/>
   <img src="https://img.shields.io/badge/DSA-TRAINING-0088FF?style=for-the-badge&labelColor=050510"/>
   <img src="https://img.shields.io/badge/AI-DEVELOPMENT-8A2BE2?style=for-the-badge&labelColor=050510"/>
 </p>
 
-<p align="center">
-  <b>MISSION OBJECTIVES</b>
-</p>
+```text
+╔════════════════════════════════════════════════════════════╗
+║                 MISSION CONTROL // 2026                  ║
+╠════════════════════════════════════════════════════════════╣
+║                                                            ║
+║  [✓] JAVA FUNDAMENTALS                                    ║
+║  [✓] OOP + CONTROL FLOW                                   ║
+║  [ ] ADVANCED JAVA                                        ║
+║  [ ] DATA STRUCTURES & ALGORITHMS                         ║
+║  [ ] PROFESSIONAL JAVA PROJECTS                           ║
+║  [ ] ADVANCED AI ASSISTANT                                ║
+║  [ ] OPEN SOURCE CONTRIBUTION                             ║
+║                                                            ║
+║  PRIMARY OBJECTIVE                                        ║
+║  └─ PROFESSIONAL SOFTWARE ENGINEER                        ║
+║                                                            ║
+║  SYSTEM MODE                                              ║
+║  └─ LEARN → BUILD → DEBUG → IMPROVE → MASTER             ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
 
-<p align="center">
-
-✅ Java Fundamentals  
-&nbsp;&nbsp;•&nbsp;&nbsp;
-✅ OOP & Control Flow  
-&nbsp;&nbsp;•&nbsp;&nbsp;
-⬜ Advanced Java  
-
-</p>
-
-<p align="center">
-
-⬜ Data Structures & Algorithms  
-&nbsp;&nbsp;•&nbsp;&nbsp;
-⬜ Professional Java Projects  
-&nbsp;&nbsp;•&nbsp;&nbsp;
-⬜ Advanced AI Assistant  
-
-</p>
-
-<p align="center">
-
-⬜ Open Source Contribution  
-&nbsp;&nbsp;•&nbsp;&nbsp;
-⬜ Professional Software Engineering
-
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PRIMARY%20OBJECTIVE-PROFESSIONAL%20SOFTWARE%20ENGINEER-00FFFF?style=for-the-badge&labelColor=050510"/>
-</p>
-
-<p align="center">
-  <sub>LEARN → BUILD → DEBUG → IMPROVE → MASTER</sub>
-</p>
-
----
+<p align="center"> <img src="https://img.shields.io/badge/MISSION-ONLINE-00FFFF?style=for-the-badge&labelColor=050510"/> </p> ```
 
 ## 📡 CONTACT // COMMAND CENTER
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,25:001f3f,55:0088ff,100:4b0082&height=75&section=header&text=COMMUNICATION%20CENTER&fontSize=19&fontColor=00FFFF&animation=fadeIn"/>
+</p>
 
 <p align="center">
 
@@ -272,15 +260,13 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20COLLABORATION-00FFFF?style=for-the-badge&labelColor=050510"/>
-  <img src="https://img.shields.io/badge/MODE-DEVELOPMENT-8A2BE2?style=for-the-badge&labelColor=050510"/>
+  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20COLLABORATION-0088FF?style=for-the-badge&labelColor=050510"/>
+  <img src="https://img.shields.io/badge/LINK-DEVELOPMENT%20MODE-8A2BE2?style=for-the-badge&labelColor=050510"/>
 </p>
 
 <p align="center">
-  <sub>◉ COMMUNICATION LINK ACTIVE • BUILDING WITH PURPOSE ◉</sub>
+  <sub>◉ COMMUNICATION LINK ACTIVE • CONNECTION READY ◉</sub>
 </p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,30:0088FF,65:4B0082,100:050510&height=150&section=footer&text=SYSTEM%20ONLINE&fontSize=27&fontColor=00FFFF&animation=twinkling&fontAlignY=65" width="100%"/>
