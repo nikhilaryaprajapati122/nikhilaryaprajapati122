@@ -1,91 +1,144 @@
-<svg width="1000" height="230" viewBox="0 0 1000 230"
+<svg width="1200" height="360" viewBox="0 0 1200 360"
 xmlns="http://www.w3.org/2000/svg">
 
 <defs>
-  <linearGradient id="border" x1="0%" x2="100%">
-    <stop offset="0%" stop-color="#00ffff"/>
-    <stop offset="50%" stop-color="#0088ff"/>
-    <stop offset="100%" stop-color="#8a2be2"/>
+
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#03030a"/>
+    <stop offset="50%" stop-color="#001f3f"/>
+    <stop offset="100%" stop-color="#09001f"/>
   </linearGradient>
 
   <filter id="glow">
-    <feGaussianBlur stdDeviation="2.5" result="blur"/>
+    <feGaussianBlur stdDeviation="3" result="b"/>
     <feMerge>
-      <feMergeNode in="blur"/>
+      <feMergeNode in="b"/>
       <feMergeNode in="SourceGraphic"/>
     </feMerge>
   </filter>
+
+  <style>
+
+    .cursor {
+      animation: blink 1s steps(2) infinite;
+    }
+
+    .scan {
+      animation: scan 4s linear infinite;
+    }
+
+    @keyframes blink {
+      50% { opacity:0; }
+    }
+
+    @keyframes scan {
+      from { transform:translateY(-150px); opacity:0; }
+      20% { opacity:.6; }
+      80% { opacity:.3; }
+      to { transform:translateY(150px); opacity:0; }
+    }
+
+    .title {
+      font:bold 20px Arial;
+      fill:#00ffff;
+      letter-spacing:3px;
+    }
+
+    .cmd {
+      font:15px monospace;
+      fill:#8fdfff;
+    }
+
+    .success {
+      font:bold 15px monospace;
+      fill:#00ffff;
+    }
+
+    .dim {
+      font:13px monospace;
+      fill:#4da6d9;
+    }
+
+  </style>
 </defs>
 
-<!-- Terminal body -->
-<rect x="5" y="5" width="990" height="220"
+<!-- TERMINAL BODY -->
+
+<rect width="1200" height="360"
+rx="18"
+fill="url(#bg)"
+stroke="#00ffff"
+stroke-width="2"/>
+
+<rect x="12" y="12"
+width="1176"
+height="336"
 rx="14"
-fill="#03030a"
-stroke="url(#border)"
-stroke-width="2"
-filter="url(#glow)"/>
+fill="none"
+stroke="#8a2be2"
+opacity=".55"/>
 
-<!-- Top bar -->
-<rect x="5" y="5" width="990" height="38"
-rx="14"
-fill="#08081a"/>
+<!-- HEADER -->
 
-<!-- Window buttons -->
-<circle cx="30" cy="24" r="6" fill="#00ffff"/>
-<circle cx="50" cy="24" r="6" fill="#0088ff"/>
-<circle cx="70" cy="24" r="6" fill="#8a2be2"/>
+<circle cx="38" cy="38" r="6" fill="#ff4d6d"/>
+<circle cx="60" cy="38" r="6" fill="#ffd166"/>
+<circle cx="82" cy="38" r="6" fill="#00ffff"/>
 
-<text x="100" y="29"
-font-family="monospace"
-font-size="12"
-fill="#00ffff">
-NIKHIL // JARVIS TERMINAL
+<text x="110" y="44" class="title">
+NIKHIL-CORE // TERMINAL
 </text>
 
-<!-- Terminal text -->
-<g font-family="monospace" font-size="13">
+<!-- SCAN -->
 
-<text x="35" y="72" fill="#0088ff">
-nikhil@jarvis:~$
+<rect x="30" y="70"
+width="1140"
+height="2"
+fill="#00ffff"
+opacity=".4"
+class="scan"/>
+
+<!-- COMMANDS -->
+
+<text x="45" y="105" class="cmd">
+┌──(nikhil㉿github)-[~/future]
 </text>
 
-<text x="180" y="72" fill="#ffffff">
-systemctl status nikhil-core
+<text x="45" y="132" class="cmd">
+└─$ whoami
 </text>
 
-<text x="35" y="98" fill="#00ffff">
-● nikhil-core.service
+<text x="250" y="132" class="success">
+Nikhil Arya Prajapati
 </text>
 
-<text x="35" y="122" fill="#ffffff">
-Loaded: ACTIVE
+<text x="45" y="170" class="cmd">
+└─$ systemctl status nikhil-core
 </text>
 
-<text x="35" y="146" fill="#ffffff">
-Status: ONLINE
+<text x="45" y="198" class="success">
+● nikhil-core.service → ACTIVE
 </text>
 
-<text x="35" y="178" fill="#8a2be2">
-Mission:
+<text x="45" y="225" class="dim">
+STATUS: ONLINE • MODE: DEVELOPMENT
 </text>
 
-<text x="110" y="178" fill="#ffffff">
-MASTER SOFTWARE ENGINEERING
+<text x="45" y="263" class="cmd">
+└─$ ./mission.sh
 </text>
 
-<text x="35" y="202" fill="#00ffff">
-&gt; BUILDING THE FUTURE...
+<text x="45" y="289" class="success">
+&gt; LEARN → BUILD → DEBUG → IMPROVE → REPEAT
 </text>
 
-<!-- Cursor -->
-<rect x="260" y="191" width="8" height="15"
-fill="#00ffff">
-<animate attributeName="opacity"
-values="1;0;1"
-dur="1s"
-repeatCount="indefinite"/>
-</rect>
+<text x="45" y="320" class="cmd">
+└─$ <tspan class="cursor">█</tspan>
+</text>
 
-</g>
+<text x="1145" y="320"
+text-anchor="end"
+class="dim">
+J.A.R.V.I.S TERMINAL LINK
+</text>
 
 </svg>
