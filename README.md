@@ -227,24 +227,21 @@
 ## 📡 CONTACT // COMMAND CENTER
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,25:001f3f,55:0088ff,100:4b0082&height=75&section=header&text=COMMUNICATION%20CENTER&fontSize=19&fontColor=00FFFF&animation=fadeIn"/>
+  <img src="./assets/contact-hud.svg"
+       width="100%"
+       alt="Communication Command Center"/>
 </p>
 
 <p align="center">
 
 <a href="https://github.com/nikhilaryaprajapati122">
-  <img src="https://img.shields.io/badge/GITHUB-ONLINE-00FFFF?style=for-the-badge&logo=github&logoColor=00FFFF&labelColor=050510"/>
+<img src="https://img.shields.io/badge/GITHUB-OPEN-00FFFF?style=for-the-badge&logo=github&logoColor=00FFFF&labelColor=050510"/>
 </a>
 
-</p>
+<img src="https://img.shields.io/badge/COLLABORATION-OPEN-0088FF?style=for-the-badge&labelColor=050510"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20COLLABORATION-0088FF?style=for-the-badge&labelColor=050510"/>
-  <img src="https://img.shields.io/badge/LINK-DEVELOPMENT%20MODE-8A2BE2?style=for-the-badge&labelColor=050510"/>
-</p>
+<img src="https://img.shields.io/badge/DEVELOPMENT-ACTIVE-8A2BE2?style=for-the-badge&labelColor=050510"/>
 
-<p align="center">
-  <sub>◉ COMMUNICATION LINK ACTIVE • CONNECTION READY ◉</sub>
 </p>
 
 <p align="center">
