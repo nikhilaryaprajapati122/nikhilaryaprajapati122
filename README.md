@@ -202,18 +202,17 @@ STATUS: ACTIVE
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=nikhilaryaprajapati122&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    src="./assets/github-stats.svg"
     alt="Nikhil's GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilaryaprajapati122&theme=tokyonight&hide_border=true"
-    alt="Nikhil's GitHub Streak"
+    src="./assets/top-languages.svg"
+    alt="Nikhil's Top Languages"
   />
 </p>
-
 ---
 
 ## 🐍 CONTRIBUTION // NEURAL ACTIVITY
