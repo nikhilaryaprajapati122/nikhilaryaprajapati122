@@ -1,13 +1,239 @@
-## 🛰️ J.A.R.V.I.S // SYSTEM CORE
+<svg width="1200" height="420" viewBox="0 0 1200 420"
+xmlns="http://www.w3.org/2000/svg">
 
-<p align="center">
-  <img src="./assets/system-core.svg" width="100%" alt="JARVIS System Core"/>
-</p>
+<defs>
 
-<p align="center">
-  <img src="./assets/radar.svg" width="100%" alt="JARVIS Radar"/>
-</p>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#050510"/>
+    <stop offset="50%" stop-color="#001f3f"/>
+    <stop offset="100%" stop-color="#080020"/>
+  </linearGradient>
 
-<p align="center">
-  <sub>◉ NEURAL LINK ACTIVE • CORE STATUS ONLINE • DEVELOPMENT MODE ◉</sub>
-</p>
+  <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#00ffff"/>
+    <stop offset="50%" stop-color="#0088ff"/>
+    <stop offset="100%" stop-color="#8a2be2"/>
+  </linearGradient>
+
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="4" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M40 0H0V40"
+          fill="none"
+          stroke="#00ffff"
+          stroke-opacity="0.08"/>
+  </pattern>
+
+  <style>
+    .title {
+      font: bold 26px Arial, sans-serif;
+      fill: #00ffff;
+      letter-spacing: 4px;
+    }
+
+    .label {
+      font: bold 15px Arial, sans-serif;
+      fill: #8fdfff;
+      letter-spacing: 2px;
+    }
+
+    .value {
+      font: bold 17px Arial, sans-serif;
+      fill: #ffffff;
+    }
+
+    .small {
+      font: 12px Arial, sans-serif;
+      fill: #6fcfff;
+      letter-spacing: 2px;
+    }
+
+    .pulse {
+      animation: pulse 1.8s infinite;
+    }
+
+    .scan {
+      animation: scan 3s linear infinite;
+    }
+
+    @keyframes pulse {
+      0%,100% { opacity: .35; }
+      50% { opacity: 1; }
+    }
+
+    @keyframes scan {
+      0% { transform: translateY(-180px); opacity: 0; }
+      15% { opacity: .8; }
+      50% { opacity: .5; }
+      85% { opacity: .8; }
+      100% { transform: translateY(180px); opacity: 0; }
+    }
+  </style>
+
+</defs>
+
+<!-- BACKGROUND -->
+<rect width="1200" height="420" rx="22"
+      fill="url(#bg)"
+      stroke="#00ffff"
+      stroke-width="2"/>
+
+<rect width="1200" height="420" rx="22"
+      fill="url(#grid)"/>
+
+<!-- OUTER GLOW -->
+<rect x="12" y="12" width="1176" height="396" rx="18"
+      fill="none"
+      stroke="url(#neon)"
+      stroke-width="2"
+      filter="url(#glow)"/>
+
+<!-- HEADER -->
+<text x="55" y="62" class="title">
+  J.A.R.V.I.S // SYSTEM CORE
+</text>
+
+<text x="55" y="88" class="small">
+  NEURAL DEVELOPMENT INTERFACE • BUILD 2026
+</text>
+
+<!-- STATUS -->
+<circle cx="1085" cy="58" r="8"
+        fill="#00ffff"
+        filter="url(#glow)"
+        class="pulse"/>
+
+<text x="1105" y="64" class="label">
+  ONLINE
+</text>
+
+<!-- SCANNING LINE -->
+<rect x="40" y="110" width="1120" height="2"
+      fill="#00ffff"
+      opacity=".7"
+      class="scan"/>
+
+<!-- CORE CIRCLE -->
+<circle cx="230" cy="250" r="105"
+        fill="none"
+        stroke="#0088ff"
+        stroke-width="2"
+        opacity=".6"/>
+
+<circle cx="230" cy="250" r="82"
+        fill="none"
+        stroke="#00ffff"
+        stroke-width="2"
+        stroke-dasharray="12 8"
+        filter="url(#glow)"/>
+
+<circle cx="230" cy="250" r="52"
+        fill="#001f3f"
+        stroke="#00ffff"
+        stroke-width="3"
+        filter="url(#glow)"/>
+
+<text x="230" y="244"
+      text-anchor="middle"
+      class="title"
+      font-size="19">
+  JARVIS
+</text>
+
+<text x="230" y="270"
+      text-anchor="middle"
+      class="small">
+  CORE
+</text>
+
+<!-- MODULES -->
+
+<rect x="410" y="145" width="300" height="75"
+      rx="12"
+      fill="#050510"
+      stroke="#00ffff"
+      stroke-opacity=".65"/>
+
+<text x="435" y="174" class="label">
+  JAVA CORE
+</text>
+
+<text x="435" y="201" class="value">
+  ████████████████░░  ONLINE
+</text>
+
+<circle cx="680" cy="175" r="6"
+        fill="#00ffff"
+        class="pulse"/>
+
+
+<rect x="750" y="145" width="300" height="75"
+      rx="12"
+      fill="#050510"
+      stroke="#0088ff"
+      stroke-opacity=".65"/>
+
+<text x="775" y="174" class="label">
+  PYTHON CORE
+</text>
+
+<text x="775" y="201" class="value">
+  █████████████░░░░  ACTIVE
+</text>
+
+<circle cx="1020" cy="175" r="6"
+        fill="#0088ff"
+        class="pulse"/>
+
+
+<rect x="410" y="245" width="300" height="75"
+      rx="12"
+      fill="#050510"
+      stroke="#8a2be2"
+      stroke-opacity=".75"/>
+
+<text x="435" y="274" class="label">
+  AI ENGINE
+</text>
+
+<text x="435" y="301" class="value">
+  █████████░░░░░░░  DEVELOPING
+</text>
+
+
+<rect x="750" y="245" width="300" height="75"
+      rx="12"
+      fill="#050510"
+      stroke="#00ffff"
+      stroke-opacity=".65"/>
+
+<text x="775" y="274" class="label">
+  LINUX CORE
+</text>
+
+<text x="775" y="301" class="value">
+  ███████████░░░░░  LEARNING
+</text>
+
+<!-- FOOTER -->
+<line x1="55" y1="365" x2="1145" y2="365"
+      stroke="url(#neon)"
+      stroke-width="2"/>
+
+<text x="55" y="390" class="small">
+  SYSTEM MODE : LEARN → BUILD → DEBUG → EVOLVE
+</text>
+
+<text x="1145" y="390"
+      text-anchor="end"
+      class="small">
+  ◉ SECURE DEVELOPMENT MODE
+</text>
+
+</svg>
