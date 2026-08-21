@@ -1,0 +1,128 @@
+<svg width="1200" height="330" viewBox="0 0 1200 330"
+xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#050510"/>
+<stop offset="50%" stop-color="#001f3f"/>
+<stop offset="100%" stop-color="#100020"/>
+</linearGradient>
+
+<linearGradient id="neon">
+<stop offset="0%" stop-color="#00ffff"/>
+<stop offset="50%" stop-color="#0088ff"/>
+<stop offset="100%" stop-color="#8a2be2"/>
+</linearGradient>
+
+<filter id="glow">
+<feGaussianBlur stdDeviation="3" result="b"/>
+<feMerge>
+<feMergeNode in="b"/>
+<feMergeNode in="SourceGraphic"/>
+</feMerge>
+</filter>
+
+<style>
+.title {
+font:bold 22px Arial;
+fill:#00ffff;
+letter-spacing:3px;
+}
+
+.text {
+font:14px monospace;
+fill:#d8f8ff;
+}
+
+.done {
+font:bold 14px monospace;
+fill:#00ffff;
+}
+
+.pending {
+font:bold 14px monospace;
+fill:#8a2be2;
+}
+
+.pulse {
+animation:pulse 1.6s infinite;
+}
+
+@keyframes pulse {
+0%,100% {opacity:.35}
+50% {opacity:1}
+}
+</style>
+
+</defs>
+
+<rect width="1200" height="330" rx="20"
+fill="url(#bg)"
+stroke="#00ffff"
+stroke-width="2"/>
+
+<rect x="14" y="14"
+width="1172" height="302"
+rx="16"
+fill="none"
+stroke="url(#neon)"
+opacity=".6"/>
+
+<text x="55" y="55" class="title">
+2026 // MISSION CONTROL
+</text>
+
+<text x="55" y="82" class="text">
+SOFTWARE ENGINEERING DEVELOPMENT ROADMAP
+</text>
+
+<!-- COMPLETED -->
+
+<text x="70" y="125" class="done">
+✓ JAVA FUNDAMENTALS
+</text>
+
+<text x="70" y="153" class="done">
+✓ OOP • OPERATORS • CONTROL FLOW
+</text>
+
+<!-- NEXT -->
+
+<text x="70" y="195" class="pending">
+○ ADVANCED JAVA
+</text>
+
+<text x="70" y="223" class="pending">
+○ DATA STRUCTURES &amp; ALGORITHMS
+</text>
+
+<text x="70" y="251" class="pending">
+○ PROFESSIONAL JAVA PROJECTS
+</text>
+
+<text x="650" y="195" class="pending">
+○ ADVANCED AI ASSISTANT
+</text>
+
+<text x="650" y="223" class="pending">
+○ OPEN SOURCE CONTRIBUTION
+</text>
+
+<text x="650" y="251" class="pending">
+○ SOFTWARE ENGINEERING MASTERY
+</text>
+
+<line x1="55" y1="280" x2="1145" y2="280"
+stroke="url(#neon)" stroke-width="2"/>
+
+<circle cx="70" cy="302" r="5"
+fill="#00ffff"
+filter="url(#glow)"
+class="pulse"/>
+
+<text x="88" y="307" class="text">
+PRIMARY OBJECTIVE : PROFESSIONAL SOFTWARE ENGINEER
+</text>
+
+</svg>
