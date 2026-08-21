@@ -1,130 +1,116 @@
-<svg width="900" height="190" viewBox="0 0 900 190"
+<svg width="1200" height="300" viewBox="0 0 1200 300"
 xmlns="http://www.w3.org/2000/svg">
 
 <defs>
-  <radialGradient id="core">
-    <stop offset="0%" stop-color="#00ffff" stop-opacity=".9"/>
-    <stop offset="40%" stop-color="#0088ff" stop-opacity=".35"/>
-    <stop offset="100%" stop-color="#050510" stop-opacity="0"/>
-  </radialGradient>
-
-  <linearGradient id="scan">
-    <stop offset="0%" stop-color="#00ffff" stop-opacity="0"/>
-    <stop offset="50%" stop-color="#00ffff"/>
-    <stop offset="100%" stop-color="#8a2be2" stop-opacity="0"/>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#050510"/>
+    <stop offset="55%" stop-color="#001f3f"/>
+    <stop offset="100%" stop-color="#080020"/>
   </linearGradient>
 
   <filter id="glow">
-    <feGaussianBlur stdDeviation="3" result="b"/>
+    <feGaussianBlur stdDeviation="4" result="b"/>
     <feMerge>
       <feMergeNode in="b"/>
       <feMergeNode in="SourceGraphic"/>
     </feMerge>
   </filter>
+
+  <style>
+    .spin {
+      transform-origin: 600px 150px;
+      animation: rotate 4s linear infinite;
+    }
+
+    .blink {
+      animation: blink 1.5s infinite;
+    }
+
+    @keyframes rotate {
+      from { transform: rotate(0deg); }
+      to { transform: rotate(360deg); }
+    }
+
+    @keyframes blink {
+      0%,100% { opacity:.25; }
+      50% { opacity:1; }
+    }
+
+    .title {
+      font: bold 19px Arial;
+      fill: #00ffff;
+      letter-spacing: 3px;
+    }
+
+    .text {
+      font: 13px Arial;
+      fill: #8fdfff;
+      letter-spacing: 2px;
+    }
+  </style>
 </defs>
 
-<rect width="900" height="190" rx="14"
-fill="#050510"
-stroke="#0088ff"
-stroke-width="2"/>
+<rect width="1200" height="300" rx="20"
+fill="url(#bg)" stroke="#0088ff" stroke-width="2"/>
 
-<!-- Radar -->
-<circle cx="450" cy="95" r="72"
-fill="url(#core)"
+<!-- RADAR -->
+<circle cx="600" cy="150" r="105"
+fill="none" stroke="#00ffff" opacity=".35"/>
+
+<circle cx="600" cy="150" r="75"
+fill="none" stroke="#00ffff" opacity=".35"/>
+
+<circle cx="600" cy="150" r="45"
+fill="none" stroke="#00ffff" opacity=".45"/>
+
+<line x1="480" y1="150" x2="720" y2="150"
+stroke="#00ffff" opacity=".25"/>
+
+<line x1="600" y1="30" x2="600" y2="270"
+stroke="#00ffff" opacity=".25"/>
+
+<!-- SWEEP -->
+<path d="M600 150 L600 45 A105 105 0 0 1 690 97 Z"
+fill="#00ffff"
+opacity=".18"
+class="spin"/>
+
+<line x1="600" y1="150" x2="600" y2="45"
 stroke="#00ffff"
-stroke-opacity=".5"/>
-
-<circle cx="450" cy="95" r="55"
-fill="none"
-stroke="#00ffff"
-stroke-opacity=".35"/>
-
-<circle cx="450" cy="95" r="35"
-fill="none"
-stroke="#0088ff"
-stroke-opacity=".5"/>
-
-<!-- Crosshair -->
-<g stroke="#00ffff" stroke-opacity=".4">
-  <line x1="365" y1="95" x2="535" y2="95"/>
-  <line x1="450" y1="10" x2="450" y2="180"/>
-</g>
-
-<!-- Rotating scanner -->
-<line x1="450" y1="95" x2="450" y2="25"
-stroke="url(#scan)"
 stroke-width="3"
-transform-origin="450 95">
-<animateTransform
-attributeName="transform"
-type="rotate"
-from="0 450 95"
-to="360 450 95"
-dur="4s"
-repeatCount="indefinite"/>
-</line>
+filter="url(#glow)"
+class="spin"/>
 
-<!-- Target -->
-<circle cx="480" cy="65" r="5"
+<!-- TARGETS -->
+<circle cx="555" cy="105" r="5"
+fill="#00ffff"
+filter="url(#glow)"
+class="blink"/>
+
+<circle cx="670" cy="175" r="5"
+fill="#0088ff"
+filter="url(#glow)"
+class="blink"/>
+
+<circle cx="530" cy="195" r="5"
 fill="#8a2be2"
-filter="url(#glow)">
-<animate attributeName="opacity"
-values="1;.2;1"
-dur="1.5s"
-repeatCount="indefinite"/>
-</circle>
+filter="url(#glow)"
+class="blink"/>
 
-<!-- Labels -->
-<g font-family="monospace">
+<circle cx="600" cy="150" r="7"
+fill="#00ffff"
+filter="url(#glow)"/>
 
-<text x="30" y="45"
-font-size="14"
-fill="#00ffff">
-J.A.R.V.I.S // RADAR
+<text x="600" y="22"
+text-anchor="middle"
+class="title">
+J.A.R.V.I.S // NEURAL RADAR
 </text>
 
-<text x="30" y="72"
-font-size="11"
-fill="#0088ff">
-SCANNING ENVIRONMENT
+<text x="600" y="292"
+text-anchor="middle"
+class="text">
+SCANNING • NEURAL NETWORK • SYSTEM SIGNALS
 </text>
-
-<text x="30" y="100"
-font-size="11"
-fill="#ffffff">
-TARGETS : 01
-</text>
-
-<text x="30" y="125"
-font-size="11"
-fill="#8a2be2">
-SIGNAL : STABLE
-</text>
-
-<text x="30" y="150"
-font-size="10"
-fill="#00ffff">
-SCAN MODE : ACTIVE
-</text>
-
-<text x="700" y="45"
-font-size="12"
-fill="#00ffff">
-CORE RADAR
-</text>
-
-<text x="700" y="70"
-font-size="10"
-fill="#ffffff">
-LINK : ONLINE
-</text>
-
-<text x="700" y="95"
-font-size="10"
-fill="#0088ff">
-SCAN : ACTIVE
-</text>
-
-</g>
 
 </svg>
