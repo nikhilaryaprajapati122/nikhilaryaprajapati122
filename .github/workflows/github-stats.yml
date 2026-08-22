@@ -8,6 +8,7 @@ on:
 
 jobs:
   generate:
+
     runs-on: ubuntu-latest
 
     permissions:
@@ -15,7 +16,10 @@ jobs:
 
     steps:
 
-      - name: Generate Snake
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate contribution snake
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -23,9 +27,33 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push Snake
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          build_dir: dist
-        env:
-          GH_PAT: ${{ secrets.GITHUB_TOKEN }}
+      - name: Prepare snake files
+        run: |
+          mkdir -p /tmp/snake
+          cp dist/github-contribution-grid-snake.svg /tmp/snake/
+          cp dist/github-contribution-grid-snake-dark.svg /tmp/snake/
+
+      - name: Publish snake to output branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git fetch origin output:output || true
+
+          if git show-ref --verify --quiet refs/heads/output; then
+            git checkout output
+          else
+            git checkout --orphan output
+          fi
+
+          git rm -rf . || true
+
+          cp /tmp/snake/github-contribution-grid-snake.svg .
+          cp /tmp/snake/github-contribution-grid-snake-dark.svg .
+
+          git add github-contribution-grid-snake.svg
+          git add github-contribution-grid-snake-dark.svg
+
+          git commit -m "Update contribution snake" || true
+
+          git push origin output --force
