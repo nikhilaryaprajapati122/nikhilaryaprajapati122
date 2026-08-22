@@ -60,6 +60,11 @@ Languages
 Tools & Environment
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,kali,windows" /> </div>
 🖥️ TERMINAL
+<div align="center">
+
+<img src="./assets/terminal.svg" width="90%">
+
+</div>
 ┌──[ NIKHIL@JARVIS ]──[ ~/system ]
 
 └─$ whoami
