@@ -1,0 +1,148 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#030712"/>
+<stop offset="50%" stop-color="#061B2A"/>
+<stop offset="100%" stop-color="#00151F"/>
+</linearGradient>
+
+<linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0%" stop-color="#00E5FF"/>
+<stop offset="50%" stop-color="#7C3AED"/>
+<stop offset="100%" stop-color="#00E5FF"/>
+</linearGradient>
+
+<filter id="glow">
+<feGaussianBlur stdDeviation="5" result="blur"/>
+<feMerge>
+<feMergeNode in="blur"/>
+<feMergeNode in="SourceGraphic"/>
+</feMerge>
+</filter>
+
+</defs>
+
+<rect width="1200" height="300" fill="url(#bg)"/>
+
+<!-- Grid -->
+
+<g opacity="0.18" stroke="#00E5FF">
+
+<path d="M0 50 H1200"/>
+<path d="M0 100 H1200"/>
+<path d="M0 150 H1200"/>
+<path d="M0 200 H1200"/>
+<path d="M0 250 H1200"/>
+
+<path d="M100 0 V300"/>
+<path d="M200 0 V300"/>
+<path d="M300 0 V300"/>
+<path d="M400 0 V300"/>
+<path d="M500 0 V300"/>
+<path d="M600 0 V300"/>
+<path d="M700 0 V300"/>
+<path d="M800 0 V300"/>
+<path d="M900 0 V300"/>
+<path d="M1000 0 V300"/>
+<path d="M1100 0 V300"/>
+
+</g>
+
+<!-- Neon Lines -->
+
+<path d="M0 255 C250 180 350 280 600 210 S950 130 1200 200"
+stroke="url(#neon)"
+stroke-width="3"
+fill="none"
+filter="url(#glow)">
+
+<animate
+attributeName="stroke-dashoffset"
+from="1000"
+to="0"
+dur="5s"
+repeatCount="indefinite"/>
+
+</path>
+
+<path d="M0 275 C300 200 500 300 750 220 S1000 160 1200 180"
+stroke="#00E5FF"
+stroke-width="1"
+opacity="0.6"
+fill="none"/>
+
+<!-- Main Text -->
+
+<text
+x="600"
+y="125"
+text-anchor="middle"
+font-family="Arial, Helvetica, sans-serif"
+font-size="44"
+font-weight="bold"
+fill="#FFFFFF"
+filter="url(#glow)">
+NIKHIL ARYA PRAJAPATI
+</text>
+
+<text
+x="600"
+y="170"
+text-anchor="middle"
+font-family="monospace"
+font-size="19"
+fill="#00E5FF">
+
+SOFTWARE ENGINEERING • JAVA • PYTHON • AI
+
+</text>
+
+<text
+x="600"
+y="215"
+text-anchor="middle"
+font-family="monospace"
+font-size="14"
+fill="#8A2BE2">
+
+&gt; SYSTEM INITIALIZED // FUTURE LOADING...
+
+</text>
+
+<!-- Corner UI -->
+
+<rect x="25" y="25" width="150" height="35"
+rx="5"
+fill="none"
+stroke="#00E5FF"
+opacity="0.8"/>
+
+<text
+x="100"
+y="48"
+text-anchor="middle"
+font-family="monospace"
+font-size="12"
+fill="#00E5FF">
+JARVIS_CORE
+</text>
+
+<rect x="1025" y="25" width="150" height="35"
+rx="5"
+fill="none"
+stroke="#8A2BE2"
+opacity="0.8"/>
+
+<text
+x="1100"
+y="48"
+text-anchor="middle"
+font-family="monospace"
+font-size="12"
+fill="#8A2BE2">
+ONLINE
+</text>
+
+</svg>
