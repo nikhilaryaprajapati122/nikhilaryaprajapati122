@@ -1,0 +1,35 @@
+<svg width="1200" height="30" viewBox="0 0 1200 30"
+xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+
+<linearGradient id="line">
+<stop offset="0%" stop-color="#00E5FF" stop-opacity="0"/>
+<stop offset="50%" stop-color="#00E5FF"/>
+<stop offset="100%" stop-color="#8A2BE2" stop-opacity="0"/>
+</linearGradient>
+
+<filter id="glow">
+<feGaussianBlur stdDeviation="4"/>
+</filter>
+
+</defs>
+
+<line
+x1="0"
+y1="15"
+x2="1200"
+y2="15"
+stroke="url(#line)"
+stroke-width="3"
+filter="url(#glow)"/>
+
+<line
+x1="0"
+y1="15"
+x2="1200"
+y2="15"
+stroke="url(#line)"
+stroke-width="1"/>
+
+</svg>
