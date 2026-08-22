@@ -317,6 +317,35 @@ Programming → Data Handling → Automation → AI Projects
 `BUILD • CREATE • EVOLVE`
 
 <br>
+<div align="center">
+
+### `◈ NEXUS // LIVE PROJECT ◈`
+
+<br>
+
+<a href="https://nikhilaryaprajapati122.github.io/nexus-futuristic-portfolio/">
+
+<img src="https://img.shields.io/badge/🚀_LAUNCH_NEXUS_LIVE-00E5FF?style=for-the-badge&labelColor=050B14" />
+
+</a>
+
+<a href="https://github.com/nikhilaryaprajapati122/nexus-futuristic-portfolio">
+
+<img src="https://img.shields.io/badge/⌬_SOURCE_CODE-00FF9D?style=for-the-badge&labelColor=050B14" />
+
+</a>
+
+<br><br>
+
+`FUTURISTIC HUD`　`INTERACTIVE TERMINAL`　`SYSTEM CORE`　`LIVE CLOCK`
+
+<br>
+
+`HTML` • `CSS` • `JAVASCRIPT`
+
+</div>
+
+<br>
 
 **HTML + CSS + JAVASCRIPT**
 
@@ -456,6 +485,24 @@ MISSION STATUS : ACTIVE
 <br>
 
 ---
+<div align="center">
+
+### `◈ GITHUB SYSTEM TELEMETRY ◈`
+
+<br>
+
+<img src="./assets/github-stats.svg" width="49%" alt="GitHub Statistics" />
+<img src="./assets/top-languages.svg" width="49%" alt="Top Languages" />
+
+<br><br>
+
+`LIVE DEVELOPMENT TELEMETRY // AUTO UPDATED`
+
+</div>
+
+<br>
+
+---
 
 <div align="center">
 
@@ -464,6 +511,13 @@ MISSION STATUS : ACTIVE
 </div>
 
 ## 🎯 `2026 // MISSION CONTROL`
+<div align="center">
+
+<img src="./assets/mission-control.svg" width="100%" alt="Nikhil Mission Control" />
+
+</div>
+
+<br>
 
 <div align="center">
 
