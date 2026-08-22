@@ -1,40 +1,31 @@
-name: Update GitHub Stats
+name: Generate Snake
 
 on:
-  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
 
-permissions:
-  contents: write
+  workflow_dispatch:
 
 jobs:
-  stats:
+  generate:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write
+
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
 
-      - name: Generate GitHub Stats
-        run: |
-          mkdir -p assets
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-          curl -L \
-            "https://github-readme-stats.vercel.app/api?username=nikhilaryaprajapati122&show_icons=true&hide_border=true&theme=tokyonight&bg_color=050510&title_color=00FFFF&icon_color=0088FF&text_color=FFFFFF" \
-            -o assets/github-stats.svg
-
-          curl -L \
-            "https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilaryaprajapati122&layout=compact&hide_border=true&theme=tokyonight&bg_color=050510&title_color=00FFFF&text_color=FFFFFF" \
-            -o assets/top-languages.svg
-
-      - name: Commit updated stats
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          git add assets/github-stats.svg assets/top-languages.svg
-
-          git diff --cached --quiet || git commit -m "Update GitHub statistics"
-
-          git push
+      - name: Push Snake
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          build_dir: dist
+        env:
+          GH_PAT: ${{ secrets.GITHUB_TOKEN }}
