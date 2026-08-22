@@ -26,6 +26,13 @@
 
 </div>
 
+<div align="center">
+
+<img src="./assets/hud.svg" width="100%" alt="J.A.R.V.I.S HUD" />
+
+</div>
+
+<br>
 ---
 
 <div align="center">
@@ -41,6 +48,14 @@
 </div>
 
 ## 🧠 `SYSTEM CORE`
+
+<div align="center">
+
+<img src="./assets/system-core.svg" width="100%" alt="System Core" />
+
+</div>
+
+<br>
 
 <div align="center">
 
@@ -245,6 +260,13 @@ Create futuristic interfaces.
 
 ---
 ## 🚀 `PROJECT COMMAND CENTER`
+<div align="center">
+
+<img src="./assets/project-command.svg" width="100%" alt="Project Command Center" />
+
+</div>
+
+<br>
 
 <div align="center">
 
@@ -311,33 +333,52 @@ Programming → Data Handling → Automation → AI Projects
 </div>
 
 # `NEXUS`
+### `[03]` NEXUS // FUTURISTIC DEVELOPMENT INTERFACE
 
-### `FUTURISTIC DEVELOPMENT INTERFACE`
-
-`BUILD • CREATE • EVOLVE`
-
-<br>
 <div align="center">
 
-### `◈ NEXUS // LIVE PROJECT ◈`
+<img src="./assets/radar.svg" width="100%" alt="NEXUS Radar Core" />
+
+</div>
 
 <br>
 
-<a href="https://nikhilaryaprajapati122.github.io/nexus-futuristic-portfolio/">
+| FIELD | VALUE |
+|:---|:---|
+| **TYPE** | Web UI / Frontend |
+| **STACK** | HTML • CSS • JavaScript |
+| **STATUS** | 🟢 LIVE |
+| **OBJECTIVE** | Build a futuristic responsive developer interface |
 
-<img src="https://img.shields.io/badge/🚀_LAUNCH_NEXUS_LIVE-00E5FF?style=for-the-badge&labelColor=050B14" />
+<br>
 
-</a>
+### ◈ CORE FEATURES
 
-<a href="https://github.com/nikhilaryaprajapati122/nexus-futuristic-portfolio">
+| MODULE | STATUS |
+|:---|:---:|
+| Futuristic HUD Interface | 🟢 |
+| Responsive Layout | 🟢 |
+| Animated System Core | 🟢 |
+| Skill Visualization Matrix | 🟢 |
+| Project Command Center | 🟢 |
+| Interactive Terminal | 🟢 |
+| JavaScript Interactions | 🟢 |
 
-<img src="https://img.shields.io/badge/⌬_SOURCE_CODE-00FF9D?style=for-the-badge&labelColor=050B14" />
+<br>
 
-</a>
+### 🖥️ NEXUS INTERACTION CORE
 
-<br><br>
+`TERMINAL` • `SYSTEM CLOCK` • `SKILL MATRIX` • `PROJECT CENTER` • `RESPONSIVE UI`
 
-`FUTURISTIC HUD`　`INTERACTIVE TERMINAL`　`SYSTEM CORE`　`LIVE CLOCK`
+<br>
+
+<div align="center">
+
+[![LAUNCH NEXUS](https://img.shields.io/badge/◈_LAUNCH_NEXUS-00E5FF?style=for-the-badge&labelColor=050B14)](https://nikhilaryaprajapati122.github.io/nexus-futuristic-portfolio/)
+
+[![SOURCE CODE](https://img.shields.io/badge/⌬_SOURCE_CODE-00FF9D?style=for-the-badge&labelColor=050B14)](https://github.com/nikhilaryaprajapati122/nexus-futuristic-portfolio)
+
+</div>
 
 <br>
 
@@ -399,6 +440,13 @@ NEXUS is my experimental futuristic web interface — combining frontend develop
 </div>
 
 ## 🖥️ `NIKHIL-CORE // TERMINAL PROFILE`
+<div align="center">
+
+<img src="./assets/terminal.svg" width="100%" alt="Nikhil Core Terminal" />
+
+</div>
+
+<br>
 
 <div align="center">
 
@@ -485,24 +533,6 @@ MISSION STATUS : ACTIVE
 <br>
 
 ---
-<div align="center">
-
-### `◈ GITHUB SYSTEM TELEMETRY ◈`
-
-<br>
-
-<img src="./assets/github-stats.svg" width="49%" alt="GitHub Statistics" />
-<img src="./assets/top-languages.svg" width="49%" alt="Top Languages" />
-
-<br><br>
-
-`LIVE DEVELOPMENT TELEMETRY // AUTO UPDATED`
-
-</div>
-
-<br>
-
----
 
 <div align="center">
 
@@ -511,6 +541,10 @@ MISSION STATUS : ACTIVE
 </div>
 
 ## 🎯 `2026 // MISSION CONTROL`
+
+
+<br>
+
 <div align="center">
 
 <img src="./assets/mission-control.svg" width="100%" alt="Nikhil Mission Control" />
@@ -677,6 +711,13 @@ Clean thinking → Structure → Maintainability.
 ---
 
 ## 📡 `CONTACT // COMMAND CENTER`
+<div align="center">
+
+<img src="./assets/contact-hud.svg" width="100%" alt="Contact HUD" />
+
+</div>
+
+<br>
 
 <div align="center">
 
@@ -705,6 +746,14 @@ Interested in development, collaboration, project ideas or futuristic web interf
 ◉ CONNECTION READY ◉
 
 
+
+<br>
+
+<div align="center">
+
+<img src="./assets/final-hud.svg" width="100%" alt="Final J.A.R.V.I.S HUD" />
+
+</div>
 
 <br>
 
