@@ -25,7 +25,43 @@
 ---
 
 ### ⚡ [ SYSTEM STATUS : ACTIVE ] 
-```text
 [ACCESS GRANTED] User: Nikhilarya Prajapati
 [SECURITY PROTOCOL] Jarvis HUD Interface v4.0
 [CORE FOCUS] Automation, Python, Database Systems & AI-Driven Development
+
+---
+
+### 💻 [ SYSTEM ARSENAL & CORE SKILLS ]
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,html,css,git,github,windows,vscode,bash&perline=8" />
+</p>
+
+<br>
+
+<div align="center">
+  <code>PYTHON / AUTOMATION</code>&nbsp;&nbsp;•&nbsp;&nbsp;
+  <code>B.Sc. COMPUTER SCIENCE</code>&nbsp;&nbsp;•&nbsp;&nbsp;
+  <code>DATABASE MANAGEMENT</code>&nbsp;&nbsp;•&nbsp;&nbsp;
+  <code>AI PROMPT ARCHITECTURE</code>
+</div>
+
+<br>
+
+---
+
+---
+
+### 📊 [ SYSTEM DIAGNOSTICS & METRICS ]
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhilaryaprajapati122&show_icons=true&theme=react&hide_border=true&title_color=00F0FF&icon_color=00F0FF&text_color=FFFFFF" alt="GitHub Stats" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nikhilaryaprajapati122&theme=radical&no-bg=true&margin-w=5&margin-h=5" alt="Trophies" />
+</div>
+
+<br>
