@@ -18,74 +18,231 @@
 
 <img src="./assets/neon-divider.svg" width="100%" alt="Neon Divider"/>
 
-# 🧠 `WHO AM I?`
+<h2>🧠 WHO AM I?</h2>
+
+<table width="100%">
+<tr>
+<td width="50%" align="center" valign="top">
+
+<h3>◈ IDENTITY</h3>
+
+<p>
+<b>NAME</b><br>
+Nikhil Arya Prajapati
+</p>
+
+<p>
+<b>ROLE</b><br>
+Software Engineering Student
+</p>
+
+<p>
+<b>STATUS</b><br>
+🟢 CONSTANTLY LEARNING
+</p>
+
+</td>
+
+<td width="50%" align="center" valign="top">
+
+<h3>◈ SYSTEM PROFILE</h3>
+
+<p>
+<b>PRIMARY</b><br>
+Java
+</p>
+
+<p>
+<b>SECONDARY</b><br>
+Python
+</p>
+
+<p>
+<b>INTEREST</b><br>
+AI • Web • Linux
+</p>
+
+</td>
+</tr>
+</table>
+
+<br>
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=35&pause=1800&color=00E5FF&center=true&vCenter=true&width=900&height=80&lines=I+don't+just+want+to+learn+technology+%E2%80%94+I+want+to+build+with+it.;I'm+focused+on+becoming+a+professional+software+engineer+by+learning+Java+deeply%2C+exploring+Python+and+AI%2C+understanding+software+engineering+practices%2C+and+building+real-world+projects." alt="Developer Philosophy"/>
 
-╔══════════════════════════════════════════════════════════════╗
-║                    N I K H I L   C O R E                    ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  NAME       : Nikhil Arya Prajapati                         ║
-║  ROLE       : Software Engineering Student                  ║
-║  PRIMARY    : Java                                           ║
-║  SECONDARY  : Python                                         ║
-║  INTEREST   : AI • Web • Linux                               ║
-║  AI PROJECT : J.A.R.V.I.S.                                  ║
-║  STATUS     : CONSTANTLY LEARNING                            ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
 </div>
 
-Learn → Build → Debug → Improve → Repeat
+<br>
 
-I'm focused on becoming a professional software engineer by learning Java deeply, exploring Python and AI, understanding software engineering practices, and building real-world projects.
-
-<br> <img src="./assets/neon-divider.svg" width="100%" alt="Neon Divider"/>
-
-⚙️ TECH ARSENAL
 <div align="center">
-💻 PROGRAMMING
+
+<b>LEARN → BUILD → DEBUG → IMPROVE → REPEAT</b>
+
+</div>
+
+<br>
+
+<img src="./assets/neon-divider.svg" width="100%" alt="Neon Divider"/>
+<h2>⚙️ TECH ARSENAL</h2>
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+<h3>💻 PROGRAMMING</h3>
+
 <img src="https://skillicons.dev/icons?i=java,python,c,cpp" />
 
-<br><br>
+</td>
 
-🌐 WEB
+<td width="50%" align="center">
+
+<h3>🌐 WEB & UI</h3>
+
 <img src="https://skillicons.dev/icons?i=html,css,js" />
 
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
+<h3>🛠️ TOOLS</h3>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+</td>
+
+<td width="50%" align="center">
+
+<h3>🐧 SYSTEMS</h3>
+
+<img src="https://skillicons.dev/icons?i=linux,kali,windows" />
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+`JAVA` ███████████████████░░ 90%
+
+`PYTHON` ███████████████░░░░░ 75%
+
+`WEB` █████████████████░░░ 85%
+
+`LINUX` █████████████░░░░░░░ 65%
+
+</div>
+
+</div> <br> <img src="./assets/neon-divider.svg" width="100%" alt="Neon Divider"/>
+
+<h2>🤖 J.A.R.V.I.S. CORE</h2>
+
+<div align="center">
+
+<img src="./assets/terminal.svg" width="95%" alt="J.A.R.V.I.S. Terminal"/>
+
+</div>
+
+<br>
+
+<table>
+<tr>
+<td align="center">
+
+<b>CORE</b><br>
+🟢 ONLINE
+
+</td>
+
+<td align="center">
+
+<b>SPEECH</b><br>
+🟢 ACTIVE
+
+</td>
+
+<td align="center">
+
+<b>AI ENGINE</b><br>
+🟡 DEVELOPING
+
+</td>
+
+<td align="center">
+
+<b>COMMAND</b><br>
+🟢 READY
+
+</td>
+</tr>
+</table>
+
+<br> <img src="./assets/neon-divider.svg" width="100%" alt="Neon Divider"/>
+
+<h2>🚀 PROJECT COMMAND CENTER</h2>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🤖 J.A.R.V.I.S.</h3>
+
+<b>TYPE</b><br>
+Personal AI Assistant
+
 <br><br>
 
-🛠️ TOOLS & SYSTEMS
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,kali,windows" /> </div> <br> <div align="center">
-JAVA        ███████████████████░░   90%
-PYTHON      ███████████████░░░░░   75%
-HTML/CSS    █████████████████░░░   85%
-LINUX       █████████████░░░░░░░   65%
-GIT/GITHUB  ███████████████░░░░░   75%
-</div> <br> <img src="./assets/neon-divider.svg" width="100%" alt="Neon Divider"/>
-🤖 J.A.R.V.I.S. CORE
-<div align="center"> <img src="./assets/terminal.svg" width="95%" alt="JARVIS Terminal"/> </div> <br>
-┌─────────────────────────────────────────────────────────────┐
-│                    J.A.R.V.I.S. STATUS                     │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  CORE             : ONLINE                                  │
-│  SPEECH ENGINE    : ACTIVE                                  │
-│  AI ENGINE        : DEVELOPMENT                             │
-│  COMMAND SYSTEM   : READY                                   │
-│  DEVELOPMENT      : ACTIVE                                  │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-<br> <img src="./assets/neon-divider.svg" width="100%" alt="Neon Divider"/>
-🚀 PROJECT COMMAND CENTER
+<b>STACK</b><br>
+Python • Speech • AI
+
+<br><br>
+
+<b>STATUS</b><br>
+🟢 ACTIVE DEVELOPMENT
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🌌 NEXUS PORTFOLIO</h3>
+
+<b>TYPE</b><br>
+Futuristic Web Portfolio
+
+<br><br>
+
+<b>STACK</b><br>
+HTML • CSS • JavaScript
+
+<br><br>
+
+<b>STATUS</b><br>
+🟢 ACTIVE DEVELOPMENT
+
+</td>
+</tr>
+</table>
+
+<br>
+
 <div align="center">
-PROJECT	TECHNOLOGY	STATUS
-🤖 J.A.R.V.I.S.	Python • AI	🟢 Active
-🌌 Nexus Portfolio	HTML • CSS • JavaScript	🟢 Active
-☕ Java Learning	Java • OOP	🟡 Learning
-🐧 Linux Practice	Kali Linux	🟡 Learning
-<br> <a href="https://github.com/nikhilaryaprajapati122?tab=repositories"> <img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-00E5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=050B14"/> </a> </div> <br> <img src="./assets/neon-divider.svg" width="100%" alt="Neon Divider"/>
+
+<a href="https://github.com/nikhilaryaprajapati122?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-00E5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=050B14"/>
+</a>
+
+</div>
+
+<br>
+
+<img src="./assets/neon-divider.svg" width="100%" alt="Neon Divider"/>
+
 📊 GITHUB SYSTEM ANALYTICS
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nikhilaryaprajapati122&show_icons=true&hide_border=true&bg_color=050B14&title_color=00E5FF&icon_color=8A2BE2&text_color=FFFFFF&rank_icon=github" width="48%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilaryaprajapati122&layout=compact&hide_border=true&bg_color=050B14&title_color=00E5FF&text_color=FFFFFF" width="48%"/> </div> <br> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilaryaprajapati122&hide_border=true&background=050B14&ring=00E5FF&fire=8A2BE2&currStreakLabel=00E5FF&sideLabels=FFFFFF&dates=FFFFFF" width="70%"/> </div> <br> <img src="./assets/neon-divider.svg" width="100%" alt="Neon Divider"/>
 🐍 CONTRIBUTION MATRIX
