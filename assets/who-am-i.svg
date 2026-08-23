@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="900"
+     height="250"
+     viewBox="0 0 900 250">
+
+  <rect width="900" height="250" rx="18"
+        fill="#050B14"
+        stroke="#00E5FF"
+        stroke-width="1"/>
+
+  <style>
+    .text {
+      font-family: monospace;
+      font-size: 16px;
+      fill: #00E5FF;
+    }
+
+    .cursor {
+      fill: #00E5FF;
+    }
+
+    @keyframes typing1 {
+      from { width: 0 }
+      to   { width: 100% }
+    }
+
+    @keyframes blink {
+      0%, 45%   { opacity: 1 }
+      50%, 100% { opacity: 0 }
+    }
+
+    .line1 {
+      clip-path: inset(0 100% 0 0);
+      animation: typing1 5s steps(70, end) forwards;
+    }
+
+    .cursor {
+      animation: blink 0.8s infinite;
+    }
+  </style>
+
+  <text x="35" y="55" class="text">
+    &gt; developer.philosophy
+  </text>
+
+  <text x="35" y="100" class="text line1">
+    I don't just want to learn technology — I want to build with it.
+  </text>
+
+  <text x="35" y="150" class="text">
+    I'm focused on becoming a professional software engineer
+  </text>
+
+  <text x="35" y="180" class="text">
+    by learning Java deeply, exploring Python and AI,
+  </text>
+
+  <text x="35" y="210" class="text">
+    understanding software engineering practices and building real-world projects.
+  </text>
+
+  <rect x="710" y="82" width="9" height="22" class="cursor"/>
+
+</svg>
