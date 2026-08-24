@@ -1,0 +1,96 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#02050b"/>
+      <stop offset="50%" stop-color="#061923"/>
+      <stop offset="100%" stop-color="#010308"/>
+    </linearGradient>
+
+    <linearGradient id="neon" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00eaff"/>
+      <stop offset="50%" stop-color="#00ffff"/>
+      <stop offset="100%" stop-color="#008cff"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- BACKGROUND -->
+  <rect width="1200" height="320" rx="20"
+        fill="url(#bg)"/>
+
+  <!-- OUTER NEON FRAME -->
+  <rect x="8" y="8"
+        width="1184" height="304"
+        rx="20"
+        fill="none"
+        stroke="url(#neon)"
+        stroke-width="3"
+        filter="url(#glow)"/>
+
+  <!-- INNER FRAME -->
+  <rect x="24" y="24"
+        width="1152" height="272"
+        rx="14"
+        fill="none"
+        stroke="#00eaff"
+        stroke-opacity="0.25"
+        stroke-width="1"/>
+
+  <!-- TOP SYSTEM LABEL -->
+  <text x="600" y="72"
+        text-anchor="middle"
+        fill="#00eaff"
+        font-family="monospace"
+        font-size="16"
+        letter-spacing="5">
+    J.A.R.V.I.S. // SYSTEM ONLINE
+  </text>
+
+  <!-- MAIN IDENTITY -->
+  <text x="600" y="145"
+        text-anchor="middle"
+        fill="#ffffff"
+        font-family="monospace"
+        font-size="42"
+        font-weight="bold"
+        letter-spacing="6"
+        filter="url(#glow)">
+    NIKHIL ARYA PRAJAPATI
+  </text>
+
+  <!-- SUBTITLE -->
+  <text x="600" y="185"
+        text-anchor="middle"
+        fill="#00eaff"
+        font-family="monospace"
+        font-size="17"
+        letter-spacing="4">
+    SOFTWARE ENGINEERING • JAVA • PYTHON
+  </text>
+
+  <!-- HUD LINE -->
+  <line x1="180" y1="220"
+        x2="1020" y2="220"
+        stroke="#00eaff"
+        stroke-opacity="0.5"/>
+
+  <!-- SYSTEM STATUS -->
+  <text x="600" y="258"
+        text-anchor="middle"
+        fill="#6eeeff"
+        font-family="monospace"
+        font-size="13"
+        letter-spacing="3">
+    [ SYSTEM INITIALIZING ] [ CORE: READY ] [ ACCESS: GRANTED ]
+  </text>
+
+</svg>
