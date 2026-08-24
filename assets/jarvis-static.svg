@@ -1,0 +1,143 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+
+    <!-- Dark futuristic background -->
+    <linearGradient id="background"
+                    x1="0%" y1="0%"
+                    x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#02050B"/>
+      <stop offset="50%" stop-color="#071722"/>
+      <stop offset="100%" stop-color="#010308"/>
+    </linearGradient>
+
+    <!-- Neon cyan -->
+    <linearGradient id="neon"
+                    x1="0%" y1="0%"
+                    x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00A8FF"/>
+      <stop offset="50%" stop-color="#00FFFF"/>
+      <stop offset="100%" stop-color="#00A8FF"/>
+    </linearGradient>
+
+    <!-- Glow -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+  </defs>
+
+  <!-- BACKGROUND -->
+  <rect x="0" y="0"
+        width="1200"
+        height="360"
+        rx="22"
+        fill="url(#background)"/>
+
+  <!-- OUTER FRAME -->
+  <rect x="10" y="10"
+        width="1180"
+        height="340"
+        rx="22"
+        fill="none"
+        stroke="url(#neon)"
+        stroke-width="3"
+        filter="url(#glow)"/>
+
+  <!-- INNER FRAME -->
+  <rect x="25" y="25"
+        width="1150"
+        height="310"
+        rx="16"
+        fill="none"
+        stroke="#00E5FF"
+        stroke-width="1"
+        opacity="0.35"/>
+
+  <!-- TOP HUD LINE -->
+  <line x1="150" y1="78"
+        x2="1050" y2="78"
+        stroke="#00E5FF"
+        stroke-width="1"
+        opacity="0.4"/>
+
+  <!-- SYSTEM LABEL -->
+  <text x="600" y="65"
+        text-anchor="middle"
+        fill="#00E5FF"
+        font-family="monospace"
+        font-size="17"
+        font-weight="bold"
+        letter-spacing="5">
+    J.A.R.V.I.S. // SYSTEM ONLINE
+  </text>
+
+  <!-- MAIN NAME -->
+  <text x="600" y="155"
+        text-anchor="middle"
+        fill="#FFFFFF"
+        font-family="monospace"
+        font-size="48"
+        font-weight="bold"
+        letter-spacing="5"
+        filter="url(#glow)">
+    NIKHIL ARYA PRAJAPATI
+  </text>
+
+  <!-- NAME UNDERLINE -->
+  <line x1="300" y1="180"
+        x2="900" y2="180"
+        stroke="url(#neon)"
+        stroke-width="2"
+        filter="url(#glow)"/>
+
+  <!-- SUBTITLE -->
+  <text x="600" y="220"
+        text-anchor="middle"
+        fill="#00E5FF"
+        font-family="monospace"
+        font-size="17"
+        letter-spacing="3">
+    SOFTWARE ENGINEERING • JAVA • PYTHON • WEB
+  </text>
+
+  <!-- HUD STATUS -->
+  <text x="600" y="270"
+        text-anchor="middle"
+        fill="#8BEFFF"
+        font-family="monospace"
+        font-size="14"
+        letter-spacing="3">
+    [ CORE: READY ]  [ ACCESS: GRANTED ]  [ STATUS: ONLINE ]
+  </text>
+
+  <!-- BOTTOM HUD LINE -->
+  <line x1="150" y1="300"
+        x2="1050" y2="300"
+        stroke="#00E5FF"
+        stroke-width="1"
+        opacity="0.4"/>
+
+  <!-- CORNER MARKERS -->
+  <path d="M45 55 H100 M45 55 V100"
+        stroke="#00E5FF"
+        stroke-width="3"/>
+
+  <path d="M1155 55 H1100 M1155 55 V100"
+        stroke="#00E5FF"
+        stroke-width="3"/>
+
+  <path d="M45 305 H100 M45 305 V260"
+        stroke="#00E5FF"
+        stroke-width="3"/>
+
+  <path d="M1155 305 H1100 M1155 305 V260"
+        stroke="#00E5FF"
+        stroke-width="3"/>
+
+</svg>
