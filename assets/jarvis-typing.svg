@@ -1,0 +1,29 @@
+<svg width="1200" height="100"
+     viewBox="0 0 1200 100"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <filter id="textGlow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="100" fill="transparent"/>
+
+  <text x="600"
+        y="62"
+        text-anchor="middle"
+        fill="#ffffff"
+        font-family="monospace"
+        font-size="42"
+        font-weight="bold"
+        letter-spacing="5"
+        filter="url(#textGlow)">
+    NIKHIL ARYA PRAJAPATI
+  </text>
+
+</svg>
