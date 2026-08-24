@@ -68,14 +68,22 @@
 
   <!-- SYSTEM LABEL -->
   <text x="600" y="65"
-        text-anchor="middle"
-        fill="#00E5FF"
-        font-family="monospace"
-        font-size="17"
-        font-weight="bold"
-        letter-spacing="5">
-    J.A.R.V.I.S. // SYSTEM ONLINE
-  </text>
+      text-anchor="middle"
+      fill="#00E5FF"
+      font-family="monospace"
+      font-size="17"
+      font-weight="bold"
+      letter-spacing="5">
+
+  J.A.R.V.I.S. // SYSTEM ONLINE
+
+  <animate
+    attributeName="opacity"
+    values="0.45;1;0.45"
+    dur="2s"
+    repeatCount="indefinite"/>
+
+</text>
 
   <!-- MAIN NAME -->
   <text x="600" y="155"
@@ -116,6 +124,67 @@
     [ CORE: READY ]  [ ACCESS: GRANTED ]  [ STATUS: ONLINE ]
   </text>
 
+     <!-- SCANNING LINE -->
+
+<rect x="80" y="95"
+      width="1040"
+      height="2"
+      fill="#00E5FF"
+      opacity="0.75">
+
+  <animate
+    attributeName="x"
+    from="80"
+    to="1080"
+    dur="3s"
+    repeatCount="indefinite"/>
+
+</rect>
+
+<!-- HUD SCAN GRID -->
+
+<g opacity="0.12" stroke="#00E5FF" stroke-width="1">
+
+  <line x1="100" y1="110" x2="1100" y2="110"/>
+  <line x1="100" y1="130" x2="1100" y2="130"/>
+  <line x1="100" y1="150" x2="1100" y2="150"/>
+  <line x1="100" y1="170" x2="1100" y2="170"/>
+  <line x1="100" y1="190" x2="1100" y2="190"/>
+  <line x1="100" y1="210" x2="1100" y2="210"/>
+  <line x1="100" y1="230" x2="1100" y2="230"/>
+  <line x1="100" y1="250" x2="1100" y2="250"/>
+
+</g>
+
+     <!-- SYSTEM INDICATORS -->
+
+<text x="260" y="288"
+      text-anchor="middle"
+      fill="#00E5FF"
+      font-family="monospace"
+      font-size="12"
+      letter-spacing="2">
+  ● CORE ACTIVE
+</text>
+
+<text x="600" y="288"
+      text-anchor="middle"
+      fill="#00E5FF"
+      font-family="monospace"
+      font-size="12"
+      letter-spacing="2">
+  ● SECURE
+</text>
+
+<text x="940" y="288"
+      text-anchor="middle"
+      fill="#00E5FF"
+      font-family="monospace"
+      font-size="12"
+      letter-spacing="2">
+  ● ONLINE
+</text>
+     
   <!-- BOTTOM HUD LINE -->
   <line x1="150" y1="300"
         x2="1050" y2="300"
