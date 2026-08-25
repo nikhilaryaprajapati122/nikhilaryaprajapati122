@@ -1,0 +1,31 @@
+<svg width="1200" height="500" viewBox="0 0 1200 500" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#02060d"/><stop offset=".5" stop-color="#071923"/><stop offset="1" stop-color="#010308"/></linearGradient>
+<linearGradient id="c" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#008cff"/><stop offset=".5" stop-color="#00f5ff"/><stop offset="1" stop-color="#008cff"/></linearGradient>
+<filter id="g"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="500" rx="22" fill="url(#bg)"/>
+<rect x="10" y="10" width="1180" height="480" rx="20" fill="none" stroke="url(#c)" stroke-width="2" filter="url(#g)"/>
+<rect x="25" y="25" width="1150" height="450" rx="14" fill="none" stroke="#00dfff" opacity=".2"/>
+<text x="600" y="65" text-anchor="middle" fill="#00efff" font-family="monospace" font-size="25" font-weight="bold" letter-spacing="5">SYSTEM IDENTITY</text>
+<line x1="100" y1="88" x2="1100" y2="88" stroke="#00eaff" opacity=".3"/>
+<rect x="70" y="115" width="650" height="255" rx="14" fill="#06121b" stroke="#00dfff" opacity=".85"/>
+<rect x="750" y="115" width="380" height="255" rx="14" fill="#06121b" stroke="#00dfff" opacity=".85"/>
+<text x="105" y="150" fill="#00efff" font-family="monospace" font-size="14" font-weight="bold">PROFILE</text>
+<text x="105" y="195" fill="#ffffff" font-family="monospace" font-size="28" font-weight="bold">NIKHIL ARYA PRAJAPATI</text>
+<text x="105" y="235" fill="#9cefff" font-family="monospace" font-size="15">COMPUTER SCIENCE • SOFTWARE ENGINEERING</text>
+<text x="105" y="265" fill="#9cefff" font-family="monospace" font-size="15">JAVA • PYTHON • WEB DEVELOPMENT</text>
+<text x="105" y="310" fill="#cceff5" font-family="monospace" font-size="13">LEARN FUNDAMENTALS → BUILD REAL PROJECTS</text>
+<text x="105" y="335" fill="#cceff5" font-family="monospace" font-size="13">PRACTICE → DEBUG → IMPROVE</text>
+<text x="785" y="150" fill="#00efff" font-family="monospace" font-size="14" font-weight="bold">CURRENT MODE</text>
+<g font-family="monospace" font-size="14">
+<text x="785" y="190" fill="#8befff">MODE</text><text x="1010" y="190" fill="#00ffb7">LEARNING</text>
+<text x="785" y="225" fill="#8befff">CORE</text><text x="1010" y="225" fill="#00ffb7">JAVA</text>
+<text x="785" y="260" fill="#8befff">SECONDARY</text><text x="1010" y="260" fill="#00ffb7">PYTHON</text>
+<text x="785" y="295" fill="#8befff">INTERFACE</text><text x="1010" y="295" fill="#00ffb7">WEB</text>
+<text x="785" y="330" fill="#8befff">STATUS</text><text x="1010" y="330" fill="#00ffb7">ACTIVE</text>
+</g>
+<line x1="100" y1="400" x2="1100" y2="400" stroke="#00eaff" opacity=".28"/>
+<text x="600" y="435" text-anchor="middle" fill="#00efff" font-family="monospace" font-size="15" letter-spacing="3">UNDERSTAND → PRACTICE → BUILD → DEBUG → IMPROVE</text>
+<text x="600" y="460" text-anchor="middle" fill="#66ddeb" font-family="monospace" font-size="11" letter-spacing="3">J.A.R.V.I.S. // IDENTITY CHANNEL // ACTIVE</text>
+</svg>
