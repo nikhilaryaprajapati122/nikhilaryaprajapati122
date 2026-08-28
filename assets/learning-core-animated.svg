@@ -1,0 +1,501 @@
+<svg width="1200" height="620" viewBox="0 0 1200 620"
+     xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+
+  <!-- Background -->
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#02060d"/>
+    <stop offset="50%" stop-color="#071923"/>
+    <stop offset="100%" stop-color="#010308"/>
+  </linearGradient>
+
+  <!-- Neon -->
+  <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#008cff"/>
+    <stop offset="50%" stop-color="#00f5ff"/>
+    <stop offset="100%" stop-color="#008cff"/>
+  </linearGradient>
+
+  <!-- Module glow -->
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="4" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+
+  <!-- Grid -->
+  <pattern id="grid"
+           width="40"
+           height="40"
+           patternUnits="userSpaceOnUse">
+
+    <path d="M40 0H0V40"
+          fill="none"
+          stroke="#00dfff"
+          stroke-width="1"
+          opacity="0.08"/>
+
+  </pattern>
+
+</defs>
+
+
+<!-- ================================================= -->
+<!-- BACKGROUND -->
+<!-- ================================================= -->
+
+<rect width="1200"
+      height="620"
+      rx="24"
+      fill="url(#bg)"/>
+
+<rect x="28"
+      y="28"
+      width="1144"
+      height="564"
+      rx="18"
+      fill="url(#grid)"/>
+
+
+<!-- ================================================= -->
+<!-- OUTER FRAME -->
+<!-- ================================================= -->
+
+<rect x="12"
+      y="12"
+      width="1176"
+      height="596"
+      rx="22"
+      fill="none"
+      stroke="#00eaff"
+      stroke-width="3"
+      opacity="0.35"
+      filter="url(#glow)">
+
+  <animate
+    attributeName="opacity"
+    values="0.2;0.8;0.2"
+    dur="3s"
+    repeatCount="indefinite"/>
+
+</rect>
+
+<rect x="12"
+      y="12"
+      width="1176"
+      height="596"
+      rx="22"
+      fill="none"
+      stroke="url(#neon)"
+      stroke-width="2"/>
+
+
+<!-- ================================================= -->
+<!-- HEADER -->
+<!-- ================================================= -->
+
+<text x="600"
+      y="70"
+      text-anchor="middle"
+      fill="#00efff"
+      font-family="monospace"
+      font-size="28"
+      font-weight="bold"
+      letter-spacing="5"
+      filter="url(#glow)">
+
+  LEARNING CORE
+
+  <animate
+    attributeName="opacity"
+    values="0.55;1;0.55"
+    dur="2.3s"
+    repeatCount="indefinite"/>
+
+</text>
+
+
+<text x="600"
+      y="96"
+      text-anchor="middle"
+      fill="#66ddeb"
+      font-family="monospace"
+      font-size="11"
+      letter-spacing="4">
+
+  J.A.R.V.I.S. // KNOWLEDGE MATRIX
+
+</text>
+
+
+<line x1="80"
+      y1="115"
+      x2="1120"
+      y2="115"
+      stroke="#00eaff"
+      opacity="0.35"/>
+
+
+<!-- ================================================= -->
+<!-- MOVING SCAN BEAM -->
+<!-- ================================================= -->
+
+<rect x="75"
+      y="125"
+      width="1050"
+      height="3"
+      fill="#00f5ff"
+      opacity="0.65"
+      filter="url(#glow)">
+
+  <animate
+    attributeName="y"
+    values="125;540;125"
+    dur="6s"
+    repeatCount="indefinite"/>
+
+</rect>
+
+
+<!-- ================================================= -->
+<!-- JAVA MODULE -->
+<!-- ================================================= -->
+
+<rect x="65"
+      y="140"
+      width="520"
+      height="105"
+      rx="15"
+      fill="#06121b"
+      fill-opacity="0.92"
+      stroke="#00dfff"
+      stroke-width="1.5"/>
+
+
+<circle cx="95"
+        cy="170"
+        r="7"
+        fill="#00ffb7"
+        filter="url(#glow)">
+
+  <animate
+    attributeName="opacity"
+    values="0.2;1;0.2"
+    dur="1.4s"
+    repeatCount="indefinite"/>
+
+</circle>
+
+
+<text x="115"
+      y="176"
+      fill="#00efff"
+      font-family="monospace"
+      font-size="18"
+      font-weight="bold">
+
+  JAVA
+
+</text>
+
+
+<text x="95"
+      y="207"
+      fill="#cceff5"
+      font-family="monospace"
+      font-size="13">
+
+  CORE JAVA → OOP → ADVANCED JAVA
+
+</text>
+
+
+<!-- ================================================= -->
+<!-- PYTHON MODULE -->
+<!-- ================================================= -->
+
+<rect x="615"
+      y="140"
+      width="520"
+      height="105"
+      rx="15"
+      fill="#06121b"
+      fill-opacity="0.92"
+      stroke="#00dfff"
+      stroke-width="1.5"/>
+
+
+<circle cx="645"
+        cy="170"
+        r="7"
+        fill="#00ffb7"
+        filter="url(#glow)">
+
+  <animate
+    attributeName="opacity"
+    values="0.2;1;0.2"
+    dur="1.7s"
+    repeatCount="indefinite"/>
+
+</circle>
+
+
+<text x="665"
+      y="176"
+      fill="#00efff"
+      font-family="monospace"
+      font-size="18"
+      font-weight="bold">
+
+  PYTHON
+
+</text>
+
+
+<text x="645"
+      y="207"
+      fill="#cceff5"
+      font-family="monospace"
+      font-size="13">
+
+  PROGRAMMING → DATA HANDLING → AUTOMATION
+
+</text>
+
+
+<!-- ================================================= -->
+<!-- WEB MODULE -->
+<!-- ================================================= -->
+
+<rect x="65"
+      y="265"
+      width="520"
+      height="105"
+      rx="15"
+      fill="#06121b"
+      fill-opacity="0.92"
+      stroke="#00dfff"
+      stroke-width="1.5"/>
+
+
+<circle cx="95"
+        cy="295"
+        r="7"
+        fill="#00ffb7"
+        filter="url(#glow)">
+
+  <animate
+    attributeName="opacity"
+    values="0.2;1;0.2"
+    dur="1.5s"
+    repeatCount="indefinite"/>
+
+</circle>
+
+
+<text x="115"
+      y="301"
+      fill="#00efff"
+      font-family="monospace"
+      font-size="18"
+      font-weight="bold">
+
+  WEB
+
+</text>
+
+
+<text x="95"
+      y="332"
+      fill="#cceff5"
+      font-family="monospace"
+      font-size="13">
+
+  HTML → CSS → JAVASCRIPT
+
+</text>
+
+
+<!-- ================================================= -->
+<!-- COMPUTER SCIENCE MODULE -->
+<!-- ================================================= -->
+
+<rect x="615"
+      y="265"
+      width="520"
+      height="105"
+      rx="15"
+      fill="#06121b"
+      fill-opacity="0.92"
+      stroke="#00dfff"
+      stroke-width="1.5"/>
+
+
+<circle cx="645"
+        cy="295"
+        r="7"
+        fill="#00ffb7"
+        filter="url(#glow)">
+
+  <animate
+    attributeName="opacity"
+    values="0.2;1;0.2"
+    dur="1.8s"
+    repeatCount="indefinite"/>
+
+</circle>
+
+
+<text x="665"
+      y="301"
+      fill="#00efff"
+      font-family="monospace"
+      font-size="18"
+      font-weight="bold">
+
+  COMPUTER SCIENCE
+
+</text>
+
+
+<text x="645"
+      y="332"
+      fill="#cceff5"
+      font-family="monospace"
+      font-size="13">
+
+  DSA → ALGORITHMS → SOFTWARE ENGINEERING
+
+</text>
+
+
+<!-- ================================================= -->
+<!-- GIT MODULE -->
+<!-- ================================================= -->
+
+<rect x="65"
+      y="390"
+      width="1070"
+      height="105"
+      rx="15"
+      fill="#06121b"
+      fill-opacity="0.92"
+      stroke="#00dfff"
+      stroke-width="1.5"/>
+
+
+<circle cx="95"
+        cy="420"
+        r="7"
+        fill="#00ffb7"
+        filter="url(#glow)">
+
+  <animate
+    attributeName="opacity"
+    values="0.2;1;0.2"
+    dur="1.6s"
+    repeatCount="indefinite"/>
+
+</circle>
+
+
+<text x="115"
+      y="426"
+      fill="#00efff"
+      font-family="monospace"
+      font-size="18"
+      font-weight="bold">
+
+  GIT / GITHUB
+
+</text>
+
+
+<text x="95"
+      y="458"
+      fill="#cceff5"
+      font-family="monospace"
+      font-size="13">
+
+  GIT → GITHUB → PROJECTS
+
+</text>
+
+
+<text x="1090"
+      y="458"
+      text-anchor="end"
+      fill="#00ffb7"
+      font-family="monospace"
+      font-size="12">
+
+  VERSION CONTROL ACTIVE
+
+</text>
+
+
+<!-- ================================================= -->
+<!-- KNOWLEDGE FLOW -->
+<!-- ================================================= -->
+
+<text x="600"
+      y="535"
+      text-anchor="middle"
+      fill="#00efff"
+      font-family="monospace"
+      font-size="13"
+      letter-spacing="4">
+
+  LEARN → PRACTICE → APPLY → BUILD
+
+</text>
+
+
+<!-- ================================================= -->
+<!-- FOOTER -->
+<!-- ================================================= -->
+
+<text x="600"
+      y="570"
+      text-anchor="middle"
+      fill="#66ddeb"
+      font-family="monospace"
+      font-size="11"
+      letter-spacing="3">
+
+  J.A.R.V.I.S. // KNOWLEDGE MATRIX // ACTIVE
+
+</text>
+
+
+<!-- ================================================= -->
+<!-- BOTTOM SCANNER -->
+<!-- ================================================= -->
+
+<rect x="65"
+      y="590"
+      width="1070"
+      height="2"
+      fill="#00eaff"
+      opacity="0.2"/>
+
+
+<rect x="65"
+      y="590"
+      width="180"
+      height="2"
+      fill="#00f5ff"
+      filter="url(#glow)">
+
+  <animate
+    attributeName="x"
+    values="65;955;65"
+    dur="3.8s"
+    repeatCount="indefinite"/>
+
+</rect>
+
+</svg>
