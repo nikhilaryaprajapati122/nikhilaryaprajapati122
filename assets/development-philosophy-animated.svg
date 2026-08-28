@@ -1,0 +1,513 @@
+<svg width="1200" height="520" viewBox="0 0 1200 520"
+     xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+
+  <!-- Background -->
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#02060d"/>
+    <stop offset="50%" stop-color="#071923"/>
+    <stop offset="100%" stop-color="#010308"/>
+  </linearGradient>
+
+  <!-- Neon gradient -->
+  <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#008cff"/>
+    <stop offset="50%" stop-color="#00f5ff"/>
+    <stop offset="100%" stop-color="#008cff"/>
+  </linearGradient>
+
+  <!-- Glow -->
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="4" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+
+  <!-- Grid -->
+  <pattern id="grid"
+           width="40"
+           height="40"
+           patternUnits="userSpaceOnUse">
+
+    <path d="M40 0H0V40"
+          fill="none"
+          stroke="#00dfff"
+          stroke-width="1"
+          opacity="0.08"/>
+
+  </pattern>
+
+</defs>
+
+
+<!-- ================================================= -->
+<!-- BACKGROUND -->
+<!-- ================================================= -->
+
+<rect width="1200"
+      height="520"
+      rx="24"
+      fill="url(#bg)"/>
+
+<rect x="28"
+      y="28"
+      width="1144"
+      height="464"
+      rx="18"
+      fill="url(#grid)"/>
+
+
+<!-- ================================================= -->
+<!-- OUTER NEON FRAME -->
+<!-- ================================================= -->
+
+<rect x="12"
+      y="12"
+      width="1176"
+      height="496"
+      rx="22"
+      fill="none"
+      stroke="#00eaff"
+      stroke-width="3"
+      opacity="0.35"
+      filter="url(#glow)">
+
+  <animate
+    attributeName="opacity"
+    values="0.2;0.8;0.2"
+    dur="3s"
+    repeatCount="indefinite"/>
+
+</rect>
+
+
+<rect x="12"
+      y="12"
+      width="1176"
+      height="496"
+      rx="22"
+      fill="none"
+      stroke="url(#neon)"
+      stroke-width="2"/>
+
+
+<!-- ================================================= -->
+<!-- HEADER -->
+<!-- ================================================= -->
+
+<text x="600"
+      y="68"
+      text-anchor="middle"
+      fill="#00efff"
+      font-family="monospace"
+      font-size="28"
+      font-weight="bold"
+      letter-spacing="5"
+      filter="url(#glow)">
+
+  DEVELOPMENT PHILOSOPHY
+
+  <animate
+    attributeName="opacity"
+    values="0.55;1;0.55"
+    dur="2.3s"
+    repeatCount="indefinite"/>
+
+</text>
+
+
+<text x="600"
+      y="95"
+      text-anchor="middle"
+      fill="#66ddeb"
+      font-family="monospace"
+      font-size="11"
+      letter-spacing="4">
+
+  J.A.R.V.I.S. // DEVELOPMENT PROTOCOL
+
+</text>
+
+
+<line x1="90"
+      y1="115"
+      x2="1110"
+      y2="115"
+      stroke="#00eaff"
+      opacity="0.35"/>
+
+
+<!-- ================================================= -->
+<!-- MOVING SCAN BEAM -->
+<!-- ================================================= -->
+
+<rect x="75"
+      y="125"
+      width="1050"
+      height="3"
+      fill="#00f5ff"
+      opacity="0.65"
+      filter="url(#glow)">
+
+  <animate
+    attributeName="y"
+    values="125;420;125"
+    dur="5.5s"
+    repeatCount="indefinite"/>
+
+</rect>
+
+
+<!-- ================================================= -->
+<!-- CONNECTION LINE -->
+<!-- ================================================= -->
+
+<line x1="170"
+      y1="270"
+      x2="1030"
+      y2="270"
+      stroke="#008cff"
+      stroke-width="3"
+      opacity="0.35"/>
+
+
+<!-- Animated energy traveling through the pipeline -->
+
+<circle cx="170"
+        cy="270"
+        r="5"
+        fill="#00f5ff"
+        filter="url(#glow)">
+
+  <animate
+    attributeName="cx"
+    values="170;1030;170"
+    dur="5s"
+    repeatCount="indefinite"/>
+
+</circle>
+
+
+<!-- ================================================= -->
+<!-- NODE 1 -->
+<!-- ================================================= -->
+
+<circle cx="170"
+        cy="270"
+        r="42"
+        fill="#06121b"
+        stroke="#00dfff"
+        stroke-width="2"
+        filter="url(#glow)">
+
+  <animate
+    attributeName="r"
+    values="40;44;40"
+    dur="2s"
+    repeatCount="indefinite"/>
+
+</circle>
+
+
+<circle cx="170"
+        cy="270"
+        r="10"
+        fill="#00ffb7">
+
+  <animate
+    attributeName="opacity"
+    values="0.3;1;0.3"
+    dur="1.2s"
+    repeatCount="indefinite"/>
+
+</circle>
+
+
+<text x="170"
+      y="345"
+      text-anchor="middle"
+      fill="#00efff"
+      font-family="monospace"
+      font-size="15"
+      font-weight="bold">
+
+  UNDERSTAND
+
+</text>
+
+
+<!-- ================================================= -->
+<!-- NODE 2 -->
+<!-- ================================================= -->
+
+<circle cx="385"
+        cy="270"
+        r="42"
+        fill="#06121b"
+        stroke="#00dfff"
+        stroke-width="2"
+        filter="url(#glow)">
+
+  <animate
+    attributeName="r"
+    values="40;44;40"
+    dur="2s"
+    begin=".3s"
+    repeatCount="indefinite"/>
+
+</circle>
+
+
+<circle cx="385"
+        cy="270"
+        r="10"
+        fill="#00ffb7">
+
+  <animate
+    attributeName="opacity"
+    values="0.3;1;0.3"
+    dur="1.3s"
+    repeatCount="indefinite"/>
+
+</circle>
+
+
+<text x="385"
+      y="345"
+      text-anchor="middle"
+      fill="#00efff"
+      font-family="monospace"
+      font-size="15"
+      font-weight="bold">
+
+  PRACTICE
+
+</text>
+
+
+<!-- ================================================= -->
+<!-- NODE 3 -->
+<!-- ================================================= -->
+
+<circle cx="600"
+        cy="270"
+        r="42"
+        fill="#06121b"
+        stroke="#00dfff"
+        stroke-width="2"
+        filter="url(#glow)">
+
+  <animate
+    attributeName="r"
+    values="40;44;40"
+    dur="2s"
+    begin=".6s"
+    repeatCount="indefinite"/>
+
+</circle>
+
+
+<circle cx="600"
+        cy="270"
+        r="10"
+        fill="#00ffb7">
+
+  <animate
+    attributeName="opacity"
+    values="0.3;1;0.3"
+    dur="1.4s"
+    repeatCount="indefinite"/>
+
+</circle>
+
+
+<text x="600"
+      y="345"
+      text-anchor="middle"
+      fill="#00efff"
+      font-family="monospace"
+      font-size="15"
+      font-weight="bold">
+
+  BUILD
+
+</text>
+
+
+<!-- ================================================= -->
+<!-- NODE 4 -->
+<!-- ================================================= -->
+
+<circle cx="815"
+        cy="270"
+        r="42"
+        fill="#06121b"
+        stroke="#00dfff"
+        stroke-width="2"
+        filter="url(#glow)">
+
+  <animate
+    attributeName="r"
+    values="40;44;40"
+    dur="2s"
+    begin=".9s"
+    repeatCount="indefinite"/>
+
+</circle>
+
+
+<circle cx="815"
+        cy="270"
+        r="10"
+        fill="#00ffb7">
+
+  <animate
+    attributeName="opacity"
+    values="0.3;1;0.3"
+    dur="1.5s"
+    repeatCount="indefinite"/>
+
+</circle>
+
+
+<text x="815"
+      y="345"
+      text-anchor="middle"
+      fill="#00efff"
+      font-family="monospace"
+      font-size="15"
+      font-weight="bold">
+
+  DEBUG
+
+</text>
+
+
+<!-- ================================================= -->
+<!-- NODE 5 -->
+<!-- ================================================= -->
+
+<circle cx="1030"
+        cy="270"
+        r="42"
+        fill="#06121b"
+        stroke="#00dfff"
+        stroke-width="2"
+        filter="url(#glow)">
+
+  <animate
+    attributeName="r"
+    values="40;44;40"
+    dur="2s"
+    begin="1.2s"
+    repeatCount="indefinite"/>
+
+</circle>
+
+
+<circle cx="1030"
+        cy="270"
+        r="10"
+        fill="#00ffb7">
+
+  <animate
+    attributeName="opacity"
+    values="0.3;1;0.3"
+    dur="1.6s"
+    repeatCount="indefinite"/>
+
+</circle>
+
+
+<text x="1030"
+      y="345"
+      text-anchor="middle"
+      fill="#00efff"
+      font-family="monospace"
+      font-size="15"
+      font-weight="bold">
+
+  IMPROVE
+
+</text>
+
+
+<!-- ================================================= -->
+<!-- FLOW LABEL -->
+<!-- ================================================= -->
+
+<text x="600"
+      y="395"
+      text-anchor="middle"
+      fill="#cceff5"
+      font-family="monospace"
+      font-size="12"
+      letter-spacing="4">
+
+  CONTINUOUS DEVELOPMENT LOOP
+
+</text>
+
+
+<!-- ================================================= -->
+<!-- STATUS -->
+<!-- ================================================= -->
+
+<circle cx="470"
+        cy="445"
+        r="5"
+        fill="#00ffb7"
+        filter="url(#glow)">
+
+  <animate
+    attributeName="opacity"
+    values="0.2;1;0.2"
+    dur="1.4s"
+    repeatCount="indefinite"/>
+
+</circle>
+
+
+<text x="490"
+      y="450"
+      fill="#00ffb7"
+      font-family="monospace"
+      font-size="12"
+      letter-spacing="2">
+
+  PROTOCOL ACTIVE
+
+</text>
+
+
+<!-- ================================================= -->
+<!-- BOTTOM SCANNER -->
+<!-- ================================================= -->
+
+<rect x="65"
+      y="482"
+      width="1070"
+      height="2"
+      fill="#00eaff"
+      opacity="0.2"/>
+
+
+<rect x="65"
+      y="482"
+      width="180"
+      height="2"
+      fill="#00f5ff"
+      filter="url(#glow)">
+
+  <animate
+    attributeName="x"
+    values="65;955;65"
+    dur="3.8s"
+    repeatCount="indefinite"/>
+
+</rect>
+
+</svg>
