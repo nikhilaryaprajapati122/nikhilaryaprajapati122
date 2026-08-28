@@ -1,0 +1,461 @@
+<svg width="1200" height="680" viewBox="0 0 1200 680"
+     xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+
+  <!-- JARVIS background -->
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#02060d"/>
+    <stop offset="50%" stop-color="#071923"/>
+    <stop offset="100%" stop-color="#010308"/>
+  </linearGradient>
+
+  <!-- Neon gradient -->
+  <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#008cff"/>
+    <stop offset="50%" stop-color="#00f5ff"/>
+    <stop offset="100%" stop-color="#008cff"/>
+  </linearGradient>
+
+  <!-- Glow -->
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="4" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+
+  <!-- HUD Grid -->
+  <pattern id="grid"
+           width="40"
+           height="40"
+           patternUnits="userSpaceOnUse">
+
+    <path d="M40 0H0V40"
+          fill="none"
+          stroke="#00dfff"
+          stroke-width="1"
+          opacity="0.08"/>
+
+  </pattern>
+
+</defs>
+
+
+<!-- ================================================= -->
+<!-- BACKGROUND -->
+<!-- ================================================= -->
+
+<rect width="1200"
+      height="680"
+      rx="24"
+      fill="url(#bg)"/>
+
+<rect x="28"
+      y="28"
+      width="1144"
+      height="624"
+      rx="18"
+      fill="url(#grid)"/>
+
+
+<!-- ================================================= -->
+<!-- OUTER NEON FRAME -->
+<!-- ================================================= -->
+
+<rect x="12"
+      y="12"
+      width="1176"
+      height="656"
+      rx="22"
+      fill="none"
+      stroke="#00eaff"
+      stroke-width="3"
+      opacity="0.35"
+      filter="url(#glow)">
+
+  <animate
+    attributeName="opacity"
+    values="0.2;0.8;0.2"
+    dur="3s"
+    repeatCount="indefinite"/>
+
+</rect>
+
+
+<rect x="12"
+      y="12"
+      width="1176"
+      height="656"
+      rx="22"
+      fill="none"
+      stroke="url(#cyan)"
+      stroke-width="2"/>
+
+
+<!-- ================================================= -->
+<!-- TITLE -->
+<!-- ================================================= -->
+
+<text x="600"
+      y="70"
+      text-anchor="middle"
+      fill="#00efff"
+      font-family="monospace"
+      font-size="28"
+      font-weight="bold"
+      letter-spacing="5"
+      filter="url(#glow)">
+
+  TECH ARSENAL
+
+  <animate
+    attributeName="opacity"
+    values="0.55;1;0.55"
+    dur="2.4s"
+    repeatCount="indefinite"/>
+
+</text>
+
+
+<line x1="90"
+      y1="98"
+      x2="1110"
+      y2="98"
+      stroke="#00eaff"
+      opacity="0.35"/>
+
+
+<!-- ================================================= -->
+<!-- MOVING SCAN BEAM -->
+<!-- ================================================= -->
+
+<rect x="70"
+      y="108"
+      width="1060"
+      height="3"
+      fill="#00f5ff"
+      opacity="0.7"
+      filter="url(#glow)">
+
+  <animate
+    attributeName="y"
+    values="108;570;108"
+    dur="6s"
+    repeatCount="indefinite"/>
+
+</rect>
+
+
+<!-- ================================================= -->
+<!-- PROGRAMMING CORE -->
+<!-- ================================================= -->
+
+<rect x="65"
+      y="125"
+      width="525"
+      height="275"
+      rx="15"
+      fill="#06121b"
+      fill-opacity="0.92"
+      stroke="#00dfff"
+      stroke-width="1.5"/>
+
+
+<text x="95"
+      y="160"
+      fill="#00efff"
+      font-family="monospace"
+      font-size="15"
+      font-weight="bold">
+
+  PROGRAMMING CORE
+
+  <animate
+    attributeName="opacity"
+    values="0.55;1;0.55"
+    dur="2.5s"
+    repeatCount="indefinite"/>
+
+</text>
+
+
+<g font-family="monospace"
+   font-size="14">
+
+  <text x="95" y="198" fill="#e8fbff">
+    JAVA
+  </text>
+
+  <text x="250" y="198" fill="#8befff">
+    CORE • OOP • PROBLEM SOLVING
+  </text>
+
+
+  <text x="95" y="235" fill="#e8fbff">
+    PYTHON
+  </text>
+
+  <text x="250" y="235" fill="#8befff">
+    PROGRAMMING • AUTOMATION
+  </text>
+
+
+  <text x="95" y="272" fill="#e8fbff">
+    HTML
+  </text>
+
+  <text x="250" y="272" fill="#8befff">
+    STRUCTURE • SEMANTIC WEB
+  </text>
+
+
+  <text x="95" y="309" fill="#e8fbff">
+    CSS
+  </text>
+
+  <text x="250" y="309" fill="#8befff">
+    LAYOUT • RESPONSIVE UI
+  </text>
+
+
+  <text x="95" y="346" fill="#e8fbff">
+    JAVASCRIPT
+  </text>
+
+  <text x="250" y="346" fill="#8befff">
+    INTERACTION • WEB LOGIC
+  </text>
+
+</g>
+
+
+<!-- ================================================= -->
+<!-- COMPUTER SCIENCE CORE -->
+<!-- ================================================= -->
+
+<rect x="610"
+      y="125"
+      width="525"
+      height="275"
+      rx="15"
+      fill="#06121b"
+      fill-opacity="0.92"
+      stroke="#00dfff"
+      stroke-width="1.5"/>
+
+
+<text x="640"
+      y="160"
+      fill="#00efff"
+      font-family="monospace"
+      font-size="15"
+      font-weight="bold">
+
+  COMPUTER SCIENCE CORE
+
+</text>
+
+
+<g font-family="monospace"
+   font-size="14">
+
+  <text x="640" y="198" fill="#e8fbff">
+    DSA
+  </text>
+
+  <text x="790" y="198" fill="#8befff">
+    ALGORITHMS • DATA STRUCTURES
+  </text>
+
+
+  <text x="640" y="235" fill="#e8fbff">
+    SOFTWARE ENG.
+  </text>
+
+  <text x="790" y="235" fill="#8befff">
+    SDLC • DEVELOPMENT MODELS
+  </text>
+
+
+  <text x="640" y="272" fill="#e8fbff">
+    LINUX
+  </text>
+
+  <text x="790" y="272" fill="#8befff">
+    CLI • SYSTEM BASICS
+  </text>
+
+
+  <text x="640" y="309" fill="#e8fbff">
+    GIT / GITHUB
+  </text>
+
+  <text x="790" y="309" fill="#8befff">
+    VERSION CONTROL
+  </text>
+
+
+  <!-- STATUS -->
+
+  <circle cx="655"
+          cy="347"
+          r="5"
+          fill="#00ffb7">
+
+    <animate
+      attributeName="opacity"
+      values="0.15;1;0.15"
+      dur="1.3s"
+      repeatCount="indefinite"/>
+
+  </circle>
+
+
+  <text x="675"
+        y="352"
+        fill="#00ffb7">
+
+    STATUS: BUILDING • PRACTICING
+
+  </text>
+
+</g>
+
+
+<!-- ================================================= -->
+<!-- DEVELOPMENT ENVIRONMENT -->
+<!-- ================================================= -->
+
+<rect x="65"
+      y="425"
+      width="1070"
+      height="100"
+      rx="15"
+      fill="#06121b"
+      fill-opacity="0.92"
+      stroke="#00dfff"
+      stroke-width="1.5"/>
+
+
+<text x="95"
+      y="458"
+      fill="#00efff"
+      font-family="monospace"
+      font-size="15"
+      font-weight="bold">
+
+  DEVELOPMENT ENVIRONMENT
+
+</text>
+
+
+<text x="95"
+      y="488"
+      fill="#cceff5"
+      font-family="monospace"
+      font-size="13">
+
+  VS CODE • JDK • PYTHON 3 • LINUX / KALI LINUX • GIT + GITHUB
+
+</text>
+
+
+<text x="95"
+      y="510"
+      fill="#cceff5"
+      font-family="monospace"
+      font-size="13">
+
+  HTML + CSS + JAVASCRIPT • BROWSER DEVTOOLS
+
+</text>
+
+
+<!-- ================================================= -->
+<!-- DEVELOPMENT PIPELINE -->
+<!-- ================================================= -->
+
+<text x="600"
+      y="565"
+      text-anchor="middle"
+      fill="#00efff"
+      font-family="monospace"
+      font-size="14"
+      letter-spacing="4">
+
+  IDE → WRITE → RUN → TEST → DEBUG → COMMIT → GITHUB
+
+</text>
+
+
+<!-- ================================================= -->
+<!-- BOTTOM ANIMATED TEXT -->
+<!-- ================================================= -->
+
+<text x="600"
+      y="602"
+      text-anchor="middle"
+      fill="#00ffb7"
+      font-family="monospace"
+      font-size="15"
+      letter-spacing="4"
+      filter="url(#glow)">
+
+  BUILD • DEBUG • LEARN • REPEAT
+
+  <animate
+    attributeName="opacity"
+    values="0.45;1;0.45"
+    dur="2s"
+    repeatCount="indefinite"/>
+
+</text>
+
+
+<!-- ================================================= -->
+<!-- JARVIS CHANNEL -->
+<!-- ================================================= -->
+
+<text x="600"
+      y="630"
+      text-anchor="middle"
+      fill="#66ddeb"
+      font-family="monospace"
+      font-size="11"
+      letter-spacing="3">
+
+  J.A.R.V.I.S. // ARSENAL CHANNEL // ACTIVE
+
+</text>
+
+
+<!-- ================================================= -->
+<!-- BOTTOM SCANNER -->
+<!-- ================================================= -->
+
+<rect x="65"
+      y="648"
+      width="1070"
+      height="2"
+      fill="#00eaff"
+      opacity="0.2"/>
+
+
+<rect x="65"
+      y="648"
+      width="180"
+      height="2"
+      fill="#00f5ff"
+      filter="url(#glow)">
+
+  <animate
+    attributeName="x"
+    values="65;955;65"
+    dur="3.8s"
+    repeatCount="indefinite"/>
+
+</rect>
+
+</svg>
