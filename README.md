@@ -7,8 +7,6 @@
 
 ---
 
----
-
 <div align="center">
 
 <img src="./assets/system-status.svg" width="100%">
@@ -16,32 +14,29 @@
 </div>
 
 ---
-🧠 SYSTEM IDENTITY
----
 
-<div align="center">
- 
 <div align="center">
 
 <img src="./assets/syystem-identity-animated.svg" width="100%">
 
 </div>
 
-<div >
+---
 
----
-⚡ TECH ARSENAL
----
 <div align="center">
 
 <img src="./assets/tech-arsenal-animated.svg" width="100%">
 
 </div>
 
-</div> 
-
 ---
-📡 CURRENT LEARNING STATUS
+
+<div align="center">
+
+<img src="./assets/project-command-center-animated.svg" width="100%">
+
+</div>
+
 ---
 
 <div align="center">
@@ -51,18 +46,12 @@
 </div>
 
 ---
-🎯 CURRENT MISSION
----
 
 <div align="center">
 
 <img src="./assets/current-mission-animated.svg" width="100%">
 
 </div>
-
----
-
-### 🧩 LEARNING CORE
 
 ---
 
@@ -74,19 +63,11 @@
 
 ---
 
-### ⚙️ DEVELOPMENT PHILOSOPHY
-
----
-
 <div align="center">
 
 <img src="./assets/development-philosophy-animated.svg" width="100%">
 
 </div>
-
----
-
-### 🛠️ DEVELOPMENT PRINCIPLES
 
 ---
 
