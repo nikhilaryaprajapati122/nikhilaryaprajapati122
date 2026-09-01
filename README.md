@@ -33,7 +33,31 @@
 
 <div align="center">
 
+<img src="./assets/connect-command-links-animated.svg" width="100%">
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="./assets/github-activity-core-animated.svg" width="100%">
+
+</div>
+
+---
+
+<div align="center">
+
 <img src="./assets/project-command-center-animated.svg" width="100%">
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="./assets/achievement-system-log-animated.svg" width="100%">
 
 </div>
 
