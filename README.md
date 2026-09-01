@@ -73,6 +73,18 @@
 
 <div align="center">
 
+</div>
+
+<div align="center">
+
+<img src="./assets/ontribution-activity-matrix-animated.svg" width="100%">
+
+</div>
+
+---
+
+<div align="center">
+
 <img src="./assets/current-mission-animated.svg" width="100%">
 
 </div>
