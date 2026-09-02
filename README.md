@@ -38,6 +38,27 @@
 </div>
 
 ---
+<div align="center">
+
+<a href="https://github.com/nikhilaryaprajapati122">
+  <img src="https://img.shields.io/badge/GITHUB-OPEN_PROFILE-00eaff?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/nikhil-arya-prajapati-45a154433/">
+  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00eaff?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://nikhilaryaprajapati122.github.io/nexus-futuristic-portfolio/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-OPEN_SITE-00eaff?style=for-the-badge&logo=google-chrome&logoColor=white">
+</a>
+
+<a href="mailto:nikhilaryaprajapati122@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-CONTACT-00eaff?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</div>
+
+---
 
 <div align="center">
 
