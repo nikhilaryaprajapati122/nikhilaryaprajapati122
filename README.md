@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00eaff?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="https://nikhilaryaprajapati122.github.io/nexus-futuristic-portfolio/">
+<a href="https"//github.com/nikhilaryaprajapati122/Portfoliyo/tree/main/MyPortfoliyo/">
   <img src="https://img.shields.io/badge/PORTFOLIO-OPEN_SITE-00eaff?style=for-the-badge&logo=google-chrome&logoColor=white">
 </a>
 
